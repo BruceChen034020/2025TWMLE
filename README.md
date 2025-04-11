@@ -61,5 +61,20 @@
 #### 術中維持與併發症處理 (First Choice)
 9. Malignant hyperthermia: Diagnosis and management of acute crisis (UpToDate)
 ### 眼科 (猜題來源: 考古題)
+#### 視網膜、葡萄膜病變
+10. Examination of the eye (Amboss)
+11. a
+#### 角膜、鞏膜病變
+12. a
+13. a
+#### 水晶體病變、青光眼
+14. a
+#### 眼屈光學、斜視、弱視
+15. a
+16. a
+#### 眼瞼、結膜、眼窩病變及其他眼科疾病
+17. 
+18. a
+19. 
 ### 耳鼻喉科
 ### 婦產科
