@@ -7,7 +7,10 @@
 #### 腎臟科
 #### 過敏免疫風濕科
 #### 腫瘤科
-#### 血液科
+#### 血液科 (猜題來源: 臨床)
+42. WBC Special stain (cytochemistry) and surface markers
+43. Important chromosome changes in hematological malignancies
+44. Acute leukemia (Amboss)
 #### 胸腔內科
 #### 新陳代些科
 #### 感染科
@@ -28,7 +31,7 @@
 #### 內分泌外科
 #### 乳房外科
 ## 醫學(六)
-### 麻醉科 (猜題來源：考古題)
+### 麻醉科 (猜題來源: 考古題)
 #### 呼吸道之維持
 1.	Airway management for general anesthesia in adults (UpToDate)
 #### 麻醉監視器之運用及判讀
