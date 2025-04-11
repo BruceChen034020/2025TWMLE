@@ -3,7 +3,7 @@
 ## 醫學(四)
 ## 醫學(五)
 ## 醫學(六)
-### 麻醉科
+### 麻醉科 (猜題來源：考古題)
 #### 呼吸道之維持
 1.	Airway management for general anesthesia in adults (UpToDate)
 #### 麻醉監視器之運用及判讀
@@ -17,3 +17,5 @@
 7.	Regional anesthesia (Amboss)
 #### 急慢性疼痛之處理
 8. Overview of pharmacologic management of chronic pain in adults (UpToDate)
+#### 術中維持與併發症處理 (First Choice)
+9. Malignant hyperthermia: Diagnosis and management of acute crisis (UpToDate)
