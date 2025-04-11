@@ -14,7 +14,19 @@
 ### 家庭醫學科
 ### 法令、臨床實例與醫學倫理
 ## 醫學(四)
+### 小兒科
+### 皮膚科
+### 神經科
 ## 醫學(五)
+### 外科
+#### 外科概論
+#### 神經外科
+#### 重建整形外科
+#### 心臟血管外科
+#### 胸腔外科
+#### 消化器外科
+#### 內分泌外科
+#### 乳房外科
 ## 醫學(六)
 ### 麻醉科 (猜題來源：考古題)
 #### 呼吸道之維持
@@ -32,3 +44,6 @@
 8. Overview of pharmacologic management of chronic pain in adults (UpToDate)
 #### 術中維持與併發症處理 (First Choice)
 9. Malignant hyperthermia: Diagnosis and management of acute crisis (UpToDate)
+### 眼科
+### 耳鼻喉科
+### 婦產科
