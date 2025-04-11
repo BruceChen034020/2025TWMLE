@@ -16,4 +16,4 @@
 6.	婦科麻醉 (陽明醫學系共筆)
 7.	Regional anesthesia (Amboss)
 #### 急慢性疼痛之處理
-
+8. Overview of pharmacologic management of chronic pain in adults (UpToDate)
