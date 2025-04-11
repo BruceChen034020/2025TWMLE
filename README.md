@@ -14,7 +14,20 @@
 #### 胸腔內科
 #### 新陳代些科
 #### 感染科
-### 家庭醫學科
+### 家庭醫學科 (猜題來源: 臨床)
+#### 家庭醫業
+66. 家庭醫學的照顧特色：3C2A
+67. Obesity in adults: Overview of management (UpToDate)
+#### 預防醫學
+68. 現行兒童預防接種時程 (衛福部疾管署)
+69. Screening tests in children and adolescents (UpToDate)
+#### 行為醫學
+70. Glossary of common biostatistical and epidemiological terms (UpToDate)
+71. Depression in adults: Clinical features and diagnosis (UpToDate)
+#### 社區醫學
+72. Metabolic syndrome (insulin resistance syndrome or syndrome X) (UpToDate)
+#### 緩和醫學
+73. 安寧緩和醫療條例 (全國法規資料庫)
 ### 法令、臨床實例與醫學倫理
 ## 醫學(四)
 ### 小兒科
