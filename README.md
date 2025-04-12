@@ -31,7 +31,10 @@
 72. Metabolic syndrome (insulin resistance syndrome or syndrome X) ([UpToDate](https://www.uptodate.com/contents/metabolic-syndrome-insulin-resistance-syndrome-or-syndrome-x))
 #### 緩和醫學
 73. 安寧緩和醫療條例 ([全國法規資料庫](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=L0020066))
-### 法令、臨床實例與醫學倫理
+### 隨便亂考
+#### 內科急診
+#### 加護醫學科
+#### 內科新知
 ## 醫學(四)
 ### 小兒科
 ### 皮膚科
@@ -253,7 +256,7 @@
 | **年龄**       | **最高频考点**                | **必背数值**               |
 |----------------|-----------------------------|--------------------------|
 | 新生儿（<28天） | 败血症/ABO溶血               | 足月儿Hb<145g/L即贫血    |
-| 1岁            | 川崎病/维生素D缺乏性佝偻病    | 卡疤接种时间：出生24小时内 |
+| 1岁            | 川崎病/维生素D缺乏性佝偻病    | 卡疤接种时间：出生24小时内 (臺灣: 滿5個月) |
 | 2-6岁          | 肾病综合征/热性惊厥           | 尿蛋白>3.5g/d即大量蛋白尿 |
 | 学龄期         | 过敏性紫癜/急性肾炎           | ASO升高提示链球菌感染     |
 
