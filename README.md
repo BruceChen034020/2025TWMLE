@@ -49,7 +49,7 @@
 1.	Airway management for general anesthesia in adults ([UpToDate](https://www.uptodate.com/contents/airway-management-for-general-anesthesia-in-adults))
 #### 麻醉監視器之運用及判讀
 2.	Arterial blood gas analysis ([Amboss](https://next.amboss.com/us/article/8l0OAT))
-3.	麻醉監測系統 (First Choice)
+3.	麻醉監測系統 ([First Choice](內部/FC/醫學(6-4)麻醉耳鼻喉%20(1).pdf))
 #### 麻醉藥理學
 4.	Approach to the management of acute pain in adults ([UpToDate](https://www.uptodate.com/contents/approach-to-the-management-of-acute-pain-in-adults))
 5.	Clinical use of local anesthetics in anesthesia ([UpToDate](https://www.uptodate.com/contents/clinical-use-of-local-anesthetics-in-anesthesia))
