@@ -296,7 +296,7 @@
 
 ### 📘 **第 1-2 天：快速暖身 + 基礎建立**
 
-- 看 AMC 官方考綱 + 熟悉題型（做 50 題初步自測）
+- 看官方考綱 + 熟悉題型（做 50 題初步自測）
 - 複習：
     - General Practice 常見主訴（頭痛、胸痛、發燒）
     - Basic ethics、screening、vaccination
