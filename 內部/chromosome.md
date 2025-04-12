@@ -1,4 +1,5 @@
 # Important chromosome changes in hematological malignancies
+
 | 病 | chromosome changes | 意義 |
 | --- | --- | --- |
 | CML | t(9;22), bcr-abl | tyrosine kinase activity |
