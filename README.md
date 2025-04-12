@@ -374,3 +374,71 @@
 
 - 看筆記、錯題整理、重要表格（篩檢、疫苗、處置流程）
 - 前一晚早睡、模擬考試當天流程（早餐、路線）
+
+## ✅ 第一份：**AMC MCQ 各科高頻筆記懶人包（精簡版）**
+
+我會整理出每科常考的主題，例如：
+
+### General Medicine（內科）
+
+- Chest pain: MI, PE, costochondritis, GERD
+- Shortness of breath: COPD vs asthma vs HF
+- Diabetes management（含 insulin、oral meds）
+
+### Emergency
+
+- Trauma ABCDE
+- Shock types（hypovolemic, septic, anaphylactic）
+- Sepsis + anaphylaxis management
+
+### Obs/Gyn
+
+- Antenatal care schedule
+- Postpartum complications
+- Menstrual disorders & contraception
+
+### Paediatrics
+
+- Developmental milestones
+- Neonatal jaundice
+- Pediatric asthma, epilepsy
+
+### Psychiatry
+
+- Depression vs bipolar vs schizophrenia
+- Suicide risk assessment
+- Side effects of psychiatric meds
+
+📌 完整版我會幫你整理成 PDF，並附上重點整理和流程圖（例如 chest pain workup flowchart、antenatal visit schedule）。
+
+---
+
+## ✅ 第二份：**錯題筆記模板（Google Sheet & Notion 版）**
+
+會有以下欄位，讓你整理錯題 + 快速複習：
+
+| 題號 | 科別 | 考點 | 錯誤原因 | 正確答案解釋 | 關鍵字 | 是否重做？ |
+| --- | --- | --- | --- | --- | --- | --- |
+| 1205 | Obs | Ectopic pregnancy diagnosis | 判斷失誤 | Transvaginal US is first-line | LMP, vaginal bleeding | ✅ |
+
+我可以直接幫你匯出 Google Sheet 連結或 Notion 模板（你偏好哪一個？）
+
+---
+
+## ✅ 第三份：**第一週學習計畫（每日任務）**
+
+### 🔄 Week 1（基礎建構 + 題型熟悉）
+| 天數 | 任務內容 | 做題量 | 備註 |
+| Day 1 | 開始內科打底（CV + Respiratory）閱讀胸痛、呼吸困難評估 | 50 題 | AMCQbank 選 general med |
+| Day 2 | 婦產科：menstrual disorders + contraception錯題筆記開始 | 60 題 | 用 Plabable 看婦產精簡說明 |
+| Day 3 | Emergency 初步：ABCDE + shock types練 5 題 timed mode | 60 題 | 整理流程圖 |
+| Day 4 | 兒科打底：fever, dehydration, asthma發展里程碑整理 | 60 題 | 錯題複習 20 題 |
+| Day 5 | 精神科 intro：mood disorders + suicide risk記憶 DSM-5 關鍵詞 | 50 題 | 測驗自我診斷 vs 錯誤 |
+Day 6
+模擬小考（50 題）+ 全面錯題複習記錄錯題原因
+50 題
+可使用 AMCQbank mini mock
+Day 7
+回顧本週筆記 + 交錯科別複習（Obs + Peds）
+40 題
+自製 quiz 小測驗
