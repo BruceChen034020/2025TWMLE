@@ -409,8 +409,6 @@
 - Suicide risk assessment
 - Side effects of psychiatric meds
 
-📌 完整版我會幫你整理成 PDF，並附上重點整理和流程圖（例如 chest pain workup flowchart、antenatal visit schedule）。
-
 ---
 
 ## ✅ 第二份：**錯題筆記模板（Google Sheet & Notion 版）**
@@ -420,8 +418,6 @@
 | 題號 | 科別 | 考點 | 錯誤原因 | 正確答案解釋 | 關鍵字 | 是否重做？ |
 | --- | --- | --- | --- | --- | --- | --- |
 | 1205 | Obs | Ectopic pregnancy diagnosis | 判斷失誤 | Transvaginal US is first-line | LMP, vaginal bleeding | ✅ |
-
-我可以直接幫你匯出 Google Sheet 連結或 Notion 模板（你偏好哪一個？）
 
 ---
 
