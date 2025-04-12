@@ -9,8 +9,8 @@
 #### 腫瘤科
 #### 血液科 (猜題來源: 臨床)
 42. WBC Special stain (cytochemistry) and surface markers ([內部](內部/WBC.md))
-43. Important chromosome changes in hematological malignancies
-44. Acute leukemia (Amboss)
+43. Important chromosome changes in hematological malignancies ([內部](內部/chromosome.md))
+44. Acute leukemia ([Amboss](https://next.amboss.com/us/article/iT0Jq2))
 #### 胸腔內科
 #### 新陳代些科
 #### 感染科
