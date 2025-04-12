@@ -1,6 +1,8 @@
 # WBC
 • Special stain (cytochemistry)
+
 • PAS: periodic acid Schiff staining for lymphoid cells
+
 • POS,MPO: peroxidase (related to H2O2) for myeloid cells
 • CAE: chloroacetate esterase for myeloid cells
 • NSE: nonspecific esterase for monocytic cells
