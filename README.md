@@ -54,7 +54,7 @@
 4.	Approach to the management of acute pain in adults ([UpToDate](https://www.uptodate.com/contents/approach-to-the-management-of-acute-pain-in-adults))
 5.	Clinical use of local anesthetics in anesthesia ([UpToDate](https://www.uptodate.com/contents/clinical-use-of-local-anesthetics-in-anesthesia))
 #### 各種特殊運用之麻醉學
-6.	孕婦麻醉 (陽明醫學系共筆)
+6.	孕婦麻醉 ([陽明醫學系共筆](內部/陽明醫學系共筆/麻醉no.6.pdf))
 7.	Regional anesthesia ([Amboss](https://next.amboss.com/us/article/Sl0ywT))
 #### 急慢性疼痛之處理
 8. Overview of pharmacologic management of chronic pain in adults ([UpToDate](https://www.uptodate.com/contents/overview-of-pharmacologic-management-of-chronic-pain-in-adults))
