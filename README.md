@@ -48,18 +48,18 @@
 #### 呼吸道之維持
 1.	Airway management for general anesthesia in adults ([UpToDate](https://www.uptodate.com/contents/airway-management-for-general-anesthesia-in-adults))
 #### 麻醉監視器之運用及判讀
-2.	Arterial blood gases ([Amboss](https://next.amboss.com/us/article/8l0OAT))
+2.	Arterial blood gas analysis ([Amboss](https://next.amboss.com/us/article/8l0OAT))
 3.	麻醉監測系統 (First Choice)
 #### 麻醉藥理學
 4.	Approach to the management of acute pain in adults ([UpToDate](https://www.uptodate.com/contents/approach-to-the-management-of-acute-pain-in-adults))
 5.	Clinical use of local anesthetics in anesthesia ([UpToDate](https://www.uptodate.com/contents/clinical-use-of-local-anesthetics-in-anesthesia))
 #### 各種特殊運用之麻醉學
 6.	婦科麻醉 (陽明醫學系共筆)
-7.	Regional anesthesia (Amboss)
+7.	Regional anesthesia ([Amboss](https://next.amboss.com/us/article/Sl0ywT))
 #### 急慢性疼痛之處理
-8. Overview of pharmacologic management of chronic pain in adults (UpToDate)
+8. Overview of pharmacologic management of chronic pain in adults ([UpToDate](https://www.uptodate.com/contents/overview-of-pharmacologic-management-of-chronic-pain-in-adults))
 #### 術中維持與併發症處理 (First Choice)
-9. Malignant hyperthermia: Diagnosis and management of acute crisis (UpToDate)
+9. Malignant hyperthermia: Diagnosis and management of acute crisis ([UpToDate](https://www.uptodate.com/contents/malignant-hyperthermia-diagnosis-and-management-of-acute-crisis))
 ### 眼科 (猜題來源: 考古題)
 #### 視網膜、葡萄膜病變
 10. Examination of the eye (Amboss)
