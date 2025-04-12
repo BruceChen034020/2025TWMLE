@@ -17,17 +17,17 @@
 ### 家庭醫學科 (猜題來源: 臨床)
 #### 家庭醫業
 66. 家庭醫學的照顧特色：3C2A ([內部](內部/3C2A.md))
-67. Obesity in adults: Overview of management (UpToDate)
+67. Obesity in adults: Overview of management ([UpToDate](https://www.uptodate.com/contents/obesity-in-adults-overview-of-managemen))
 #### 預防醫學
-68. 現行兒童預防接種時程 (衛福部疾管署)
-69. Screening tests in children and adolescents (UpToDate)
+68. 現行兒童預防接種時程 ([衛福部疾管署](https://www.cdc.gov.tw/Category/List/IpWZqtnmkJfQPfgnaP4lnw))
+69. Screening tests in children and adolescents ([UpToDate](https://www.uptodate.com/contents/screening-tests-in-children-and-adolescents))
 #### 行為醫學
-70. Glossary of common biostatistical and epidemiological terms (UpToDate)
-71. Depression in adults: Clinical features and diagnosis (UpToDate)
+70. Glossary of common biostatistical and epidemiological terms ([UpToDate](https://www.uptodate.com/contents/glossary-of-common-biostatistical-and-epidemiological-terms))
+71. Depression in adults: Clinical features and diagnosis ([UpToDate](https://www.uptodate.com/contents/depression-in-adults-clinical-features-and-diagnosis))
 #### 社區醫學
-72. Metabolic syndrome (insulin resistance syndrome or syndrome X) (UpToDate)
+72. Metabolic syndrome (insulin resistance syndrome or syndrome X) ([UpToDate](https://www.uptodate.com/contents/metabolic-syndrome-insulin-resistance-syndrome-or-syndrome-x))
 #### 緩和醫學
-73. 安寧緩和醫療條例 (全國法規資料庫)
+73. 安寧緩和醫療條例 ([全國法規資料庫](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=L0020066))
 ### 法令、臨床實例與醫學倫理
 ## 醫學(四)
 ### 小兒科
