@@ -32,7 +32,10 @@
 #### 緩和醫學
 73. 安寧緩和醫療條例 ([全國法規資料庫](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=L0020066))
 ### 隨便亂考
-#### 內科新知
+#### 內科新知 (猜題來源: 臨床)
+74. Treatment of adrenocortical carcinoma ([UpToDate](https://www.uptodate.com/contents/treatment-of-adrenocortical-carcinoma))
+75. Overview of primary prevention of cardiovascular disease in adults ([UpToDate](https://www.uptodate.com/contents/overview-of-primary-prevention-of-cardiovascular-disease-in-adults))
+76. Chronic obstructive pulmonary disease: Diagnosis and staging ([UpToDate](https://www.uptodate.com/contents/chronic-obstructive-pulmonary-disease-diagnosis-and-staging))
 #### 加護醫學科
 #### 內科急診
 ## 醫學(四)
