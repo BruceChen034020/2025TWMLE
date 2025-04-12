@@ -46,9 +46,9 @@
 ## 醫學(六)
 ### 麻醉科 (猜題來源: 考古題)
 #### 呼吸道之維持
-1.	Airway management for general anesthesia in adults (UpToDate)
+1.	Airway management for general anesthesia in adults ([UpToDate](https://www.uptodate.com/contents/airway-management-for-general-anesthesia-in-adults))
 #### 麻醉監視器之運用及判讀
-2.	Arterial blood gases (Amboss)
+2.	Arterial blood gases ([Amboss](https://next.amboss.com/us/article/8l0OAT))
 3.	麻醉監測系統 (First Choice)
 #### 麻醉藥理學
 4.	Approach to the management of acute pain in adults ([UpToDate](https://www.uptodate.com/contents/approach-to-the-management-of-acute-pain-in-adults))
