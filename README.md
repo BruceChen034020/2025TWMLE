@@ -52,7 +52,7 @@
 3.	麻醉監測系統 (First Choice)
 #### 麻醉藥理學
 4.	Approach to the management of acute pain in adults (UpToDate)
-5.	Clinical use of local anesthetics in anesthesia (UpToDate)
+5.	Clinical use of local anesthetics in anesthesia ([UpToDate](https://www.uptodate.com/contents/clinical-use-of-local-anesthetics-in-anesthesia))
 #### 各種特殊運用之麻醉學
 6.	婦科麻醉 (陽明醫學系共筆)
 7.	Regional anesthesia (Amboss)
