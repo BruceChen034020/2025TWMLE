@@ -6,7 +6,9 @@
 #### 胃腸科
 #### 腎臟科
 #### 過敏免疫風濕科
-#### 腫瘤科
+#### 腫瘤科 (猜題來源: 臨床)
+36. Overview of the classification and management of cancers of unknown primary site ([UpToDate](https://www.uptodate.com/contents/overview-of-the-classification-and-management-of-cancers-of-unknown-primary-site))
+37. Overview of the treatment of newly diagnosed, invasive, non-metastatic breast cancer ([UpToDate](https://www.uptodate.com/contents/overview-of-the-treatment-of-newly-diagnosed-invasive-non-metastatic-breast-cancer))
 #### 血液科 (猜題來源: 臨床)
 42. WBC Special stain (cytochemistry) and surface markers ([內部](內部/WBC.md))
 43. Important chromosome changes in hematological malignancies ([內部](內部/chromosome.md))
