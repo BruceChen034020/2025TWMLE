@@ -435,11 +435,5 @@
 | Day 3 | Emergency 初步：ABCDE + shock types練 5 題 timed mode | 60 題 | 整理流程圖 |
 | Day 4 | 兒科打底：fever, dehydration, asthma發展里程碑整理 | 60 題 | 錯題複習 20 題 |
 | Day 5 | 精神科 intro：mood disorders + suicide risk記憶 DSM-5 關鍵詞 | 50 題 | 測驗自我診斷 vs 錯誤 |
-Day 6
-模擬小考（50 題）+ 全面錯題複習記錄錯題原因
-50 題
-可使用 AMCQbank mini mock
-Day 7
-回顧本週筆記 + 交錯科別複習（Obs + Peds）
-40 題
-自製 quiz 小測驗
+| Day 6 | 模擬小考（50 題）+ 全面錯題複習記錄錯題原因 | 50 題 | 可使用 AMCQbank mini mock |
+| Day 7 | 回顧本週筆記 + 交錯科別複習（Obs + Peds） | 40 題 | 自製 quiz 小測驗 |
