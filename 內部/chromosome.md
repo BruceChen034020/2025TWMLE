@@ -1,6 +1,6 @@
 # Important chromosome changes in hematological malignancies
 | CML t(9;22), bcr-abl | tyrosine kinase activity |
-| ___ | ___ | ___ |
+| --- | --- | 
 | ALL t(9;22) t(4;11) | poor prognosis in ALL |
 
 | AML,M2 t(8;21) | good prognosis in AML |
