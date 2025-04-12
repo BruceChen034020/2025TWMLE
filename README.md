@@ -70,7 +70,7 @@
 #### 水晶體病變、青光眼
 14. Cataract in adults ([UpToDate](https://www.uptodate.com/contents/cataract-in-adults))
 #### 眼屈光學、斜視、弱視
-15. Refractive errors in children ([UpToDate](https://next.amboss.com/us/article/vF0AP3](https://www.uptodate.com/contents/refractive-errors-in-children))
+15. Refractive errors in children ([UpToDate](https://www.uptodate.com/contents/refractive-errors-in-children))
 16. Evaluation and management of strabismus in children ([UpToDate](https://www.uptodate.com/contents/evaluation-and-management-of-strabismus-in-children))
 #### 眼瞼、結膜、眼窩病變及其他眼科疾病
 17. Inflammation of the eyelids ([Amboss](https://next.amboss.com/us/article/NO0-sT))
