@@ -62,20 +62,19 @@
 9. Malignant hyperthermia: Diagnosis and management of acute crisis ([UpToDate](https://www.uptodate.com/contents/malignant-hyperthermia-diagnosis-and-management-of-acute-crisis))
 ### 眼科 (猜題來源: 考古題)
 #### 視網膜、葡萄膜病變
-10. Examination of the eye (Amboss)
-11. a
+10. Diseases of the retina ([Amboss](https://next.amboss.com/us/article/sO0tFT))
+11. Diseases of the uvea ([Amboss](https://next.amboss.com/us/article/JO0stT))
 #### 角膜、鞏膜病變
-12. a
-13. a
+12. Corneal diseases ([Amboss](https://next.amboss.com/us/article/9O0NuT))
+13. Scleritis and episcleritis([Amboss](https://next.amboss.com/us/article/KO0UtT))
 #### 水晶體病變、青光眼
-14. a
+14. Cataract in adults ([UpToDate](https://www.uptodate.com/contents/cataract-in-adults))
 #### 眼屈光學、斜視、弱視
-15. a
-16. a
+15. Refractive errors in children ([UpToDate]([https://next.amboss.com/us/article/vF0AP3](https://www.uptodate.com/contents/refractive-errors-in-children)))
+16. Evaluation and management of strabismus in children ([UpToDate](https://www.uptodate.com/contents/evaluation-and-management-of-strabismus-in-children))
 #### 眼瞼、結膜、眼窩病變及其他眼科疾病
-17. 
-18. a
-19. 
+17. Inflammation of the eyelids ([Amboss](https://next.amboss.com/us/article/NO0-sT))
+18. Conjunctivitis ([UpToDate](https://www.uptodate.com/contents/conjunctivitis))
 ### 耳鼻喉科
 ### 婦產科
 ## 其他
