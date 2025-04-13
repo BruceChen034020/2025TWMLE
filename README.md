@@ -18,7 +18,7 @@
 43. Important chromosome changes in hematological malignancies ([內部](內部/chromosome.md))
 44. Acute leukemia ([Amboss](https://next.amboss.com/us/article/iT0Jq2))
 #### 胸腔內科
-#### 新陳代些科
+#### 新陳代謝科
 #### 感染科
 ### 家庭醫學科 (猜題來源: 臨床)
 #### 家庭醫業
