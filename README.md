@@ -12,10 +12,10 @@
 38. 
 #### 血液科 (猜題來源: 臨床)
 ##### Platelet
+42. Overview of hemostasis ([UpToDate](https://www.uptodate.com/contents/overview-of-hemostasis))
 ##### RBC
+43. Microcytosis/Microcytic anemia ([UpToDate](https://www.uptodate.com/contents/microcytosis-microcytic-anemia))
 ##### WBC
-42. WBC Special stain (cytochemistry) and surface markers ([內部](內部/WBC.md))
-43. Important chromosome changes in hematological malignancies ([內部](內部/chromosome.md))
 44. Acute leukemia ([Amboss](https://next.amboss.com/us/article/iT0Jq2))
 #### 胸腔內科
 #### 新陳代謝科
@@ -34,13 +34,13 @@
 72. Metabolic syndrome (insulin resistance syndrome or syndrome X) ([UpToDate](https://www.uptodate.com/contents/metabolic-syndrome-insulin-resistance-syndrome-or-syndrome-x))
 #### 緩和醫學
 73. 安寧緩和醫療條例 ([全國法規資料庫](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=L0020066))
-### 隨便亂考
-#### 內科新知 (猜題來源: 臨床)
-74. Treatment of adrenocortical carcinoma ([UpToDate](https://www.uptodate.com/contents/treatment-of-adrenocortical-carcinoma))
-75. Overview of primary prevention of cardiovascular disease in adults ([UpToDate](https://www.uptodate.com/contents/overview-of-primary-prevention-of-cardiovascular-disease-in-adults))
-76. Chronic obstructive pulmonary disease: Diagnosis and staging ([UpToDate](https://www.uptodate.com/contents/chronic-obstructive-pulmonary-disease-diagnosis-and-staging))
-#### 急診醫學科
-#### 加護醫學科
+### 放射科
+
+### 急診醫學科
+### 醫學倫理
+
+
+
 ## 醫學(四)
 ### 小兒科
 ### 皮膚科
@@ -89,6 +89,13 @@
 18. Conjunctivitis ([UpToDate](https://www.uptodate.com/contents/conjunctivitis))
 ### 耳鼻喉科
 ### 婦產科
+## 加碼
+### 內科新知 (猜題來源: 臨床)
+1. Treatment of adrenocortical carcinoma ([UpToDate](https://www.uptodate.com/contents/treatment-of-adrenocortical-carcinoma))
+2. Overview of primary prevention of cardiovascular disease in adults ([UpToDate](https://www.uptodate.com/contents/overview-of-primary-prevention-of-cardiovascular-disease-in-adults))
+3. Chronic obstructive pulmonary disease: Diagnosis and staging ([UpToDate](https://www.uptodate.com/contents/chronic-obstructive-pulmonary-disease-diagnosis-and-staging))
+### 加護醫學科
+
 ## 其他
 ### 《醫師國考选择题猜答案技巧》
 不会做题莫慌张，先排错项再思量。<br>
