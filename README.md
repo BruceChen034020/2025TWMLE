@@ -37,7 +37,8 @@
 72. Metabolic syndrome (insulin resistance syndrome or syndrome X) ([UpToDate](https://www.uptodate.com/contents/metabolic-syndrome-insulin-resistance-syndrome-or-syndrome-x))
 #### 緩和醫學
 73. 安寧緩和醫療條例 ([全國法規資料庫](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=L0020066))
-### 腹部影像醫學科 (猜題來源: 臨床)
+### 放射科 (猜題來源: 臨床)
+#### 腹部影像醫學科
 74. Hepatic hemangioma ([Radiopaedia](https://radiopaedia.org/articles/hepatic-haemangioma))
 75. Hepatocellular carcinoma ([Radiopaedia](https://radiopaedia.org/articles/hepatocellular-carcinoma))
 ### 急診醫學科
