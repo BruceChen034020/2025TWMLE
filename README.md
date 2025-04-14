@@ -33,7 +33,7 @@
 66. 家庭醫學的照顧特色：3C2A ([內部](內部/3C2A.md))
 67. Obesity in adults: Overview of management ([UpToDate](https://www.uptodate.com/contents/obesity-in-adults-overview-of-management))
 #### 預防醫學
-68. 現行兒童預防接種時程 ([衛福部疾管署](https://www.cdc.gov.tw/Category/List/IpWZqtnmkJfQPfgnaP4lnw))
+68. 現行兒童預防接種時程 ([衛福部疾管署](https://www.cdc.gov.tw/File/Get?q=alK1SUhIV6SOP0j4uU3aI7aYD5CNmxXJXAgbcPCy5Mj5d0TnNiVZy5aDEBVIlSO5kZ5pqAGpOQ5FCdQNl36pYTqGkKJSBG2iwtQWOlb2AxTU1U8YzzGWTk5x42GrqevBKYo-tRf_00xVLuwnra5t3g))
 69. Screening tests in children and adolescents ([UpToDate](https://www.uptodate.com/contents/screening-tests-in-children-and-adolescents))
 #### 行為醫學
 70. Glossary of common biostatistical and epidemiological terms ([UpToDate](https://www.uptodate.com/contents/glossary-of-common-biostatistical-and-epidemiological-terms))
