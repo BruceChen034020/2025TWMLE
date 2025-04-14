@@ -10,7 +10,9 @@
 36. Overview of the classification and management of cancers of unknown primary site ([UpToDate](https://www.uptodate.com/contents/overview-of-the-classification-and-management-of-cancers-of-unknown-primary-site))
 37. Overview of the treatment of newly diagnosed, invasive, non-metastatic breast cancer ([UpToDate](https://www.uptodate.com/contents/overview-of-the-treatment-of-newly-diagnosed-invasive-non-metastatic-breast-cancer))
 38. Overview of the initial treatment and prognosis of lung cancer ([UpToDate](https://www.uptodate.com/contents/overview-of-the-initial-treatment-and-prognosis-of-lung-cancer))
-39. 
+39. Overview of the management of primary colon cancer ([UpToDate](https://www.uptodate.com/contents/overview-of-the-management-of-primary-colon-cancer))
+40. Clinical presentation, diagnosis, and staging of gastric cancer ([UpToDate](https://www.uptodate.com/contents/clinical-presentation-diagnosis-and-staging-of-gastric-cancer))
+41. Clinical manifestations, diagnosis, and staging of exocrine pancreatic cancer ([UpToDate](https://www.uptodate.com/contents/clinical-manifestations-diagnosis-and-staging-of-exocrine-pancreatic-cancer))
 #### 血液科 (猜題來源: 臨床)
 ##### Platelet
 42. Overview of hemostasis ([UpToDate](https://www.uptodate.com/contents/overview-of-hemostasis))
