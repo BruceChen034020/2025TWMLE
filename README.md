@@ -15,7 +15,7 @@
 41. Clinical manifestations, diagnosis, and staging of exocrine pancreatic cancer ([UpToDate](https://www.uptodate.com/contents/clinical-manifestations-diagnosis-and-staging-of-exocrine-pancreatic-cancer))
 #### 血液科 (猜題來源: 臨床)
 ##### Platelet
-42. Overview of hemostasis ([UpToDate](https://www.uptodate.com/contents/overview-of-hemostasis))
+42. Hemostasis and bleeding disorders ([Amboss](https://next.amboss.com/us/article/8T0Os2))
 ##### RBC
 43. Microcytosis/Microcytic anemia ([UpToDate](https://www.uptodate.com/contents/microcytosis-microcytic-anemia))
 ##### WBC
