@@ -22,10 +22,12 @@
 44. Acute leukemia ([Amboss](https://next.amboss.com/us/article/iT0Jq2))
 #### 胸腔內科
 #### 新陳代謝科
-#### 感染科
+#### 感染科 (猜題來源: 臨床)
 59. Acute and early HIV infection: Clinical manifestations and diagnosis ([UpToDate](https://www.uptodate.com/contents/acute-and-early-hiv-infection-clinical-manifestations-and-diagnosis))
 60. Tuberculosis infection (latent tuberculosis) in adults: Approach to diagnosis (screening) ([UpToDate](https://www.uptodate.com/contents/tuberculosis-infection-latent-tuberculosis-in-adults-approach-to-diagnosis-screening))
 61. 醫療機構感染管制 ([衛服部疾管署](https://www.cdc.gov.tw/Category/List/Wie5hDvyNkeG_ZypRcxssw))
+62. Beta-lactam antibiotics: Mechanisms of action and resistance and adverse effects ([UpToDate](https://www.uptodate.com/contents/beta-lactam-antibiotics-mechanisms-of-action-and-resistance-and-adverse-effects))
+63. Overview of community-acquired pneumonia in adults ([UpToDate](https://www.uptodate.com/contents/overview-of-community-acquired-pneumonia-in-adults))
 ### 家庭醫學科 (猜題來源: 臨床)
 #### 家庭醫業
 66. 家庭醫學的照顧特色：3C2A ([內部](內部/3C2A.md))
