@@ -148,7 +148,7 @@
 #### 大更新
 1. WHO guideline for screening and treatment of cervical pre-cancer lesions for cervical cancer preventiont ([WHO](https://iris.who.int/bitstream/handle/10665/342365/9789240030824-eng.pdf?sequence=1)(pdf檔))
 2. Overview of ultrasound examination in obstetrics and gynecology ([UpToDate](https://www.uptodate.com/contents/overview-of-ultrasound-examination-in-obstetrics-and-gynecology))
-3. In vitro fertilization: Overview of clinical issues and questions ([UpToDate](https://www.uptodate.com/contents/in-vitro-fertilization-overview-of-clinical-issues-and-questions))
+3. In vitro fertilization: Overview of clinical issues and questions ([UpToDate](https://www.uptodate.com/contents/in-vitro-fertilization-overview-of-clinical-issues-and-questions#H963856634))
 #### 小更新
 4.  Management of early-stage cervical cancer ([UpToDate](https://www.uptodate.com/contents/management-of-early-stage-cervical-cancer?sectionName=Type%20of%20surgery&topicRef=16722&anchor=H886761283&source=see_link#H886761283))
 ### 小兒科新知
