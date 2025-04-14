@@ -144,6 +144,8 @@
 2. Clinical presentation, diagnosis, and staging of gastric cancer ([UpToDate](https://www.uptodate.com/contents/clinical-presentation-diagnosis-and-staging-of-gastric-cancer))
 #### 小更新
 3. Principles of abdominal wall closure ([UpToDate](https://www.uptodate.com/contents/principles-of-abdominal-wall-closure?sectionName=Continuous%20closure%20technique&topicRef=16722&anchor=H17&source=see_link#H17))
+### 麻醉科新知
+1.  Nonopioid pharmacotherapy for acute pain in adults ([UpToDate](https://www.uptodate.com/contents/nonopioid-pharmacotherapy-for-acute-pain-in-adults?sectionName=Suzetrigine%2C%20a%20novel%20Nav1.8%20inhibitor&topicRef=112615&anchor=H510493951&source=see_link#H510493951))
 ### 婦產科新知
 #### 大更新
 1. WHO guideline for screening and treatment of cervical pre-cancer lesions for cervical cancer prevention ([WHO](https://iris.who.int/bitstream/handle/10665/342365/9789240030824-eng.pdf?sequence=1)(pdf檔))
