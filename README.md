@@ -25,7 +25,7 @@
 #### 感染科 (猜題來源: 臨床)
 59. Acute and early HIV infection: Clinical manifestations and diagnosis ([UpToDate](https://www.uptodate.com/contents/acute-and-early-hiv-infection-clinical-manifestations-and-diagnosis))
 60. Tuberculosis infection (latent tuberculosis) in adults: Approach to diagnosis (screening) ([UpToDate](https://www.uptodate.com/contents/tuberculosis-infection-latent-tuberculosis-in-adults-approach-to-diagnosis-screening))
-61. 醫療機構因應 M 痘感染管制措施指引 ([衛服部疾管署](https://www.cdc.gov.tw/File/Get/zdDitiZU4dPUHiQBLIgj4Q)(pdf檔))
+61. Infection prevention: Precautions for preventing transmission of infection ([UpToDate](https://www.uptodate.com/contents/infection-prevention-precautions-for-preventing-transmission-of-infection))
 62. Beta-lactam antibiotics: Mechanisms of action and resistance and adverse effects ([UpToDate](https://www.uptodate.com/contents/beta-lactam-antibiotics-mechanisms-of-action-and-resistance-and-adverse-effects))
 63. Overview of community-acquired pneumonia in adults ([UpToDate](https://www.uptodate.com/contents/overview-of-community-acquired-pneumonia-in-adults))
 ### 家庭醫學科 (猜題來源: 臨床)
