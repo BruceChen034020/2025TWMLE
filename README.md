@@ -59,7 +59,24 @@
 
 ## 醫學(四)
 ### 小兒科
-### 皮膚科
+### 皮膚科 (猜題來源: 考古題)
+#### 濕疹及皮膚炎
+34. New-onset urticaria (hives) ([UpToDate](https://www.uptodate.com/contents/new-onset-urticaria-hives))
+35. Drug hypersensitivity: Classification and clinical features ([UpToDate](https://www.uptodate.com/contents/drug-hypersensitivity-classification-and-clinical-features))
+#### 感染
+##### 病毒感染
+36. Infectious rashes in childhood ([Amboss](https://next.amboss.com/us/article/QH0uJh))
+37. Epidemiology, clinical manifestations, and diagnosis of mpox (formerly monkeypox) ([UpToDate](https://www.uptodate.com/contents/epidemiology-clinical-manifestations-and-diagnosis-of-mpox-formerly-monkeypox))
+#### 腫瘤
+38. Overview of benign lesions of the skin ([UpToDate](https://www.uptodate.com/contents/overview-of-benign-lesions-of-the-skin))
+#### 自體免疫疾病
+39. Kawasaki disease: Clinical features and diagnosis ([UpToDate](https://www.uptodate.com/contents/kawasaki-disease-clinical-features-and-diagnosis))
+40. Cutaneous dermatomyositis in adults: Overview and initial management ([UpToDate](https://www.uptodate.com/contents/cutaneous-dermatomyositis-in-adults-overview-and-initial-management))
+41. Systemic lupus erythematosus in adults: Clinical manifestations and diagnosis ([UpToDate](https://www.uptodate.com/contents/systemic-lupus-erythematosus-in-adults-clinical-manifestations-and-diagnosis))
+#### 色素疾病
+42. Acquired melanocytic nevi (moles) ([UpToDate](https://www.uptodate.com/contents/acquired-melanocytic-nevi-moles))
+#### 角化異常
+43. Ichthyosis vulgaris ([UpToDate](https://www.uptodate.com/contents/ichthyosis-vulgaris))
 ### 神經科
 ## 醫學(五)
 ### 外科
