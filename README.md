@@ -146,7 +146,7 @@
 3. Principles of abdominal wall closure ([UpToDate](https://www.uptodate.com/contents/principles-of-abdominal-wall-closure?sectionName=Continuous%20closure%20technique&topicRef=16722&anchor=H17&source=see_link#H17))
 ### 婦產科新知
 #### 大更新
-1. WHO guideline for screening and treatment of cervical pre-cancer lesions for cervical cancer preventiont ([WHO](https://iris.who.int/bitstream/handle/10665/342365/9789240030824-eng.pdf?sequence=1)(pdf檔))
+1. WHO guideline for screening and treatment of cervical pre-cancer lesions for cervical cancer prevention ([WHO](https://iris.who.int/bitstream/handle/10665/342365/9789240030824-eng.pdf?sequence=1)(pdf檔))
 2. Overview of ultrasound examination in obstetrics and gynecology ([UpToDate](https://www.uptodate.com/contents/overview-of-ultrasound-examination-in-obstetrics-and-gynecology))
 3. In vitro fertilization: Overview of clinical issues and questions ([UpToDate](https://www.uptodate.com/contents/in-vitro-fertilization-overview-of-clinical-issues-and-questions#H963856634))
 #### 小更新
