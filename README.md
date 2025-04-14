@@ -25,7 +25,7 @@
 #### 感染科 (猜題來源: 臨床)
 59. Acute and early HIV infection: Clinical manifestations and diagnosis ([UpToDate](https://www.uptodate.com/contents/acute-and-early-hiv-infection-clinical-manifestations-and-diagnosis))
 60. Tuberculosis infection (latent tuberculosis) in adults: Approach to diagnosis (screening) ([UpToDate](https://www.uptodate.com/contents/tuberculosis-infection-latent-tuberculosis-in-adults-approach-to-diagnosis-screening))
-61. 醫療機構感染管制 ([衛服部疾管署](https://www.cdc.gov.tw/Category/List/Wie5hDvyNkeG_ZypRcxssw))
+61. 醫療機構因應 M 痘感染管制措施指引 ([衛服部疾管署](https://www.cdc.gov.tw/File/Get/zdDitiZU4dPUHiQBLIgj4Q)(pdf檔))
 62. Beta-lactam antibiotics: Mechanisms of action and resistance and adverse effects ([UpToDate](https://www.uptodate.com/contents/beta-lactam-antibiotics-mechanisms-of-action-and-resistance-and-adverse-effects))
 63. Overview of community-acquired pneumonia in adults ([UpToDate](https://www.uptodate.com/contents/overview-of-community-acquired-pneumonia-in-adults))
 ### 家庭醫學科 (猜題來源: 臨床)
@@ -33,7 +33,7 @@
 66. 家庭醫學的照顧特色：3C2A ([內部](內部/3C2A.md))
 67. Obesity in adults: Overview of management ([UpToDate](https://www.uptodate.com/contents/obesity-in-adults-overview-of-management))
 #### 預防醫學
-68. 現行兒童預防接種時程 ([衛福部疾管署](https://www.cdc.gov.tw/File/Get?q=alK1SUhIV6SOP0j4uU3aI7aYD5CNmxXJXAgbcPCy5Mj5d0TnNiVZy5aDEBVIlSO5kZ5pqAGpOQ5FCdQNl36pYTqGkKJSBG2iwtQWOlb2AxTU1U8YzzGWTk5x42GrqevBKYo-tRf_00xVLuwnra5t3g))
+68. 嬰幼兒預防接種時程海報 ([衛福部疾管署](https://www.cdc.gov.tw/File/Get?q=alK1SUhIV6SOP0j4uU3aI7aYD5CNmxXJXAgbcPCy5Mj5d0TnNiVZy5aDEBVIlSO5kZ5pqAGpOQ5FCdQNl36pYTqGkKJSBG2iwtQWOlb2AxTU1U8YzzGWTk5x42GrqevBKYo-tRf_00xVLuwnra5t3g)(下載jpg檔))
 69. Screening tests in children and adolescents ([UpToDate](https://www.uptodate.com/contents/screening-tests-in-children-and-adolescents))
 #### 行為醫學
 70. Glossary of common biostatistical and epidemiological terms ([UpToDate](https://www.uptodate.com/contents/glossary-of-common-biostatistical-and-epidemiological-terms))
