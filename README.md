@@ -28,6 +28,7 @@
 61. Infection prevention: Precautions for preventing transmission of infection ([UpToDate](https://www.uptodate.com/contents/infection-prevention-precautions-for-preventing-transmission-of-infection))
 62. Beta-lactam antibiotics: Mechanisms of action and resistance and adverse effects ([UpToDate](https://www.uptodate.com/contents/beta-lactam-antibiotics-mechanisms-of-action-and-resistance-and-adverse-effects))
 63. Overview of community-acquired pneumonia in adults ([UpToDate](https://www.uptodate.com/contents/overview-of-community-acquired-pneumonia-in-adults))
+64. Screening for sexually transmitted infections ([UpToDate](https://www.uptodate.com/contents/screening-for-sexually-transmitted-infections))
 ### 家庭醫學科 (猜題來源: 臨床)
 #### 家庭醫業
 66. 家庭醫學的照顧特色：3C2A ([內部](內部/3C2A.md))
