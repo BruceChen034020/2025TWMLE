@@ -130,9 +130,9 @@
 3. Chronic obstructive pulmonary disease: Diagnosis and staging ([UpToDate](https://www.uptodate.com/contents/chronic-obstructive-pulmonary-disease-diagnosis-and-staging))
 4. Overview of the management of chronic kidney disease in adults ([UpToDate](https://www.uptodate.com/contents/overview-of-the-management-of-chronic-kidney-disease-in-adults?search=chronic%20kidney%20disease&source=search_result&selectedTitle=1%7E150&usage_type=default&display_rank=1#H1679627661))
 #### 小更新
-4. Allergic reactions to vaccines ([UpToDate](https://www.uptodate.com/contents/allergic-reactions-to-vaccines?sectionName=Hen%27s%20egg&topicRef=16722&anchor=H8&source=see_link#H8))
-5. Pediatric HIV infection: Management of infants born to mothers with HIV in resource-abundant settings ([UpToDate](https://www.uptodate.com/contents/pediatric-hiv-infection-management-of-infants-born-to-mothers-with-hiv-in-resource-abundant-settings?sectionName=APPROACH%20TO%20ARV%20DRUG%20MANAGEMENT&topicRef=16722&anchor=H3375717451&source=see_link#H3375717451))
-6. Limited-stage small cell lung cancer: Initial management ([UpToDate](https://www.uptodate.com/contents/limited-stage-small-cell-lung-cancer-initial-management?sectionName=Consolidative%20durvalumab&topicRef=16722&anchor=H2177602974&source=see_link#H2177602974))
+5. Allergic reactions to vaccines ([UpToDate](https://www.uptodate.com/contents/allergic-reactions-to-vaccines?sectionName=Hen%27s%20egg&topicRef=16722&anchor=H8&source=see_link#H8))
+6. Pediatric HIV infection: Management of infants born to mothers with HIV in resource-abundant settings ([UpToDate](https://www.uptodate.com/contents/pediatric-hiv-infection-management-of-infants-born-to-mothers-with-hiv-in-resource-abundant-settings?sectionName=APPROACH%20TO%20ARV%20DRUG%20MANAGEMENT&topicRef=16722&anchor=H3375717451&source=see_link#H3375717451))
+7. Limited-stage small cell lung cancer: Initial management ([UpToDate](https://www.uptodate.com/contents/limited-stage-small-cell-lung-cancer-initial-management?sectionName=Consolidative%20durvalumab&topicRef=16722&anchor=H2177602974&source=see_link#H2177602974))
 ### 神經內科新知
 #### 大更新
 1. Treatment of Alzheimer disease ([UpToDate](https://www.uptodate.com/contents/treatment-of-alzheimer-disease?search=alzheimers&source=search_result&selectedTitle=2%7E150&usage_type=default&display_rank=2#H1104380311))
