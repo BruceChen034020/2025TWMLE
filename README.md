@@ -70,7 +70,7 @@
 #### 腫瘤
 38. Overview of benign lesions of the skin ([UpToDate](https://www.uptodate.com/contents/overview-of-benign-lesions-of-the-skin))
 #### 自體免疫疾病
-39. Kawasaki disease: Clinical features and diagnosis ([UpToDate](https://www.uptodate.com/contents/kawasaki-disease-clinical-features-and-diagnosis))
+39. Psoriasis: Epidemiology, clinical manifestations, and diagnosis ([UpToDate](https://www.uptodate.com/contents/psoriasis-epidemiology-clinical-manifestations-and-diagnosis))
 40. Cutaneous dermatomyositis in adults: Overview and initial management ([UpToDate](https://www.uptodate.com/contents/cutaneous-dermatomyositis-in-adults-overview-and-initial-management))
 41. Systemic lupus erythematosus in adults: Clinical manifestations and diagnosis ([UpToDate](https://www.uptodate.com/contents/systemic-lupus-erythematosus-in-adults-clinical-manifestations-and-diagnosis))
 #### 色素疾病
