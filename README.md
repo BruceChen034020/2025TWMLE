@@ -141,14 +141,22 @@
 ### 外科新知
 #### 大更新
 1. Robot-assisted laparoscopy ([UpToDate](https://www.uptodate.com/contents/robot-assisted-laparoscopy))
-2. 
+2. Clinical presentation, diagnosis, and staging of gastric cancer ([UpToDate](https://www.uptodate.com/contents/clinical-presentation-diagnosis-and-staging-of-gastric-cancer))
 #### 小更新
-1. Principles of abdominal wall closure ([UpToDate](https://www.uptodate.com/contents/principles-of-abdominal-wall-closure?sectionName=Continuous%20closure%20technique&topicRef=16722&anchor=H17&source=see_link#H17))
+3. Principles of abdominal wall closure ([UpToDate](https://www.uptodate.com/contents/principles-of-abdominal-wall-closure?sectionName=Continuous%20closure%20technique&topicRef=16722&anchor=H17&source=see_link#H17))
 ### 婦產科新知
+#### 大更新
+1. Society guideline links: Cervical cancer screening, prevention, and management ([UpToDate](https://www.uptodate.com/contents/society-guideline-links-cervical-cancer-screening-prevention-and-managemen))
+2. Overview of ultrasound examination in obstetrics and gynecology ([UpToDate](https://www.uptodate.com/contents/overview-of-ultrasound-examination-in-obstetrics-and-gynecology))
+3. In vitro fertilization: Overview of clinical issues and questions ([UpToDate](https://www.uptodate.com/contents/in-vitro-fertilization-overview-of-clinical-issues-and-questions))
 #### 小更新
-1.  Management of early-stage cervical cancer ([UpToDate](https://www.uptodate.com/contents/management-of-early-stage-cervical-cancer?sectionName=Type%20of%20surgery&topicRef=16722&anchor=H886761283&source=see_link#H886761283))
+4.  Management of early-stage cervical cancer ([UpToDate](https://www.uptodate.com/contents/management-of-early-stage-cervical-cancer?sectionName=Type%20of%20surgery&topicRef=16722&anchor=H886761283&source=see_link#H886761283))
 ### 小兒科新知
-### 急診新知
+#### 大更新
+無
+#### 小更新
+1. 7月1日起正式上路 未滿7歲兒童新增6次「兒童發展篩檢服務」 透過接受標準化篩檢工具 找出關鍵原因 ([衛福部國建署](https://www.hpa.gov.tw/Pages/Detail.aspx?nodeid=4809&pid=18221))
+### 急診科新知
 #### 小更新
 1. Procedural sedation in children: Approach ([UpToDate](https://www.uptodate.com/contents/procedural-sedation-in-children-approach?sectionName=Preoxygenation&topicRef=16722&anchor=H1683230&source=see_link#H1683230))
 ## 其他
