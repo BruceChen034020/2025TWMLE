@@ -122,13 +122,35 @@
 18. Conjunctivitis ([UpToDate](https://www.uptodate.com/contents/conjunctivitis))
 ### 耳鼻喉科
 ### 婦產科
-## 加碼
-### 內科新知 (猜題來源: 臨床)
+## 醫學新知
+### 內科新知
+#### 大更新
 1. Treatment of adrenocortical carcinoma ([UpToDate](https://www.uptodate.com/contents/treatment-of-adrenocortical-carcinoma))
 2. Overview of primary prevention of cardiovascular disease in adults ([UpToDate](https://www.uptodate.com/contents/overview-of-primary-prevention-of-cardiovascular-disease-in-adults))
 3. Chronic obstructive pulmonary disease: Diagnosis and staging ([UpToDate](https://www.uptodate.com/contents/chronic-obstructive-pulmonary-disease-diagnosis-and-staging))
-### 加護醫學科
-
+4. Overview of the management of chronic kidney disease in adults ([UpToDate](https://www.uptodate.com/contents/overview-of-the-management-of-chronic-kidney-disease-in-adults?search=chronic%20kidney%20disease&source=search_result&selectedTitle=1%7E150&usage_type=default&display_rank=1#H1679627661))
+#### 小更新
+4. Allergic reactions to vaccines ([UpToDate](https://www.uptodate.com/contents/allergic-reactions-to-vaccines?sectionName=Hen%27s%20egg&topicRef=16722&anchor=H8&source=see_link#H8))
+5. Pediatric HIV infection: Management of infants born to mothers with HIV in resource-abundant settings ([UpToDate](https://www.uptodate.com/contents/pediatric-hiv-infection-management-of-infants-born-to-mothers-with-hiv-in-resource-abundant-settings?sectionName=APPROACH%20TO%20ARV%20DRUG%20MANAGEMENT&topicRef=16722&anchor=H3375717451&source=see_link#H3375717451))
+6. Limited-stage small cell lung cancer: Initial management ([UpToDate](https://www.uptodate.com/contents/limited-stage-small-cell-lung-cancer-initial-management?sectionName=Consolidative%20durvalumab&topicRef=16722&anchor=H2177602974&source=see_link#H2177602974))
+### 神經內科新知
+#### 大更新
+1. Treatment of Alzheimer disease ([UpToDate](https://www.uptodate.com/contents/treatment-of-alzheimer-disease?search=alzheimers&source=search_result&selectedTitle=2%7E150&usage_type=default&display_rank=2#H1104380311))
+#### 小更新
+2. Reversal of anticoagulation in intracranial hemorrhage ([UpToDate](https://www.uptodate.com/contents/reversal-of-anticoagulation-in-intracranial-hemorrhage?sectionName=Reversal%20agent%20options&topicRef=16722&anchor=H1860076452&source=see_link#H1860076452))
+### 外科新知
+#### 大更新
+1. Robot-assisted laparoscopy ([UpToDate](https://www.uptodate.com/contents/robot-assisted-laparoscopy))
+2. 
+#### 小更新
+1. Principles of abdominal wall closure ([UpToDate](https://www.uptodate.com/contents/principles-of-abdominal-wall-closure?sectionName=Continuous%20closure%20technique&topicRef=16722&anchor=H17&source=see_link#H17))
+### 婦產科新知
+#### 小更新
+1.  Management of early-stage cervical cancer ([UpToDate](https://www.uptodate.com/contents/management-of-early-stage-cervical-cancer?sectionName=Type%20of%20surgery&topicRef=16722&anchor=H886761283&source=see_link#H886761283))
+### 小兒科新知
+### 急診新知
+#### 小更新
+1. Procedural sedation in children: Approach ([UpToDate](https://www.uptodate.com/contents/procedural-sedation-in-children-approach?sectionName=Preoxygenation&topicRef=16722&anchor=H1683230&source=see_link#H1683230))
 ## 其他
 ### 《醫師國考选择题猜答案技巧》
 不会做题莫慌张，先排错项再思量。<br>
