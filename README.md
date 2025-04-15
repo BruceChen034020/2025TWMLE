@@ -49,7 +49,7 @@
 74. Hepatic hemangioma ([Radiopaedia](https://radiopaedia.org/articles/hepatic-haemangioma))
 75. Hepatocellular carcinoma ([Radiopaedia](https://radiopaedia.org/articles/hepatocellular-carcinoma))
 ### 急診醫學科
-76. Figure 3. Adult Cardiac Arrest Algorithm. ([AHA](https://cpr.heart.org/-/media/CPR-Images/CPR-Guidelines-Images/Part-3-Adult-Basic-and-Advanced-Life-Support/AlgorithmACLS_CA_200731.jpg)(jpg檔)
+76. Adult Cardiac Arrest Algorithm ([AHA](https://cpr.heart.org/-/media/CPR-Images/CPR-Guidelines-Images/Part-3-Adult-Basic-and-Advanced-Life-Support/AlgorithmACLS_CA_200731.jpg)(jpg檔))
 77. a
 78. 
 ### 醫學倫理
