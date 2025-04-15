@@ -15,7 +15,10 @@
 ##### 心肌症
 8. Major causes of dilated cardiomyopathy ([UpToDate](https://www.uptodate.com/contents/image?imageKey=CARD/60494&topicKey=CARD%2F3516&search=dilated+cardiomyopathy&source=outline_link&selectedTitle=1%7E150))
 ##### 心律不整
-9. 
+9. Overview of cardiac arrhythmias ([UpToDate](https://www.uptodate.com/contents/image?imageKey=CARD/60494&topicKey=CARD%2F3516&search=dilated+cardiomyopathy&source=outline_link&selectedTitle=1%7E150))
+##### 高血壓
+10. 
+11. 
 #### 胃腸科
 #### 腎臟科
 #### 過敏免疫風濕科
