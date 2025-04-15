@@ -19,7 +19,7 @@
 ##### 高血壓
 10. Overview of hypertension in adults ([UpToDate](https://www.uptodate.com/contents/overview-of-hypertension-in-adults))
 ##### 血管病
-11. Aneurysm ([UpToDate](https://next.amboss.com/us/article/Wh0P1f))
+11. Aneurysm ([Amboss](https://next.amboss.com/us/article/Wh0P1f))
 ##### 心包疾病
 12. Acute pericarditis: Clinical presentation and diagnosis ([UpToDate](https://www.uptodate.com/contents/acute-pericarditis-clinical-presentation-and-diagnosis))
 ##### 心衰竭
