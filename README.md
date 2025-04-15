@@ -57,6 +57,7 @@
 80. 
 
 
+
 ## 醫學(四)
 ### 小兒科
 ### 皮膚科 (猜題來源: 考古題)
@@ -78,6 +79,9 @@
 #### 角化異常
 43. Ichthyosis vulgaris ([UpToDate](https://www.uptodate.com/contents/ichthyosis-vulgaris))
 ### 神經科
+
+
+
 ## 醫學(五)
 ### 外科
 #### 外科概論
@@ -88,6 +92,9 @@
 #### 消化器外科
 #### 內分泌外科
 #### 乳房外科
+
+
+
 ## 醫學(六)
 ### 麻醉科 (猜題來源: 考古題)
 #### 呼吸道之維持
@@ -127,8 +134,16 @@
 ##### 外耳疾病
 20. Necrotizing (malignant) external otitis ([UpToDate](https://www.uptodate.com/contents/necrotizing-malignant-external-otitis))
 #### 鼻科
-21. Approach to the adult with epistaxis ([UpToDate](https://www.uptodate.com/contents/necrotizing-malignant-external-otitis))
+21. Approach to the adult with epistaxis ([UpToDate](https://www.uptodate.com/contents/approach-to-the-adult-with-epistaxis))
+22. Nasal trauma and fractures in children and adolescents ([UpToDate](https://www.uptodate.com/contents/nasal-trauma-and-fractures-in-children-and-adolescents))
+#### 喉,頭頸
+23. Epiglottitis (supraglottitis): Clinical features and diagnosis ([UpToDate](https://www.uptodate.com/contents/epiglottitis-supraglottitis-clinical-features-and-diagnosis))
+24. Hoarseness in adults ([UpToDate](https://www.uptodate.com/contents/hoarseness-in-adults))
+25. 
 ### 婦產科
+
+
+
 ## 醫學新知
 ### 內科新知
 #### 大更新
@@ -167,6 +182,9 @@
 1. Evaluation and management of suspected sepsis and septic shock in adults ([UpToDate](https://www.uptodate.com/contents/evaluation-and-management-of-suspected-sepsis-and-septic-shock-in-adults?search=surviving%20sepsis%20campaign&sectionRank=2&usage_type=default&anchor=H31&source=machineLearning&selectedTitle=1%7E150&display_rank=1#H10))
 #### 小更新
 2. Procedural sedation in children: Approach ([UpToDate](https://www.uptodate.com/contents/procedural-sedation-in-children-approach?sectionName=Preoxygenation&topicRef=16722&anchor=H1683230&source=see_link#H1683230))
+
+
+
 ## 其他
 ### 《醫師國考选择题猜答案技巧》
 不会做题莫慌张，先排错项再思量。<br>
