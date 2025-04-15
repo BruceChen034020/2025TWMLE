@@ -48,10 +48,10 @@
 #### 腹部影像醫學科
 74. Hepatic hemangioma ([Radiopaedia](https://radiopaedia.org/articles/hepatic-haemangioma))
 75. Hepatocellular carcinoma ([Radiopaedia](https://radiopaedia.org/articles/hepatocellular-carcinoma))
-### 急診醫學科
+### 急診醫學科 (猜題來源: 臨床)
 76. Adult Cardiac Arrest Algorithm ([AHA](https://cpr.heart.org/-/media/CPR-Images/CPR-Guidelines-Images/Part-3-Adult-Basic-and-Advanced-Life-Support/AlgorithmACLS_CA_200731.jpg)(jpg檔))
-77. a
-78. 
+77. Adult Bradycardia Algorithm ([AHA](https://cpr.heart.org/-/media/CPR-Images/CPR-Guidelines-Images/Part-3-Adult-Basic-and-Advanced-Life-Support/Adult_Bradycardia_Algorithm.jpg))
+78. Acute Coronary Syndrome Algorithm ([外部](https://acls-algorithms.com/wp-content/uploads/2022/06/Website-ACS-Algorithm-Diagram.pdf)(pdf檔))
 ### 醫學倫理
 79. a
 80. 
