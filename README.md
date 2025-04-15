@@ -51,7 +51,7 @@
 #### 緩和醫學
 73. 安寧緩和醫療條例 ([全國法規資料庫](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=L0020066))
 ### 放射科 (猜題來源: 臨床)
-#### 腹部影像醫學科
+#### 腹部影像醫學
 74. Hepatic hemangioma ([Radiopaedia](https://radiopaedia.org/articles/hepatic-haemangioma))
 75. Hepatocellular carcinoma ([Radiopaedia](https://radiopaedia.org/articles/hepatocellular-carcinoma))
 ### 急診醫學科 (猜題來源: 臨床)
@@ -142,10 +142,13 @@
 #### 鼻科
 21. Approach to the adult with epistaxis ([UpToDate](https://www.uptodate.com/contents/approach-to-the-adult-with-epistaxis))
 22. Nasal trauma and fractures in children and adolescents ([UpToDate](https://www.uptodate.com/contents/nasal-trauma-and-fractures-in-children-and-adolescents))
-#### 喉,頭頸
+#### 口腔咽喉科
 23. Epiglottitis (supraglottitis): Clinical features and diagnosis ([UpToDate](https://www.uptodate.com/contents/epiglottitis-supraglottitis-clinical-features-and-diagnosis))
 24. Hoarseness in adults ([UpToDate](https://www.uptodate.com/contents/hoarseness-in-adults))
-25. 
+25. Clinical presentation and diagnosis of obstructive sleep apnea in adults ([UpToDate](https://www.uptodate.com/contents/clinical-presentation-and-diagnosis-of-obstructive-sleep-apnea-in-adult))
+#### 頭頸部腫瘤科
+26. Treatment of stage I and II (early) head and neck cancer: The oral cavity ([UpToDate](https://www.uptodate.com/contents/treatment-of-stage-i-and-ii-early-head-and-neck-cancer-the-oral-cavity))
+27. Salivary gland tumors: Epidemiology, diagnosis, evaluation, and staging ([UpToDate](https://www.uptodate.com/contents/salivary-gland-tumors-epidemiology-diagnosis-evaluation-and-staging))
 ### 婦產科
 
 
