@@ -31,9 +31,10 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 31. SLE
 32. Scleroderma
 ##### 關節炎
-32. RA
-33. 
-34. SpA
+33. RA
+34. Seronegative spondyloarthropathies
+##### 肌病
+35. Idiopathic inflammatory myopathies
 #### 腫瘤科 (猜題來源: 臨床)
 36. Overview of the classification and management of cancers of unknown primary site ([UpToDate](https://www.uptodate.com/contents/overview-of-the-classification-and-management-of-cancers-of-unknown-primary-site))
 37. Overview of the treatment of newly diagnosed, invasive, non-metastatic breast cancer ([UpToDate](https://www.uptodate.com/contents/overview-of-the-treatment-of-newly-diagnosed-invasive-non-metastatic-breast-cancer))
