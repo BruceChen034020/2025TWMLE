@@ -13,7 +13,7 @@
 6. Atherosclerotic cardiovascular disease risk assessment for primary prevention in adults ([UpToDate](https://www.uptodate.com/contents/atherosclerotic-cardiovascular-disease-risk-assessment-for-primary-prevention-in-adults))
 7. Overview of the acute management of non-ST-elevation acute coronary syndromes ([UpToDate](https://www.uptodate.com/contents/overview-of-the-acute-management-of-non-st-elevation-acute-coronary-syndromes))
 ##### 心肌症
-8. Major causes of dilated cardiomyopathy ([UpToDate]([https://www.uptodate.com/contents/causes-of-dilated-cardiomyopathy?search=dilated%20cardiomyopathy&source=search_result&selectedTitle=1%7E150&usage_type=default&display_rank=1](https://www.uptodate.com/contents/image?imageKey=CARD/60494&topicKey=CARD%2F3516&search=dilated+cardiomyopathy&source=outline_link&selectedTitle=1%7E150)))
+8. Major causes of dilated cardiomyopathy ([UpToDate](https://www.uptodate.com/contents/image?imageKey=CARD/60494&topicKey=CARD%2F3516&search=dilated+cardiomyopathy&source=outline_link&selectedTitle=1%7E150))
 ##### 心律不整
 9. 
 #### 胃腸科
