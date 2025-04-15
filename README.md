@@ -26,15 +26,14 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 14. Atrial fibrillation: Overview and management of new-onset atrial fibrillation ([UpToDate](https://www.uptodate.com/contents/atrial-fibrillation-overview-and-management-of-new-onset-atrial-fibrillation))
 #### 胃腸科
 #### 腎臟科
-#### 過敏免疫風濕科 (猜題來源: 考古題)
+#### 過敏免疫風濕科 (猜題來源: 臨床)
 ##### 結締組織病
-31. SLE
-32. Scleroderma
+31. Systemic lupus erythematosus in adults: Clinical manifestations and diagnosis ([UpToDate](https://www.uptodate.com/contents/systemic-lupus-erythematosus-in-adults-clinical-manifestations-and-diagnosis))
+32. Clinical manifestations and diagnosis of systemic sclerosis (scleroderma) in adults ([UpToDate](https://www.uptodate.com/contents/clinical-manifestations-and-diagnosis-of-systemic-sclerosis-scleroderma-in-adults))
+33. Overview of the management and prognosis of Sjögren's disease ([UpToDate](https://www.uptodate.com/contents/overview-of-the-management-and-prognosis-of-sjogrens-disease))
 ##### 關節炎
-33. RA
-34. Seronegative spondyloarthropathies
-##### Myopathies and pain syndromes
-35. Idiopathic inflammatory myopathies
+34. Diagnosis and differential diagnosis of rheumatoid arthritis ([UpToDate](https://www.uptodate.com/contents/diagnosis-and-differential-diagnosis-of-rheumatoid-arthritis))
+35. Overview of the clinical manifestations and classification of spondyloarthritis ([UpToDate](https://www.uptodate.com/contents/overview-of-the-clinical-manifestations-and-classification-of-spondyloarthritis))
 #### 腫瘤科 (猜題來源: 臨床)
 36. Overview of the classification and management of cancers of unknown primary site ([UpToDate](https://www.uptodate.com/contents/overview-of-the-classification-and-management-of-cancers-of-unknown-primary-site))
 37. Overview of the treatment of newly diagnosed, invasive, non-metastatic breast cancer ([UpToDate](https://www.uptodate.com/contents/overview-of-the-treatment-of-newly-diagnosed-invasive-non-metastatic-breast-cancer))
