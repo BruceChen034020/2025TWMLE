@@ -120,7 +120,14 @@
 #### 眼矯形科
 17. Inflammation of the eyelids ([Amboss](https://next.amboss.com/us/article/NO0-sT))
 18. Conjunctivitis ([UpToDate](https://www.uptodate.com/contents/conjunctivitis))
-### 耳鼻喉科
+### 耳鼻喉科 (猜題來源: 臨床)
+#### 耳科
+##### 中耳疾病
+19. Acute otits media ([Amboss](https://next.amboss.com/us/article/Mj0MaT))
+##### 外耳疾病
+20. Necrotizing (malignant) external otitis ([UpToDate](https://www.uptodate.com/contents/necrotizing-malignant-external-otitis))
+#### 鼻科
+21. Approach to the adult with epistaxis ([UpToDate](https://www.uptodate.com/contents/necrotizing-malignant-external-otitis))
 ### 婦產科
 ## 醫學新知
 ### 內科新知
