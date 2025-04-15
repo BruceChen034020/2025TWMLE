@@ -49,7 +49,17 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 ##### WBC
 44. Acute leukemia ([Amboss](https://next.amboss.com/us/article/iT0Jq2))
 #### 胸腔內科
-#### 新陳代謝科
+#### 新陳代謝科 (猜題來源: 臨床)
+##### Diabetes
+52. Clinical presentation, diagnosis, and initial evaluation of diabetes mellitus in adults ([UpToDate](https://www.uptodate.com/contents/clinical-presentation-diagnosis-and-initial-evaluation-of-diabetes-mellitus-in-adults))
+53. Metabolic syndrome (insulin resistance syndrome or syndrome X) ([UpToDate](https://www.uptodate.com/contents/metabolic-syndrome-insulin-resistance-syndrome-or-syndrome-x))
+54. Obesity in adults: Overview of management ([UpToDate](https://www.uptodate.com/contents/obesity-in-adults-overview-of-management))
+##### Dyslipidemia
+55. Low-density lipoprotein cholesterol-lowering therapy in the primary prevention of cardiovascular disease ([UpToDate](https://www.uptodate.com/contents/low-density-lipoprotein-cholesterol-lowering-therapy-in-the-primary-prevention-of-cardiovascular-disease))
+##### Endocrine
+56. Laboratory assessment of thyroid function ([UpToDate](https://www.uptodate.com/contents/laboratory-assessment-of-thyroid-function?search=thyroid))
+57. Treatment of hypocalcemia ([UpToDate](https://www.uptodate.com/contents/treatment-of-hypocalcemia))
+58. Causes of primary adrenal insufficiency (Addison disease) ([UpToDate](https://www.uptodate.com/contents/causes-of-primary-adrenal-insufficiency-addison-disease))
 #### 感染科 (猜題來源: 臨床)
 59. Acute and early HIV infection: Clinical manifestations and diagnosis ([UpToDate](https://www.uptodate.com/contents/acute-and-early-hiv-infection-clinical-manifestations-and-diagnosis))
 60. Tuberculosis infection (latent tuberculosis) in adults: Approach to diagnosis (screening) ([UpToDate](https://www.uptodate.com/contents/tuberculosis-infection-latent-tuberculosis-in-adults-approach-to-diagnosis-screening))
