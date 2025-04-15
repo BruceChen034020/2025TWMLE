@@ -26,7 +26,14 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 14. Atrial fibrillation: Overview and management of new-onset atrial fibrillation ([UpToDate](https://www.uptodate.com/contents/atrial-fibrillation-overview-and-management-of-new-onset-atrial-fibrillation))
 #### 胃腸科
 #### 腎臟科
-#### 過敏免疫風濕科
+#### 過敏免疫風濕科 (猜題來源: 考古題)
+##### 結締組織病
+31. SLE
+32. Scleroderma
+##### 關節炎
+32. RA
+33. 
+34. SpA
 #### 腫瘤科 (猜題來源: 臨床)
 36. Overview of the classification and management of cancers of unknown primary site ([UpToDate](https://www.uptodate.com/contents/overview-of-the-classification-and-management-of-cancers-of-unknown-primary-site))
 37. Overview of the treatment of newly diagnosed, invasive, non-metastatic breast cancer ([UpToDate](https://www.uptodate.com/contents/overview-of-the-treatment-of-newly-diagnosed-invasive-non-metastatic-breast-cancer))
