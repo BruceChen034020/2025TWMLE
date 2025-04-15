@@ -8,7 +8,14 @@
 ## 醫學(三)
 ### 內科
 #### 一般內科
-#### 心臟內科
+#### 心臟內科 (猜題來源: 考古題)
+##### 缺血性心臟病
+6. Atherosclerotic cardiovascular disease risk assessment for primary prevention in adults ([UpToDate](https://www.uptodate.com/contents/atherosclerotic-cardiovascular-disease-risk-assessment-for-primary-prevention-in-adults))
+7. Overview of the acute management of non-ST-elevation acute coronary syndromes ([UpToDate](https://www.uptodate.com/contents/overview-of-the-acute-management-of-non-st-elevation-acute-coronary-syndromes))
+##### 心肌症
+8. Major causes of dilated cardiomyopathy ([UpToDate](https://www.uptodate.com/contents/causes-of-dilated-cardiomyopathy?search=dilated%20cardiomyopathy&source=search_result&selectedTitle=1%7E150&usage_type=default&display_rank=1))
+##### 心律不整
+9. 
 #### 胃腸科
 #### 腎臟科
 #### 過敏免疫風濕科
@@ -164,6 +171,7 @@
 5. Allergic reactions to vaccines ([UpToDate](https://www.uptodate.com/contents/allergic-reactions-to-vaccines?sectionName=Hen%27s%20egg&topicRef=16722&anchor=H8&source=see_link#H8))
 6. Pediatric HIV infection: Management of infants born to mothers with HIV in resource-abundant settings ([UpToDate](https://www.uptodate.com/contents/pediatric-hiv-infection-management-of-infants-born-to-mothers-with-hiv-in-resource-abundant-settings?sectionName=APPROACH%20TO%20ARV%20DRUG%20MANAGEMENT&topicRef=16722&anchor=H3375717451&source=see_link#H3375717451))
 7. Limited-stage small cell lung cancer: Initial management ([UpToDate](https://www.uptodate.com/contents/limited-stage-small-cell-lung-cancer-initial-management?sectionName=Consolidative%20durvalumab&topicRef=16722&anchor=H2177602974&source=see_link#H2177602974))
+8. Overview of the acute management of non-ST-elevation acute coronary syndromes ([UpToDate](https://www.uptodate.com/contents/overview-of-the-acute-management-of-non-st-elevation-acute-coronary-syndromes?search=acute%20coronary%20syndrome&source=search_result&selectedTitle=1%7E150&usage_type=default&display_rank=1#H1857925687))
 ### 神經內科新知
 #### 大更新
 1. Treatment of Alzheimer disease ([UpToDate](https://www.uptodate.com/contents/treatment-of-alzheimer-disease?search=alzheimers&source=search_result&selectedTitle=2%7E150&usage_type=default&display_rank=2#H1104380311))
