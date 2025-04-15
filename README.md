@@ -33,7 +33,7 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 ##### 關節炎
 33. RA
 34. Seronegative spondyloarthropathies
-##### 肌病
+##### Myopathies and pain syndromes
 35. Idiopathic inflammatory myopathies
 #### 腫瘤科 (猜題來源: 臨床)
 36. Overview of the classification and management of cancers of unknown primary site ([UpToDate](https://www.uptodate.com/contents/overview-of-the-classification-and-management-of-cancers-of-unknown-primary-site))
