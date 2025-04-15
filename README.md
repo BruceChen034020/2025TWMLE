@@ -145,7 +145,7 @@
 #### 口腔咽喉科
 23. Epiglottitis (supraglottitis): Clinical features and diagnosis ([UpToDate](https://www.uptodate.com/contents/epiglottitis-supraglottitis-clinical-features-and-diagnosis))
 24. Hoarseness in adults ([UpToDate](https://www.uptodate.com/contents/hoarseness-in-adults))
-25. Clinical presentation and diagnosis of obstructive sleep apnea in adults ([UpToDate](https://www.uptodate.com/contents/clinical-presentation-and-diagnosis-of-obstructive-sleep-apnea-in-adult))
+25. Clinical presentation and diagnosis of obstructive sleep apnea in adults ([UpToDate](https://www.uptodate.com/contents/clinical-presentation-and-diagnosis-of-obstructive-sleep-apnea-in-adults))
 #### 頭頸部腫瘤科
 26. Treatment of stage I and II (early) head and neck cancer: The oral cavity ([UpToDate](https://www.uptodate.com/contents/treatment-of-stage-i-and-ii-early-head-and-neck-cancer-the-oral-cavity))
 27. Salivary gland tumors: Epidemiology, diagnosis, evaluation, and staging ([UpToDate](https://www.uptodate.com/contents/salivary-gland-tumors-epidemiology-diagnosis-evaluation-and-staging))
