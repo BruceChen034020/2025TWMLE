@@ -32,6 +32,7 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 27. Dialysis modality and patient outcome ([UpToDate](https://www.uptodate.com/contents/dialysis-modality-and-patient-outcome))
 28. Approach to the adult with metabolic acidosis ([UpToDate](https://www.uptodate.com/contents/approach-to-the-adult-with-metabolic-acidosis))
 29. Overview of the treatment of hyponatremia in adults ([UpToDate](https://www.uptodate.com/contents/overview-of-the-treatment-of-hyponatremia-in-adults))
+30. Kidney stones in adults: Prevention of recurrent kidney stones ([UpToDate](https://www.uptodate.com/contents/kidney-stones-in-adults-prevention-of-recurrent-kidney-stones))
 #### 過敏免疫風濕科 (猜題來源: 臨床)
 ##### 結締組織病
 31. Systemic lupus erythematosus in adults: Clinical manifestations and diagnosis ([UpToDate](https://www.uptodate.com/contents/systemic-lupus-erythematosus-in-adults-clinical-manifestations-and-diagnosis))
