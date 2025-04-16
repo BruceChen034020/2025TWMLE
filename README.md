@@ -204,6 +204,10 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 1. Treatment of Alzheimer disease ([UpToDate](https://www.uptodate.com/contents/treatment-of-alzheimer-disease?search=alzheimers&source=search_result&selectedTitle=2%7E150&usage_type=default&display_rank=2#H1104380311))
 #### 小更新
 2. Reversal of anticoagulation in intracranial hemorrhage ([UpToDate](https://www.uptodate.com/contents/reversal-of-anticoagulation-in-intracranial-hemorrhage?sectionName=Reversal%20agent%20options&topicRef=16722&anchor=H1860076452&source=see_link#H1860076452))
+### 家醫科新知
+#### 政策趨勢
+1. 一般民眾-預立醫療決定意願問題 ([衛服部](https://hpcod.mohw.gov.tw/HospWeb/rwd/QA/general_a.aspx))
+2. 什麼是在宅醫療、在宅住院 ([在宅醫療學會](https://tsohhc.tw/what-is-hah.html))
 ### 外科新知
 #### 大更新
 1. Robot-assisted laparoscopy ([UpToDate](https://www.uptodate.com/contents/robot-assisted-laparoscopy))
@@ -220,6 +224,7 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 #### 小更新
 4.  Management of early-stage cervical cancer ([UpToDate](https://www.uptodate.com/contents/management-of-early-stage-cervical-cancer?sectionName=Type%20of%20surgery&topicRef=16722&anchor=H886761283&source=see_link#H886761283))
 ### 小兒科新知
+#### 政策趨勢
 1. 7月1日起正式上路 未滿7歲兒童新增6次「兒童發展篩檢服務」 透過接受標準化篩檢工具 找出關鍵原因 ([衛福部國建署](https://www.hpa.gov.tw/Pages/Detail.aspx?nodeid=4809&pid=18221))
 ### 急診科新知
 #### 大更新
