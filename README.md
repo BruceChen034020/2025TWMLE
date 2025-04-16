@@ -74,7 +74,7 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 67. Obesity in adults: Overview of management ([UpToDate](https://www.uptodate.com/contents/obesity-in-adults-overview-of-management))
 #### 預防醫學
 68. 嬰幼兒預防接種時程海報 ([衛福部疾管署](https://www.cdc.gov.tw/File/Get?q=alK1SUhIV6SOP0j4uU3aI7aYD5CNmxXJXAgbcPCy5Mj5d0TnNiVZy5aDEBVIlSO5kZ5pqAGpOQ5FCdQNl36pYTqGkKJSBG2iwtQWOlb2AxTU1U8YzzGWTk5x42GrqevBKYo-tRf_00xVLuwnra5t3g)(下載jpg檔))
-69. Screening tests in children and adolescents ([UpToDate](https://www.uptodate.com/contents/screening-tests-in-children-and-adolescents))
+69. A and B Recommendations ([USPSTF](https://www.uspreventiveservicestaskforce.org/uspstf/recommendation-topics/uspstf-a-and-b-recommendations) [USPSTF](https://www.uspreventiveservicestaskforce.org/webview))
 #### 行為醫學
 70. Glossary of common biostatistical and epidemiological terms ([UpToDate](https://www.uptodate.com/contents/glossary-of-common-biostatistical-and-epidemiological-terms))
 71. Depression in adults: Clinical features and diagnosis ([UpToDate](https://www.uptodate.com/contents/depression-in-adults-clinical-features-and-diagnosis))
