@@ -123,7 +123,18 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 ## 醫學(五)
 ### 外科
 #### 外科概論
-#### 神經外科
+#### 神經外科 (猜題來源: 臨床)
+##### 神經腫瘤
+###### Intra-axial
+8. Classification and pathologic diagnosis of gliomas, glioneuronal tumors, and neuronal tumors ([UpToDate](https://www.uptodate.com/contents/classification-and-pathologic-diagnosis-of-gliomas-glioneuronal-tumors-and-neuronal-tumors))
+##### 腦血管病變
+9. Vascular malformations of the central nervous system ([UpToDate](https://www.uptodate.com/contents/vascular-malformations-of-the-central-nervous-system))
+10. Carotid-cavernous fistulas ([UpToDate](https://www.uptodate.com/contents/carotid-cavernous-fistulas))
+##### 脊椎退化疾病/脊髓損傷
+11. Degenerative disc disease ([Amboss](https://next.amboss.com/us/article/ji0_rf))
+12. Spondylolysis and spondylolisthesis in child and adolescent athletes: Management ([UpToDate](https://www.uptodate.com/contents/spondylolysis-and-spondylolisthesis-in-child-and-adolescent-athletes-management))
+##### 頭部外傷
+13. Management of acute moderate and severe traumatic brain injury ([UpToDate](https://www.uptodate.com/contents/management-of-acute-moderate-and-severe-traumatic-brain-injury))
 #### 重建整形外科
 #### 心臟血管外科
 #### 胸腔外科
