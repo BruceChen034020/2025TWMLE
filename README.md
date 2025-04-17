@@ -55,7 +55,7 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 43. Microcytosis/Microcytic anemia ([UpToDate](https://www.uptodate.com/contents/microcytosis-microcytic-anemia))
 ##### WBC
 44. Acute leukemia ([Amboss](https://next.amboss.com/us/article/iT0Jq2))
-#### 胸腔內科
+#### 胸腔內科 (猜題來源: 臨床)
 45. Overview of community-acquired pneumonia in adults ([UpToDate](https://www.uptodate.com/contents/overview-of-community-acquired-pneumonia-in-adults))
 46. The evaluation, diagnosis, and treatment of the adult patient with acute hypercapnic respiratory failure ([UpToDate](https://www.uptodate.com/contents/the-evaluation-diagnosis-and-treatment-of-the-adult-patient-with-acute-hypercapnic-respiratory-failure))
 47. Acute respiratory distress syndrome: Clinical features, diagnosis, and complications in adults ([UpToDate](https://www.uptodate.com/contents/acute-respiratory-distress-syndrome-clinical-features-diagnosis-and-complications-in-adults))
@@ -151,7 +151,12 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 13. Management of acute moderate and severe traumatic brain injury ([UpToDate](https://www.uptodate.com/contents/management-of-acute-moderate-and-severe-traumatic-brain-injury))
 #### 重建整形外科
 #### 心臟血管外科
-#### 胸腔外科
+#### 胸腔外科 (猜題來源: 考古題)
+25. Esophageal diverticula ([Amboss](https://next.amboss.com/us/article/Eg08C2))
+26. Lung cancer ([Amboss](https://next.amboss.com/us/article/nh07ef))
+27. Lung abcess ([Amboss](https://next.amboss.com/us/article/mI0VWh))
+28. Pleural effusion ([Amboss](https://next.amboss.com/us/article/F50gNg))
+29. Thoracentesis ([Amboss](https://next.amboss.com/us/article/tt0X23))
 #### 消化器外科
 #### 內分泌外科
 #### 乳房外科
