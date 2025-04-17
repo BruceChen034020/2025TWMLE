@@ -56,6 +56,13 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 ##### WBC
 44. Acute leukemia ([Amboss](https://next.amboss.com/us/article/iT0Jq2))
 #### 胸腔內科
+45. Overview of community-acquired pneumonia in adults ([UpToDate](https://www.uptodate.com/contents/overview-of-community-acquired-pneumonia-in-adults))
+46. The evaluation, diagnosis, and treatment of the adult patient with acute hypercapnic respiratory failure ([UpToDate](https://www.uptodate.com/contents/the-evaluation-diagnosis-and-treatment-of-the-adult-patient-with-acute-hypercapnic-respiratory-failure))
+47. Acute respiratory distress syndrome: Clinical features, diagnosis, and complications in adults ([UpToDate](https://www.uptodate.com/contents/acute-respiratory-distress-syndrome-clinical-features-diagnosis-and-complications-in-adults))
+48. Pleural fluid analysis in adults with a pleural effusion ([UpToDate](https://www.uptodate.com/contents/acute-respiratory-distress-syndrome-clinical-features-diagnosis-and-complications-in-adults))
+49. Treatment of primary spontaneous pneumothorax in adults ([UpToDate](https://www.uptodate.com/contents/treatment-of-primary-spontaneous-pneumothorax-in-adults))
+50. Chronic obstructive pulmonary disease: Diagnosis and staging ([UpToDate](https://www.uptodate.com/contents/chronic-obstructive-pulmonary-disease-diagnosis-and-staging))
+51. An overview of asthma management in children and adults ([UpToDate](https://www.uptodate.com/contents/an-overview-of-asthma-management-in-children-and-adults))
 #### 新陳代謝科 (猜題來源: 臨床)
 ##### Diabetes
 52. Clinical presentation, diagnosis, and initial evaluation of diabetes mellitus in adults ([UpToDate](https://www.uptodate.com/contents/clinical-presentation-diagnosis-and-initial-evaluation-of-diabetes-mellitus-in-adults))
