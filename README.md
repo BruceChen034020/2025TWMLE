@@ -31,7 +31,7 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 26. Overview of the management of chronic kidney disease in adults ([UpToDate](https://www.uptodate.com/contents/overview-of-the-management-of-chronic-kidney-disease-in-adults))
 27. Dialysis modality and patient outcome ([UpToDate](https://www.uptodate.com/contents/dialysis-modality-and-patient-outcome))
 28. Approach to the adult with metabolic acidosis ([UpToDate](https://www.uptodate.com/contents/approach-to-the-adult-with-metabolic-acidosis))
-29. Overview of the treatment of hyponatremia in adults ([UpToDate](https://www.uptodate.com/contents/overview-of-the-treatment-of-hyponatremia-in-adults))
+29. Diagnostic evaluation of adults with hyponatremia ([UpToDate](https://www.uptodate.com/contents/diagnostic-evaluation-of-adults-with-hyponatremia))
 30. Kidney stones in adults: Prevention of recurrent kidney stones ([UpToDate](https://www.uptodate.com/contents/kidney-stones-in-adults-prevention-of-recurrent-kidney-stones))
 #### 過敏免疫風濕科 (猜題來源: 臨床)
 ##### 結締組織病
