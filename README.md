@@ -621,3 +621,8 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 | Day 5 | 精神科 intro：mood disorders + suicide risk記憶 DSM-5 關鍵詞 | 50 題 | 測驗自我診斷 vs 錯誤 |
 | Day 6 | 模擬小考（50 題）+ 全面錯題複習記錄錯題原因 | 50 題 | 可使用 AMCQbank mini mock |
 | Day 7 | 回顧本週筆記 + 交錯科別複習（Obs + Peds） | 40 題 | 自製 quiz 小測驗 |
+
+
+
+## 及格率預測
+![及格率預測](及格率預測.png)
