@@ -159,7 +159,7 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 26. Lung cancer ([Amboss](https://next.amboss.com/us/article/nh07ef))
 27. Lung abcess ([Amboss](https://next.amboss.com/us/article/mI0VWh))
 28. Pleural effusion ([Amboss](https://next.amboss.com/us/article/F50gNg))
-29. Thoracentesis ([Amboss](https://next.amboss.com/us/article/tt0X23))
+29. Initial evaluation and management of blunt thoracic trauma in adults ([UpToDate](https://www.uptodate.com/contents/initial-evaluation-and-management-of-blunt-thoracic-trauma-in-adults))
 #### 消化器外科
 #### 內分泌外科
 #### 乳房外科
