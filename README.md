@@ -27,7 +27,16 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 13. Clinical manifestations and diagnosis of advanced heart failure ([UpToDate](https://www.uptodate.com/contents/clinical-manifestations-and-diagnosis-of-advanced-heart-failure))
 ##### 心律不整
 14. Atrial fibrillation: Overview and management of new-onset atrial fibrillation ([UpToDate](https://www.uptodate.com/contents/atrial-fibrillation-overview-and-management-of-new-onset-atrial-fibrillation))
-#### 胃腸科
+#### 胃腸科 (猜題來源: 臨床)
+15. Hepatitis B virus: Overview of management ([UpToDate](https://www.uptodate.com/contents/hepatitis-b-virus-overview-of-management))
+16. Diagnostic approach to the adult with jaundice or asymptomatic hyperbilirubinemia ([UpToDate](https://www.uptodate.com/contents/diagnostic-approach-to-the-adult-with-jaundice-or-asymptomatic-hyperbilirubinemia))
+17. Treatment of irritable bowel syndrome in adults ([UpToDate](https://www.uptodate.com/contents/diagnostic-approach-to-the-adult-with-jaundice-or-asymptomatic-hyperbilirubinemia))
+18. Spontaneous bacterial peritonitis in adults: Treatment and prophylaxis ([UpToDate](https://www.uptodate.com/contents/spontaneous-bacterial-peritonitis-in-adults-treatment-and-prophylaxis))
+19. Clinical manifestations, diagnosis, and staging of esophageal cancer ([UpToDate](https://www.uptodate.com/contents/clinical-manifestations-diagnosis-and-staging-of-esophageal-cancer))
+20. Overview of the management of patients with variceal bleeding ([UpToDate](https://www.uptodate.com/contents/overview-of-the-management-of-patients-with-variceal-bleeding))
+21. Clinical manifestations, diagnosis, and staging of exocrine pancreatic cancer ([UpToDate](https://www.uptodate.com/contents/clinical-manifestations-diagnosis-and-staging-of-exocrine-pancreatic-cancer))
+22. Overview of treatment approaches for hepatocellular carcinoma ([UpToDate](https://www.uptodate.com/contents/overview-of-treatment-approaches-for-hepatocellular-carcinoma))
+23. Cirrhosis in adults: Etiologies, clinical manifestations, and diagnosis ([UpToDate](https://www.uptodate.com/contents/cirrhosis-in-adults-etiologies-clinical-manifestations-and-diagnosis))
 #### 腎臟科 (猜題來源: 臨床)
 24. Overview of the management of acute kidney injury (AKI) in adults ([UpToDate](https://www.uptodate.com/contents/overview-of-the-management-of-acute-kidney-injury-aki-in-adults))
 25. Overview of heavy proteinuria and the nephrotic syndrome ([UpToDate](https://www.uptodate.com/contents/overview-of-heavy-proteinuria-and-the-nephrotic-syndrome))
