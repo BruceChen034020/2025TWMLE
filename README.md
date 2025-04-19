@@ -30,7 +30,7 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 #### 胃腸科 (猜題來源: 臨床)
 15. Hepatitis B virus: Overview of management ([UpToDate](https://www.uptodate.com/contents/hepatitis-b-virus-overview-of-management))
 16. Diagnostic approach to the adult with jaundice or asymptomatic hyperbilirubinemia ([UpToDate](https://www.uptodate.com/contents/diagnostic-approach-to-the-adult-with-jaundice-or-asymptomatic-hyperbilirubinemia))
-17. Treatment of irritable bowel syndrome in adults ([UpToDate](https://www.uptodate.com/contents/diagnostic-approach-to-the-adult-with-jaundice-or-asymptomatic-hyperbilirubinemia))
+17. Treatment of irritable bowel syndrome in adults ([UpToDate](https://www.uptodate.com/contents/treatment-of-irritable-bowel-syndrome-in-adults))
 18. Spontaneous bacterial peritonitis in adults: Treatment and prophylaxis ([UpToDate](https://www.uptodate.com/contents/spontaneous-bacterial-peritonitis-in-adults-treatment-and-prophylaxis))
 19. Clinical manifestations, diagnosis, and staging of esophageal cancer ([UpToDate](https://www.uptodate.com/contents/clinical-manifestations-diagnosis-and-staging-of-esophageal-cancer))
 20. Overview of the management of patients with variceal bleeding ([UpToDate](https://www.uptodate.com/contents/overview-of-the-management-of-patients-with-variceal-bleeding))
