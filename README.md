@@ -162,6 +162,12 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 ##### 頭部外傷
 13. Management of acute moderate and severe traumatic brain injury ([UpToDate](https://www.uptodate.com/contents/management-of-acute-moderate-and-severe-traumatic-brain-injury))
 #### 重建整形外科
+14. Wound healing ([Amboss](https://next.amboss.com/us/article/Kh0UUf))
+15. Skin autografting ([UpToDate](https://www.uptodate.com/contents/skin-autografting))
+16. Overview of flaps for soft tissue reconstruction ([UpToDate](https://www.uptodate.com/contents/overview-of-flaps-for-soft-tissue-reconstruction))
+17. Skin biopsy techniques ([UpToDate](https://www.uptodate.com/contents/skin-biopsy-techniques))
+18. Clinical staging and general management of pressure-induced skin and soft tissue injury ([UpToDate](https://www.uptodate.com/contents/clinical-staging-and-general-management-of-pressure-induced-skin-and-soft-tissue-injury))
+19. Basal cell carcinoma: Epidemiology, pathogenesis, clinical features, and diagnosis ([UpToDate](https://www.uptodate.com/contents/basal-cell-carcinoma-epidemiology-pathogenesis-clinical-features-and-diagnosis))
 #### 心臟血管外科
 #### 胸腔外科 (猜題來源: 考古題)
 25. Esophageal diverticula ([Amboss](https://next.amboss.com/us/article/Eg08C2))
@@ -172,6 +178,7 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 #### 消化器外科
 #### 內分泌外科
 #### 乳房外科
+41. Palpable breast mass ([Amboss](https://next.amboss.com/us/article/7H047h))
 
 
 
