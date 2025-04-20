@@ -115,6 +115,10 @@
 1. 生長遲緩（constitutional grwoth delay）
 2. 基因不良（familial short stature）
 3. 甲狀腺低下（呆小症）
+## 體重減輕
+1. 癌症
+2. 肺結核
+3. 糖尿病
 ## 月經不規律
 1. 多囊性卵巢
 2. 甲狀腺功能異常
