@@ -106,7 +106,7 @@
 3. 電解質失衡（週期性麻痹、低鉀、低鈣）
 ## 發燒
 1. 感染
-2. DVT
+2. DVT/PE
 3. 痛風
 4. drug fever
 5. tumor fever
