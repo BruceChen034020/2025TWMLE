@@ -129,6 +129,39 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 
 ## 醫學(四)
 ### 小兒科
+1. a
+2. a
+3. a
+4. a
+5. a
+6. a
+7. a
+8. a
+9. a
+10. a
+11. a
+12. a
+13. a
+14. a
+15. a
+16. a
+17. a
+18. a
+19. a
+20. a
+21. a
+22. a
+23. a
+24. a
+25. a
+26. a
+27. a
+28. a
+29. a
+30. a
+31. a
+32. a
+33. 
 ### 皮膚科 (猜題來源: 考古題)
 #### 濕疹及皮膚炎
 34. New-onset urticaria (hives) ([UpToDate](https://www.uptodate.com/contents/new-onset-urticaria-hives))
@@ -154,6 +187,13 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 ## 醫學(五)
 ### 外科
 #### 外科概論
+1. a
+2. a
+3. a
+4. a
+5. a
+6. a
+7. 
 #### 神經外科 (猜題來源: 臨床)
 ##### 神經腫瘤
 ###### Intra-axial
@@ -173,7 +213,10 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 17. Skin biopsy techniques ([UpToDate](https://www.uptodate.com/contents/skin-biopsy-techniques))
 18. Clinical staging and general management of pressure-induced skin and soft tissue injury ([UpToDate](https://www.uptodate.com/contents/clinical-staging-and-general-management-of-pressure-induced-skin-and-soft-tissue-injury))
 19. Basal cell carcinoma: Epidemiology, pathogenesis, clinical features, and diagnosis ([UpToDate](https://www.uptodate.com/contents/basal-cell-carcinoma-epidemiology-pathogenesis-clinical-features-and-diagnosis))
-#### 心臟血管外科
+#### 心臟血管外科 (猜題來源: 考古題）
+20. Aortic dissection ([Amboss](https://next.amboss.com/us/article/M50Mkg))
+21. Endovascular repair of abdominal aortic aneurysm ([UpToDate](https://www.uptodate.com/contents/endovascular-repair-of-abdominal-aortic-aneurysm))
+22. 
 #### 胸腔外科 (猜題來源: 考古題)
 25. Esophageal diverticula ([Amboss](https://next.amboss.com/us/article/Eg08C2))
 26. Lung cancer ([Amboss](https://next.amboss.com/us/article/nh07ef))
