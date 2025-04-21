@@ -226,7 +226,18 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 28. Pleural effusion ([Amboss](https://next.amboss.com/us/article/F50gNg))
 29. Initial evaluation and management of blunt thoracic trauma in adults ([UpToDate](https://www.uptodate.com/contents/initial-evaluation-and-management-of-blunt-thoracic-trauma-in-adults))
 #### 消化器外科
+30. a
+31. a
+32. a
+33. a
+34. a
+35. a
+36. a
+37. 
 #### 內分泌外科
+38. a
+39. a
+40. 
 #### 乳房外科
 41. Palpable breast mass ([Amboss](https://next.amboss.com/us/article/7H047h))
 
