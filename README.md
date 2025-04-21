@@ -161,7 +161,7 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 30. a
 31. a
 32. a
-33. 
+33. a
 ### 皮膚科 (猜題來源: 考古題)
 #### 濕疹及皮膚炎
 34. New-onset urticaria (hives) ([UpToDate](https://www.uptodate.com/contents/new-onset-urticaria-hives))
@@ -193,7 +193,7 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 4. a
 5. a
 6. a
-7. 
+7. a
 #### 神經外科 (猜題來源: 臨床)
 ##### 神經腫瘤
 ###### Intra-axial
@@ -233,11 +233,11 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 34. a
 35. a
 36. a
-37. 
+37. a
 #### 內分泌外科
 38. a
 39. a
-40. 
+40. a
 #### 乳房外科
 41. Palpable breast mass ([Amboss](https://next.amboss.com/us/article/7H047h))
 
