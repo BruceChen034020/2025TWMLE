@@ -216,7 +216,9 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 #### 心臟血管外科 (猜題來源: 考古題）
 20. Aortic dissection ([Amboss](https://next.amboss.com/us/article/M50Mkg))
 21. Endovascular repair of abdominal aortic aneurysm ([UpToDate](https://www.uptodate.com/contents/endovascular-repair-of-abdominal-aortic-aneurysm))
-22. 
+22. Acute limb ischemia ([Amboss](https://next.amboss.com/us/article/1h021f))
+23. Management of atrial septal defects in adults ([UpToDate](https://www.uptodate.com/contents/management-of-atrial-septal-defects-in-adults))
+24. Choice of prosthetic heart valve for surgical aortic or mitral valve replacement ([UpToDate](https://www.uptodate.com/contents/choice-of-prosthetic-heart-valve-for-surgical-aortic-or-mitral-valve-replacement))
 #### 胸腔外科 (猜題來源: 考古題)
 25. Esophageal diverticula ([Amboss](https://next.amboss.com/us/article/Eg08C2))
 26. Lung cancer ([Amboss](https://next.amboss.com/us/article/nh07ef))
