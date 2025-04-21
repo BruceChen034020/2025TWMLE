@@ -20,11 +20,11 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 7. Overview of the acute management of non-ST-elevation acute coronary syndromes ([UpToDate](https://www.uptodate.com/contents/overview-of-the-acute-management-of-non-st-elevation-acute-coronary-syndromes))
 - ##### 心肌症
 8. Major causes of dilated cardiomyopathy ([UpToDate](https://www.uptodate.com/contents/image?imageKey=CARD/60494&topicKey=CARD%2F3516&search=dilated+cardiomyopathy&source=outline_link&selectedTitle=1%7E150))
-##### 心電圖
+* ##### 心電圖
 9. Overview of cardiac arrhythmias ([Amboss](https://next.amboss.com/us/article/7S04af))
-##### 高血壓
+* ##### 高血壓
 10. Overview of hypertension in adults ([UpToDate](https://www.uptodate.com/contents/overview-of-hypertension-in-adults))
-##### 血管病
+* ##### 血管病
 11. Aneurysm ([Amboss](https://next.amboss.com/us/article/Wh0P1f))
 ##### 心包疾病
 12. Acute pericarditis: Clinical presentation and diagnosis ([UpToDate](https://www.uptodate.com/contents/acute-pericarditis-clinical-presentation-and-diagnosis))
