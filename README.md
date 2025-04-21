@@ -253,23 +253,28 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 8. Overview of the acute management of non-ST-elevation acute coronary syndromes ([UpToDate](https://www.uptodate.com/contents/overview-of-the-acute-management-of-non-st-elevation-acute-coronary-syndromes?search=acute%20coronary%20syndrome&source=search_result&selectedTitle=1%7E150&usage_type=default&display_rank=1#H1857925687))
 9. Overview of hypertension in adults ([UpToDate](https://www.uptodate.com/contents/overview-of-hypertension-in-adults?search=hypertension&source=search_result&selectedTitle=1%7E150&usage_type=default&display_rank=1#H3639365205))
 10. Overview of the treatment of hyponatremia in adults ([UpToDate](https://www.uptodate.com/contents/overview-of-the-treatment-of-hyponatremia-in-adults?search=hyponatremia&source=search_result&selectedTitle=1%7E150&usage_type=default&display_rank=1#H3469912093))
+
 ### 神經內科新知
 #### 大更新
 1. Treatment of Alzheimer disease ([UpToDate](https://www.uptodate.com/contents/treatment-of-alzheimer-disease?search=alzheimers&source=search_result&selectedTitle=2%7E150&usage_type=default&display_rank=2#H1104380311))
 #### 小更新
 2. Reversal of anticoagulation in intracranial hemorrhage ([UpToDate](https://www.uptodate.com/contents/reversal-of-anticoagulation-in-intracranial-hemorrhage?sectionName=Reversal%20agent%20options&topicRef=16722&anchor=H1860076452&source=see_link#H1860076452))
+
 ### 家醫科新知
 #### 政策趨勢
 1. 一般民眾-預立醫療決定意願問題 ([衛服部](https://hpcod.mohw.gov.tw/HospWeb/rwd/QA/general_a.aspx))
 2. 什麼是在宅醫療、在宅住院 ([在宅醫療學會](https://tsohhc.tw/what-is-hah.html))
+
 ### 外科新知
 #### 大更新
 1. Robot-assisted laparoscopy ([UpToDate](https://www.uptodate.com/contents/robot-assisted-laparoscopy))
 2. Clinical presentation, diagnosis, and staging of gastric cancer ([UpToDate](https://www.uptodate.com/contents/clinical-presentation-diagnosis-and-staging-of-gastric-cancer))
 #### 小更新
 3. Principles of abdominal wall closure ([UpToDate](https://www.uptodate.com/contents/principles-of-abdominal-wall-closure?sectionName=Continuous%20closure%20technique&topicRef=16722&anchor=H17&source=see_link#H17))
+
 ### 麻醉科新知
 1.  Nonopioid pharmacotherapy for acute pain in adults ([UpToDate](https://www.uptodate.com/contents/nonopioid-pharmacotherapy-for-acute-pain-in-adults?sectionName=Suzetrigine%2C%20a%20novel%20Nav1.8%20inhibitor&topicRef=112615&anchor=H510493951&source=see_link#H510493951))
+
 ### 婦產科新知
 #### 大更新
 1. WHO guideline for screening and treatment of cervical pre-cancer lesions for cervical cancer prevention ([WHO](https://iris.who.int/bitstream/handle/10665/342365/9789240030824-eng.pdf?sequence=1)(pdf檔))
@@ -277,9 +282,11 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 3. In vitro fertilization: Overview of clinical issues and questions ([UpToDate](https://www.uptodate.com/contents/in-vitro-fertilization-overview-of-clinical-issues-and-questions#H963856634))
 #### 小更新
 4.  Management of early-stage cervical cancer ([UpToDate](https://www.uptodate.com/contents/management-of-early-stage-cervical-cancer?sectionName=Type%20of%20surgery&topicRef=16722&anchor=H886761283&source=see_link#H886761283))
+
 ### 小兒科新知
 #### 政策趨勢
 1. 7月1日起正式上路 未滿7歲兒童新增6次「兒童發展篩檢服務」 透過接受標準化篩檢工具 找出關鍵原因 ([衛福部國建署](https://www.hpa.gov.tw/Pages/Detail.aspx?nodeid=4809&pid=18221))
+
 ### 急診科新知
 #### 大更新
 1. Evaluation and management of suspected sepsis and septic shock in adults ([UpToDate](https://www.uptodate.com/contents/evaluation-and-management-of-suspected-sepsis-and-septic-shock-in-adults?search=surviving%20sepsis%20campaign&sectionRank=2&usage_type=default&anchor=H31&source=machineLearning&selectedTitle=1%7E150&display_rank=1#H10))
