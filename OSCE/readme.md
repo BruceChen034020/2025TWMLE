@@ -86,6 +86,11 @@
 1. 心因性（心律不整、吸毒、CAD）
 2. 精神科（恐慌症）
 3. 甲狀腺亢進
+
+## 肩膀痛
+1. 內臟（心、膽囊、肺尖）
+2. 肩關節及周圍軟組織（rotator cuff tear, impingement syndrome, calcific tendonitis, 五十肩）
+3. 頸椎（根神經、胸廓出口）
    
 ## 腹痛
 1. 感染（腸胃炎）
