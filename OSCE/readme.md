@@ -303,7 +303,7 @@
 3. 胎盤前置
 
 ## 產後大出血
-
+4T (Tone, Tissue, Trauma, Thrombin)
    
 ## 痛經
 1. 子宮內膜異位
