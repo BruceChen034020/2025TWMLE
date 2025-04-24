@@ -90,7 +90,7 @@
 ## 肩膀痛
 1. 內臟（心、膽囊、肺尖）
 2. 肩關節及周圍軟組織（rotator cuff tear, impingement syndrome, calcific tendonitis, 五十肩）
-3. 頸椎（根神經、胸廓出口）
+3. 神經（頸椎根神經、胸廓出口）
    
 ## 腹痛
 1. 感染（腸胃炎）
