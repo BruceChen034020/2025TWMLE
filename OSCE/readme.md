@@ -306,6 +306,7 @@
 1. 子宮破裂
 2. 胎盤早期剝離
 3. 胎盤前置
+4. 產兆
 
 ## 產後大出血
 4T (Tone, Tissue, Trauma, Thrombin)
