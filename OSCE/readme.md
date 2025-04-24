@@ -261,9 +261,9 @@
 3. 姿勢性
    
 ## 身材矮小
-1. 生長遲緩（constitutional grwoth delay）
-2. 基因不良（familial short stature）
-3. 甲狀腺低下（呆小症）
+1. 生長遲緩
+2. 遺傳
+3. 甲狀腺低下
    
 ## 體重減輕
 1. 癌症
