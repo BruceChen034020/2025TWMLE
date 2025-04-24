@@ -319,7 +319,7 @@
 3. 胎盤前置
 4. 產兆
 
-## 產後大出血
+## 產後陰道大出血
 4T (Tone, Tissue, Trauma, Thrombin)
    
 ## 痛經
