@@ -10,7 +10,7 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 1. a
 ### 內科
 
-#### 一般內科 (猜題來源: 臨床) 0520
+#### 一般內科 (猜題來源: 臨床) 0523
 
 
 1. Stress ulcers in the intensive care unit: Diagnosis, management, and prevention ([UpToDate](https://www.uptodate.com/contents/stress-ulcers-in-the-intensive-care-unit-diagnosis-management-and-prevention))
