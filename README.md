@@ -98,7 +98,7 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 62. Beta-lactam antibiotics: Mechanisms of action and resistance and adverse effects ([UpToDate](https://www.uptodate.com/contents/beta-lactam-antibiotics-mechanisms-of-action-and-resistance-and-adverse-effects))
 63. Overview of community-acquired pneumonia in adults ([UpToDate](https://www.uptodate.com/contents/overview-of-community-acquired-pneumonia-in-adults))
 64. Screening for sexually transmitted infections ([UpToDate](https://www.uptodate.com/contents/screening-for-sexually-transmitted-infections))
-65. General virology ([Amboss](https://next.amboss.com/us/article/Pn0Wtg))
+65. 病毒學國考總複習 ([陽明醫學系黃麗華老師](內部/陽明醫學系112級上課講義/2019%20病毒學國考複習給醫二.pdf))
 ### 家庭醫學科 (猜題來源: 臨床)
 #### 家庭醫業
 66. 家庭醫學的照顧特色：3C2A ([內部](內部/3C2A.md))
