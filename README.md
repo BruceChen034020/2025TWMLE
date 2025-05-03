@@ -213,6 +213,10 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 69. COMMON ABUSED SUBSTANCES ([Kaplan](內部/Kaplan/Kaplan%20USMLE-1%20(2013)%20-%20Behavioral%20Science%20(1).pdf))
 70. Evaluation of cognitive impairment and dementia ([UpToDate](https://www.uptodate.com/contents/evaluation-of-cognitive-impairment-and-dementia))
 #### 兒青
+71. Attention deficit hyperactivity disorder in children and adolescents: Overview of treatment and prognosis ([UpToDate](https://www.uptodate.com/contents/attention-deficit-hyperactivity-disorder-in-children-and-adolescents-overview-of-treatment-and-prognosis))
+72. Autism spectrum disorder in children and adolescents: Overview of management and prognosis ([UpToDate](https://www.uptodate.com/contents/autism-spectrum-disorder-in-children-and-adolescents-overview-of-management-and-prognosis))
+#### 其他
+73. Suicidal ideation and behavior in adults ([UpToDate](https://www.uptodate.com/contents/suicidal-ideation-and-behavior-in-adults))
 
 
 
