@@ -217,6 +217,17 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 72. Autism spectrum disorder in children and adolescents: Overview of management and prognosis ([UpToDate](https://www.uptodate.com/contents/autism-spectrum-disorder-in-children-and-adolescents-overview-of-management-and-prognosis))
 #### 其他
 73. Suicidal ideation and behavior in adults ([UpToDate](https://www.uptodate.com/contents/suicidal-ideation-and-behavior-in-adults))
+### 放射科 (猜題來源: 臨床)
+#### 神經放射科
+74. Intracranial hemorrhage ([Radiopaedia](https://radiopaedia.org/articles/intracranial-haemorrhage))
+75. Extradural hematoma vs subdural hematoma ([Radiopaedia](https://radiopaedia.org/articles/extradural-haematoma-vs-subdural-haematoma))
+### 急診醫學科 (猜題來源: 臨床)
+76. 
+77. 
+78. 
+### 醫學倫理
+79. a
+80. 
 
 
 
