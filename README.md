@@ -284,7 +284,7 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 32. Bowel obstruction ([Amboss](https://next.amboss.com/us/article/230T3f))
 ###### 胰
 33. Acute pancreatitis ([Amboss](https://next.amboss.com/us/article/SS0y_2))
-34. Chronic pancreatitis ([Amboss](https://next.amboss.com/us/article/SS0y_2))
+34. Chronic pancreatitis ([Amboss](https://next.amboss.com/us/article/hS0cz2))
 ###### 肝
 35. Benign liver tumors and hepatic cysts ([Amboss](https://next.amboss.com/us/article/pS0L0f))
 36. Hepatocellular carcinoma ([Amboss](https://next.amboss.com/us/article/6S0j0f))
