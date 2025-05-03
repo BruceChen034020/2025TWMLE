@@ -129,10 +129,10 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 
 
 ## 醫學(四)
-### 小兒科
-**1.** a
-**2.** a
-**3.** a
+### 　 小兒科
+1. a
+2. a
+3. a
 4. a
 5. a
 6. a
@@ -235,8 +235,8 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 
 
 ## 醫學(五)
-### 外科
-#### 外科概論
+### 　 外科
+#### 　　外科概論
 1. a
 2. a
 3. a
@@ -279,9 +279,10 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 ##### 消化器外科
 ###### 胃
 30. Gastric cancer ([Amboss](https://next.amboss.com/us/article/-g0DB2))
-###### 
+
 31. a
-32. a
+###### 小腸
+32. Bowel obstruction ([Amboss](https://next.amboss.com/us/article/230T3f))
 33. a
 34. a
 35. a
@@ -299,8 +300,8 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 
 
 ## 醫學(六)
-### 麻醉科 (猜題來源: 考古題)
-#### 呼吸道之維持
+### 　 麻醉科 (猜題來源: 考古題)
+#### 　　呼吸道之維持
 1.	Airway management for general anesthesia in adults ([UpToDate](https://www.uptodate.com/contents/airway-management-for-general-anesthesia-in-adults))
 #### 麻醉監視器之運用及判讀
 2.	Arterial blood gas analysis ([Amboss](https://next.amboss.com/us/article/8l0OAT))
