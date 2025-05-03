@@ -130,9 +130,9 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 
 ## 醫學(四)
 ### 小兒科
-1. a
-2. a
-3. a
+**1.** a
+**2.** a
+**3.** a
 4. a
 5. a
 6. a
@@ -275,8 +275,11 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 27. Lung abcess ([Amboss](https://next.amboss.com/us/article/mI0VWh))
 28. Pleural effusion ([Amboss](https://next.amboss.com/us/article/F50gNg))
 29. Initial evaluation and management of blunt thoracic trauma in adults ([UpToDate](https://www.uptodate.com/contents/initial-evaluation-and-management-of-blunt-thoracic-trauma-in-adults))
-#### 消化器外科
-30. a
+#### 一般外科 (猜題來源: 臨床)
+##### 消化器外科
+###### 胃
+30. Gastric cancer ([Amboss](https://next.amboss.com/us/article/-g0DB2))
+###### 
 31. a
 32. a
 33. a
@@ -284,12 +287,14 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 35. a
 36. a
 37. a
-#### 內分泌外科
+##### 內分泌外科
 38. a
 39. a
 40. a
-#### 乳房外科
+##### 乳房外科
 41. Palpable breast mass ([Amboss](https://next.amboss.com/us/article/7H047h))
+42. Breast pain ([UpToDate](https://www.uptodate.com/contents/breast-pain))
+43. Nipple discharge ([Amboss](https://next.amboss.com/us/article/AL0RZS))
 
 
 
