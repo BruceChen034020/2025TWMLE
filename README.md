@@ -7,8 +7,8 @@
 陽明醫學系共筆建議讀「重點整理」<br>
 UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 ## 醫學(三)
-### 　                內科
-#### 　　一般內科 (猜題來源: 臨床) 0541
+### 　 內科
+#### 　　一般內科 (猜題來源: 臨床)
 1. Stress ulcers in the intensive care unit: Diagnosis, management, and prevention ([UpToDate](https://www.uptodate.com/contents/stress-ulcers-in-the-intensive-care-unit-diagnosis-management-and-prevention))
 2. Pulmonary artery catheterization: Indications, contraindications, and complications in adults ([UpToDate](https://www.uptodate.com/contents/pulmonary-artery-catheterization-indications-contraindications-and-complications-in-adults))
 3. Sepsis syndromes in adults: Epidemiology, definitions, clinical presentation, diagnosis, and prognosis ([UpToDate](https://www.uptodate.com/contents/sepsis-syndromes-in-adults-epidemiology-definitions-clinical-presentation-diagnosis-and-prognosis))
