@@ -289,7 +289,7 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 35. Benign liver tumors and hepatic cysts ([Amboss](https://next.amboss.com/us/article/pS0L0f))
 36. Hepatocellular carcinoma ([Amboss](https://next.amboss.com/us/article/6S0j0f))
 ###### 膽道
-37. Cholelithiasis ([Amboss](https://next.amboss.com/us/article/V30Gh))
+37. Cholelithiasis ([Amboss](https://next.amboss.com/us/article/V30Ghf))
 ##### 內分泌外科
 ###### 甲狀腺/副甲狀腺
 38. Thyroid nodules ([Amboss](https://next.amboss.com/us/article/ao0Q0S))
