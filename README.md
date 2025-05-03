@@ -210,7 +210,7 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 66. Psychiatric drug poisoning ([Amboss](https://next.amboss.com/us/article/qF0CQ3))
 67. Substance use disorders: Clinical assessment ([UpToDate](https://www.uptodate.com/contents/substance-use-disorders-clinical-assessment))
 68. Ethanol intoxication in adults ([UpToDate](https://www.uptodate.com/contents/ethanol-intoxication-in-adults))
-69. Substance-related and addictive disorders ([Amboss](https://next.amboss.com/us/article/oP00fT))
+69. Substance-related and addictive disorders ([Kaplan](內部/Kaplan/Kaplan%20USMLE-1%20(2013)%20-%20Behavioral%20Science%20(1).pdf))
 70. Evaluation of cognitive impairment and dementia ([UpToDate](https://www.uptodate.com/contents/evaluation-of-cognitive-impairment-and-dementia))
 
 
