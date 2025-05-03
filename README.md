@@ -291,9 +291,10 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 ###### 膽道
 37. Cholelithiasis ([Amboss](https://next.amboss.com/us/article/V30Gh))
 ##### 內分泌外科
-38. a
-39. a
-40. a
+###### 甲狀腺/副甲狀腺
+38. Thyroid nodules ([Amboss](https://next.amboss.com/us/article/ao0Q0S))
+39. Multiple endocrine neoplasia ([Amboss](https://next.amboss.com/us/article/hg0cE2))
+40. Hyperparathyroidism ([Amboss](https://next.amboss.com/us/article/gg0Fu2))
 ##### 乳房外科
 41. Palpable breast mass ([Amboss](https://next.amboss.com/us/article/7H047h))
 42. Breast pain ([UpToDate](https://www.uptodate.com/contents/breast-pain))
