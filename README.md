@@ -181,6 +181,37 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 #### 角化異常
 43. Ichthyosis vulgaris ([UpToDate](https://www.uptodate.com/contents/ichthyosis-vulgaris))
 ### 神經科
+44. a
+45. a
+46. a
+47. a
+48. a
+49. a
+50. a
+51. a
+52. a
+53. a
+54. a
+55. a
+56. a
+57. a
+58. a
+### 精神科 (猜題來源: 臨床)
+#### Psychotic disorders
+59. Psychosis in adults: Epidemiology, clinical manifestations, and diagnostic evaluation ([UpToDate](https://www.uptodate.com/contents/psychosis-in-adults-epidemiology-clinical-manifestations-and-diagnostic-evaluation))
+60. Schizophrenia in adults: Clinical features, assessment, and diagnosis ([UpToDate](https://www.uptodate.com/contents/schizophrenia-in-adults-clinical-features-assessment-and-diagnosis))
+61. Schizophrenia in adults: Epidemiology and pathogenesis ([UpToDate](https://www.uptodate.com/contents/schizophrenia-in-adults-epidemiology-and-pathogenesis))
+#### Neurotic disorders
+62. Approach to the adult patient with suspected depression ([UpToDate](https://www.uptodate.com/contents/approach-to-the-adult-patient-with-suspected-depression))
+63. Anxiety disorders in children and adolescents: Assessment and diagnosis ([UpToDate](https://www.uptodate.com/contents/anxiety-disorders-in-children-and-adolescents-assessment-and-diagnosis))
+64. Obsessive-compulsive disorder in adults: Treatment overview ([UpToDate](https://www.uptodate.com/contents/obsessive-compulsive-disorder-in-adults-treatment-overview))
+65. Somatic symptom disorder: Assessment and diagnosis ([UpToDate](https://www.uptodate.com/contents/somatic-symptom-disorder-assessment-and-diagnosis))
+#### Organic and drug-related disorders
+66. Psychiatric drug poisoning ([Amboss](https://next.amboss.com/us/article/qF0CQ3))
+67. Substance use disorders: Clinical assessment ([UpToDate](https://www.uptodate.com/contents/substance-use-disorders-clinical-assessment))
+68. Ethanol intoxication in adults ([UpToDate](https://www.uptodate.com/contents/ethanol-intoxication-in-adults))
+69. Substance-related and addictive disorders ([Amboss](https://next.amboss.com/us/article/oP00fT))
+70. Evaluation of cognitive impairment and dementia ([UpToDate](https://www.uptodate.com/contents/evaluation-of-cognitive-impairment-and-dementia))
 
 
 
