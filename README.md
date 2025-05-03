@@ -279,15 +279,17 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 ##### 消化器外科
 ###### 胃
 30. Gastric cancer ([Amboss](https://next.amboss.com/us/article/-g0DB2))
-
-31. a
+31. Gastrointestinal stromal tumor ([Amboss](https://next.amboss.com/us/article/iv0J-3))
 ###### 小腸
 32. Bowel obstruction ([Amboss](https://next.amboss.com/us/article/230T3f))
-33. a
-34. a
-35. a
-36. a
-37. a
+###### 胰
+33. Acute pancreatitis ([Amboss](https://next.amboss.com/us/article/SS0y_2))
+34. Chronic pancreatitis ([Amboss](https://next.amboss.com/us/article/SS0y_2))
+###### 肝
+35. Benign liver tumors and hepatic cysts ([Amboss](https://next.amboss.com/us/article/pS0L0f))
+36. Hepatocellular carcinoma ([Amboss](https://next.amboss.com/us/article/6S0j0f))
+###### 膽道
+37. Cholelithiasis ([Amboss](https://next.amboss.com/us/article/V30Gh))
 ##### 內分泌外科
 38. a
 39. a
