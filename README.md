@@ -203,7 +203,7 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 61. Schizophrenia in adults: Epidemiology and pathogenesis ([UpToDate](https://www.uptodate.com/contents/schizophrenia-in-adults-epidemiology-and-pathogenesis))
 #### Neurotic disorders
 62. Approach to the adult patient with suspected depression ([UpToDate](https://www.uptodate.com/contents/approach-to-the-adult-patient-with-suspected-depression))
-63. Bipolar major depression in adults: Choosing treatment ([UpToDate](https://www.uptodate.com/contents/bipolar-major-depression-in-adults-choosing-treatmen))
+63. Bipolar major depression in adults: Choosing treatment ([UpToDate](https://www.uptodate.com/contents/bipolar-major-depression-in-adults-choosing-treatment))
 64. Anxiety disorders in children and adolescents: Assessment and diagnosis ([UpToDate](https://www.uptodate.com/contents/anxiety-disorders-in-children-and-adolescents-assessment-and-diagnosis))
 65. Obsessive-compulsive disorder in adults: Treatment overview ([UpToDate](https://www.uptodate.com/contents/obsessive-compulsive-disorder-in-adults-treatment-overview))
 #### Organic and drug-related disorders
