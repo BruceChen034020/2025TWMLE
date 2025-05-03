@@ -203,9 +203,9 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 61. Schizophrenia in adults: Epidemiology and pathogenesis ([UpToDate](https://www.uptodate.com/contents/schizophrenia-in-adults-epidemiology-and-pathogenesis))
 #### Neurotic disorders
 62. Approach to the adult patient with suspected depression ([UpToDate](https://www.uptodate.com/contents/approach-to-the-adult-patient-with-suspected-depression))
-63. Anxiety disorders in children and adolescents: Assessment and diagnosis ([UpToDate](https://www.uptodate.com/contents/anxiety-disorders-in-children-and-adolescents-assessment-and-diagnosis))
-64. Obsessive-compulsive disorder in adults: Treatment overview ([UpToDate](https://www.uptodate.com/contents/obsessive-compulsive-disorder-in-adults-treatment-overview))
-65. Somatic symptom disorder: Assessment and diagnosis ([UpToDate](https://www.uptodate.com/contents/somatic-symptom-disorder-assessment-and-diagnosis))
+63. Bipolar major depression in adults: Choosing treatment ([UpToDate](https://www.uptodate.com/contents/bipolar-major-depression-in-adults-choosing-treatmen))
+64. Anxiety disorders in children and adolescents: Assessment and diagnosis ([UpToDate](https://www.uptodate.com/contents/anxiety-disorders-in-children-and-adolescents-assessment-and-diagnosis))
+65. Obsessive-compulsive disorder in adults: Treatment overview ([UpToDate](https://www.uptodate.com/contents/obsessive-compulsive-disorder-in-adults-treatment-overview))
 #### Organic and drug-related disorders
 66. Psychiatric drug poisoning ([Amboss](https://next.amboss.com/us/article/qF0CQ3))
 67. Substance use disorders: Clinical assessment ([UpToDate](https://www.uptodate.com/contents/substance-use-disorders-clinical-assessment))
@@ -324,6 +324,12 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 26. Treatment of stage I and II (early) head and neck cancer: The oral cavity ([UpToDate](https://www.uptodate.com/contents/treatment-of-stage-i-and-ii-early-head-and-neck-cancer-the-oral-cavity))
 27. Salivary gland tumors: Epidemiology, diagnosis, evaluation, and staging ([UpToDate](https://www.uptodate.com/contents/salivary-gland-tumors-epidemiology-diagnosis-evaluation-and-staging))
 ### 婦產科
+
+國考320題，每題都有準備，問心無愧 just OK ~
+
+這裡猜題只要猜對6成就及格了~
+
+不及格也沒關係，去考[AMC](https://www.amc.org.au/pathways/standard-pathway/amc-assessments/mcq-examination/)另謀出路 ~
 
 
 
