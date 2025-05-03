@@ -118,6 +118,7 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 74. Hepatic hemangioma ([Radiopaedia](https://radiopaedia.org/articles/hepatic-haemangioma))
 75. Hepatocellular carcinoma ([Radiopaedia](https://radiopaedia.org/articles/hepatocellular-carcinoma))
 ### 急診醫學科 (猜題來源: 臨床)
+#### 急診內科
 76. Adult Cardiac Arrest Algorithm ([AHA](https://cpr.heart.org/-/media/CPR-Images/CPR-Guidelines-Images/Part-3-Adult-Basic-and-Advanced-Life-Support/AlgorithmACLS_CA_200731.jpg)(jpg檔))
 77. Adult Bradycardia Algorithm ([AHA](https://cpr.heart.org/-/media/CPR-Images/CPR-Guidelines-Images/Part-3-Adult-Basic-and-Advanced-Life-Support/Adult_Bradycardia_Algorithm.jpg)(jpg檔))
 78. Acute Coronary Syndrome Algorithm ([外部](https://acls-algorithms.com/wp-content/uploads/2022/06/Website-ACS-Algorithm-Diagram.pdf)(pdf檔))
@@ -221,10 +222,12 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 #### 神經放射科
 74. Intracranial hemorrhage ([Radiopaedia](https://radiopaedia.org/articles/intracranial-haemorrhage))
 75. Extradural hematoma vs subdural hematoma ([Radiopaedia](https://radiopaedia.org/articles/extradural-haematoma-vs-subdural-haematoma))
-### 急診醫學科 (猜題來源: 臨床)
-76. 
-77. 
-78. 
+### 急診醫學科 (猜題來源: 考古題)
+#### 精神科急診
+76. Management of neuropsychiatric symptoms of dementia ([UpToDate](https://www.uptodate.com/contents/management-of-neuropsychiatric-symptoms-of-dementia))
+77. Panic disorder in adults: Treatment overview ([UpToDate](https://www.uptodate.com/contents/panic-disorder-in-adults-treatment-overview))
+#### 神經科急診
+78. Initial assessment and management of acute stroke ([UpToDate](https://www.uptodate.com/contents/initial-assessment-and-management-of-acute-stroke))
 ### 醫學倫理
 79. a
 80. 
