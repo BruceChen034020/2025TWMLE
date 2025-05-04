@@ -305,7 +305,7 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 46. Intestinal atresia ([UpToDate](https://www.uptodate.com/contents/intestinal-atresia))
 47. Midgut volvulus and intestinal malrotation ([Amboss](https://next.amboss.com/us/article/ho0cbS))
 48. Cystic fibrosis: Overview of gastrointestinal disease ([UpToDate](https://www.uptodate.com/contents/cystic-fibrosis-overview-of-gastrointestinal-disease))
-49. Meckel diverticulum ([UpToDate](https://www.uptodate.com/contents/meckels-diverticulum))
+49. Meckel's diverticulum ([UpToDate](https://www.uptodate.com/contents/meckels-diverticulum))
 
 
 
