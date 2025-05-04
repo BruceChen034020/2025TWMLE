@@ -356,7 +356,7 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 
 這裡猜題只要猜對6成就及格了~
 
-不及格也沒關係，去考[AMC](https://www.amc.org.au/pathways/standard-pathway/amc-assessments/mcq-examination/)另謀出路 ~
+不及格也沒關係，去考[AMC](https://www.amc.org.au/pathways/standard-pathway/amc-assessments/mcq-examination/)另謀出路 ~ （澳洲偏鄉民眾感謝您）
 
 
 
