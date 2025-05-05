@@ -181,19 +181,24 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 42. Acquired melanocytic nevi (moles) ([UpToDate](https://www.uptodate.com/contents/acquired-melanocytic-nevi-moles))
 #### 角化異常
 43. Ichthyosis vulgaris ([UpToDate](https://www.uptodate.com/contents/ichthyosis-vulgaris))
-### 神經科
+### 神經內科
+#### 腦血管科
 44. a
 45. a
 46. a
+#### 癲癇科
 47. a
 48. a
 49. a
+#### 一般神經科
 50. a
 51. a
 52. a
+#### 周邊神經科
 53. a
 54. a
 55. a
+#### 神經免疫科
 56. a
 57. a
 58. a
@@ -306,6 +311,16 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 47. Midgut volvulus and intestinal malrotation ([Amboss](https://next.amboss.com/us/article/ho0cbS))
 48. Cystic fibrosis: Overview of gastrointestinal disease ([UpToDate](https://www.uptodate.com/contents/cystic-fibrosis-overview-of-gastrointestinal-disease))
 49. Meckel's diverticulum ([UpToDate](https://www.uptodate.com/contents/meckels-diverticulum))
+#### 大腸直腸外科
+#### 內視鏡外科
+### 骨科
+### 泌尿外科
+### 放射科
+### 急診醫學科
+#### 術後併發症
+#### 外傷
+#### 外科急症
+### 醫學倫理
 
 
 
