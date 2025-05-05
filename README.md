@@ -303,7 +303,7 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 ##### 乳房外科
 41. Palpable breast mass ([Amboss](https://next.amboss.com/us/article/7H047h))
 42. Breast pain ([UpToDate](https://www.uptodate.com/contents/breast-pain))
-43. Nipple discharge ([Amboss](https://next.amboss.com/us/article/AL0RZS))
+43. Breast cancer ([Amboss](https://next.amboss.com/us/article/_k05qT))
 #### 小兒外科 (猜題來源: 臨床)
 44. Esophageal atresia ([Amboss](https://next.amboss.com/us/article/K40U4T))
 45. Hypertrophic pyloric stenosis ([Amboss](https://next.amboss.com/us/article/J40s4T))
