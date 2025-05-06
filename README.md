@@ -378,6 +378,7 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 26. Treatment of stage I and II (early) head and neck cancer: The oral cavity ([UpToDate](https://www.uptodate.com/contents/treatment-of-stage-i-and-ii-early-head-and-neck-cancer-the-oral-cavity))
 27. Salivary gland tumors: Epidemiology, diagnosis, evaluation, and staging ([UpToDate](https://www.uptodate.com/contents/salivary-gland-tumors-epidemiology-diagnosis-evaluation-and-staging))
 ### 婦產科
+https://obgyn.onlinelibrary.wiley.com/doi/10.1002/ijgo.14923
 
 國考320題，每題都有準備，問心無愧 just OK ~
 
