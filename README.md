@@ -378,7 +378,7 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 26. Treatment of stage I and II (early) head and neck cancer: The oral cavity ([UpToDate](https://www.uptodate.com/contents/treatment-of-stage-i-and-ii-early-head-and-neck-cancer-the-oral-cavity))
 27. Salivary gland tumors: Epidemiology, diagnosis, evaluation, and staging ([UpToDate](https://www.uptodate.com/contents/salivary-gland-tumors-epidemiology-diagnosis-evaluation-and-staging))
 ### 婦產科
-#### 產科
+#### 產科 (猜題來源: 臨床)
 ##### 母胎醫學科
 28. Fetal assessment: Overview of antepartum tests of fetal well-being ([UpToDate](https://www.uptodate.com/contents/fetal-assessment-overview-of-antepartum-tests-of-fetal-well-being))
 29. Intrapartum fetal heart rate monitoring: Overview ([UpToDate](https://www.uptodate.com/contents/intrapartum-fetal-heart-rate-monitoring-overview))
