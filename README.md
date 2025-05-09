@@ -378,6 +378,43 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 26. Treatment of stage I and II (early) head and neck cancer: The oral cavity ([UpToDate](https://www.uptodate.com/contents/treatment-of-stage-i-and-ii-early-head-and-neck-cancer-the-oral-cavity))
 27. Salivary gland tumors: Epidemiology, diagnosis, evaluation, and staging ([UpToDate](https://www.uptodate.com/contents/salivary-gland-tumors-epidemiology-diagnosis-evaluation-and-staging))
 ### 婦產科
+#### 產科
+28. a
+29. a
+30. a
+31. a
+32. a
+33. a
+34. a
+35. a
+36. a
+37. a
+38. a
+39. a
+#### 婦科
+40. a
+41. a
+42. a
+43. a
+44. a
+45. a
+46. a
+47. a
+48. a
+#### 婦癌科
+49. a
+50. a
+51. a
+52. a
+53. a
+#### 生殖內分泌科 (猜題來源: 臨床)
+##### 不孕症
+54. Overview of infertility ([UpToDate](https://www.uptodate.com/contents/overview-of-infertility))
+55. Female infertility: Treatments ([UpToDate](https://www.uptodate.com/contents/female-infertility-treatments))
+##### 女性內分泌學
+56. Diagnosis of polycystic ovary syndrome in adults ([UpToDate](https://www.uptodate.com/contents/diagnosis-of-polycystic-ovary-syndrome-in-adults))
+#### 婦女泌尿科
+57. 
 https://obgyn.onlinelibrary.wiley.com/doi/10.1002/ijgo.14923
 
 國考320題，每題都有準備，問心無愧 just OK ~
