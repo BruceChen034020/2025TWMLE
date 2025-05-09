@@ -268,7 +268,7 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 17. Skin biopsy techniques ([UpToDate](https://www.uptodate.com/contents/skin-biopsy-techniques))
 18. Clinical staging and general management of pressure-induced skin and soft tissue injury ([UpToDate](https://www.uptodate.com/contents/clinical-staging-and-general-management-of-pressure-induced-skin-and-soft-tissue-injury))
 19. Basal cell carcinoma: Epidemiology, pathogenesis, clinical features, and diagnosis ([UpToDate](https://www.uptodate.com/contents/basal-cell-carcinoma-epidemiology-pathogenesis-clinical-features-and-diagnosis))
-#### 心臟血管外科 (猜題來源: 考古題）
+#### 心臟血管外科 (猜題來源: 考古題)
 20. Aortic dissection ([Amboss](https://next.amboss.com/us/article/M50Mkg))
 21. Endovascular repair of abdominal aortic aneurysm ([UpToDate](https://www.uptodate.com/contents/endovascular-repair-of-abdominal-aortic-aneurysm))
 22. Acute limb ischemia ([Amboss](https://next.amboss.com/us/article/1h021f))
