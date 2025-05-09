@@ -211,7 +211,7 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 62. Approach to the adult patient with suspected depression ([UpToDate](https://www.uptodate.com/contents/approach-to-the-adult-patient-with-suspected-depression))
 63. Bipolar major depression in adults: Choosing treatment ([UpToDate](https://www.uptodate.com/contents/bipolar-major-depression-in-adults-choosing-treatment))
 64. Anxiety disorders in children and adolescents: Assessment and diagnosis ([UpToDate](https://www.uptodate.com/contents/anxiety-disorders-in-children-and-adolescents-assessment-and-diagnosis))
-65. Obsessive-compulsive disorder in adults: Treatment overview ([UpToDate](https://www.uptodate.com/contents/obsessive-compulsive-disorder-in-adults-treatment-overview))
+65. Somatic symptom disorder: Assessment and diagnosis ([UpToDate](https://www.uptodate.com/contents/somatic-symptom-disorder-assessment-and-diagnosis))
 #### Organic and drug-related disorders
 66. Psychiatric drug poisoning ([Amboss](https://next.amboss.com/us/article/qF0CQ3))
 67. Substance use disorders: Clinical assessment ([UpToDate](https://www.uptodate.com/contents/substance-use-disorders-clinical-assessment))
