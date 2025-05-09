@@ -379,15 +379,17 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 27. Salivary gland tumors: Epidemiology, diagnosis, evaluation, and staging ([UpToDate](https://www.uptodate.com/contents/salivary-gland-tumors-epidemiology-diagnosis-evaluation-and-staging))
 ### 婦產科
 #### 產科
-28. a
-29. a
-30. a
-31. a
+##### 母胎醫學科
+28. Fetal assessment: Overview of antepartum tests of fetal well-being ([UpToDate](https://www.uptodate.com/contents/fetal-assessment-overview-of-antepartum-tests-of-fetal-well-being))
+29. Intrapartum fetal heart rate monitoring: Overview ([UpToDate](https://www.uptodate.com/contents/intrapartum-fetal-heart-rate-monitoring-overview))
+30. Ectopic pregnancy: Clinical manifestations and diagnosis ([UpToDate](https://www.uptodate.com/contents/ectopic-pregnancy-clinical-manifestations-and-diagnosis))
+31. Maternal complications during pregnancy ([Amboss](https://next.amboss.com/us/article/_q05ah))
 32. a
 33. a
 34. a
 35. a
 36. a
+##### 高危險姙娠科
 37. a
 38. a
 39. a
