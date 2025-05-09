@@ -286,12 +286,12 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 30. Gastric cancer ([Amboss](https://next.amboss.com/us/article/-g0DB2))
 31. Gastrointestinal stromal tumor ([Amboss](https://next.amboss.com/us/article/iv0J-3))
 ###### 小腸
-32. Bowel obstruction ([Amboss](https://next.amboss.com/us/article/230T3f))
+32. Epidemiology and clinical features of small bowel neoplasms ([UpToDate](https://www.uptodate.com/contents/epidemiology-and-clinical-features-of-small-bowel-neoplasms))
 ###### 胰
-33. Acute pancreatitis ([Amboss](https://next.amboss.com/us/article/SS0y_2))
+33. Pancreatic cancer ([Amboss](https://next.amboss.com/us/article/3S0Sz2))
 34. Chronic pancreatitis ([Amboss](https://next.amboss.com/us/article/hS0cz2))
 ###### 肝
-35. Benign liver tumors and hepatic cysts ([Amboss](https://next.amboss.com/us/article/pS0L0f))
+35. Pyogenic liver abscess ([Amboss](https://next.amboss.com/us/article/8L0Ozg))
 36. Hepatocellular carcinoma ([Amboss](https://next.amboss.com/us/article/6S0j0f))
 ###### 膽道
 37. Cholelithiasis ([Amboss](https://next.amboss.com/us/article/V30Ghf))
