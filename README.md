@@ -410,9 +410,9 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 #### 生殖內分泌科 (猜題來源: 臨床)
 ##### 不孕症
 54. Overview of infertility ([UpToDate](https://www.uptodate.com/contents/overview-of-infertility))
-55. Female infertility: Treatments ([UpToDate](https://www.uptodate.com/contents/female-infertility-treatments))
 ##### 女性內分泌學
-56. Diagnosis of polycystic ovary syndrome in adults ([UpToDate](https://www.uptodate.com/contents/diagnosis-of-polycystic-ovary-syndrome-in-adults))
+55. Diagnosis of polycystic ovary syndrome in adults ([UpToDate](https://www.uptodate.com/contents/diagnosis-of-polycystic-ovary-syndrome-in-adults))
+56. Recurrent pregnancy loss: Evaluation ([UpToDate](https://www.uptodate.com/contents/recurrent-pregnancy-loss-evaluation))
 #### 婦女泌尿科
 57. 
 https://obgyn.onlinelibrary.wiley.com/doi/10.1002/ijgo.14923
