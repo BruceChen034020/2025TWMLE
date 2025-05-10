@@ -406,7 +406,7 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 46. Endometrial hyperplasia or endometrial intraepithelial neoplasia: Clinical features, diagnosis, and differential diagnosis ([UpToDate](https://www.uptodate.com/contents/endometrial-hyperplasia-or-endometrial-intraepithelial-neoplasia-clinical-features-diagnosis-and-differential-diagnosis))
 47. Endometrial Cancer ([台北榮總](https://wd.vghtpe.gov.tw/Cancer_Cen/files/Gynecologic%20Cancer%20Guideline%20(%E5%A9%A6%E7%A7%91%E7%99%8C%E7%97%87).pdf))
 48. Sarcoma ([台北榮總](https://wd.vghtpe.gov.tw/Cancer_Cen/files/Gynecologic%20Cancer%20Guideline%20(%E5%A9%A6%E7%A7%91%E7%99%8C%E7%97%87).pdf))
-49. Chorionic Disease, and Tumor ([台北榮總](https://wd.vghtpe.gov.tw/Cancer_Cen/files/Gynecologic%20Cancer%20Guideline%20(%E5%A9%A6%E7%A7%91%E7%99%8C%E7%97%87).pdf))
+49. Chorionic Disease, and Tumor ([台北榮總](https://wd.vghtpe.gov.tw/Cancer_Cen/files/Gynecologic%20Cancer%20Guideline%20(%E5%A9%A6%E7%A7%91%E7%99%8C%E7%97%87).pdf) [International Journal of Obstetrics & Gynecology](https://obgyn.onlinelibrary.wiley.com/doi/10.1002/ijgo.14923))
 ##### 卵巢
 50. Ovarian cysts ([Amboss](https://next.amboss.com/us/article/go0FYS))
 51. Overview of ovarian tumors ([Amboss](https://next.amboss.com/us/article/XF09g3))
@@ -421,7 +421,7 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 56. Recurrent pregnancy loss: Evaluation ([UpToDate](https://www.uptodate.com/contents/recurrent-pregnancy-loss-evaluation))
 #### 婦女泌尿科
 57. 
-https://obgyn.onlinelibrary.wiley.com/doi/10.1002/ijgo.14923
+
 
 國考320題，每題都有準備，問心無愧 just OK ~
 
