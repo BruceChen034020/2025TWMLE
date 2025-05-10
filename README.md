@@ -933,6 +933,12 @@ graph TD
     F -->|醫療相關| G[醫學顧問/PA/NP]
     F -->|非醫療| H[科技業/創業]
 </div>
+<div class='mermaid'>
+graph TD;
+a --> A
+A --> B
+B --> C
+</div>
 ---  
 
 建議優先評估「時間成本」與「地理彈性」，必要時可聯繫專業移民律師（如MAG Immigration）。
