@@ -381,8 +381,8 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 #### 產科 (猜題來源: 臨床)
 ##### 母胎醫學科
 28. Fetal assessment: Overview of antepartum tests of fetal well-being ([UpToDate](https://www.uptodate.com/contents/fetal-assessment-overview-of-antepartum-tests-of-fetal-well-being))
-29. Biophysical profile test for antepartum fetal assessment ([UpToDate](https://www.uptodate.com/contents/biophysical-profile-test-for-antepartum-fetal-assessment))
-30. Nonstress test and contraction stress test ([UpToDate](https://www.uptodate.com/contents/nonstress-test-and-contraction-stress-test))
+29. 懷孕的生理變化 ([陽明醫學系共筆](內部/陽明醫學系114級共筆/麻醉no.6.pdf))
+30. 孕婦產前檢查項目及補助金額 ([衛福部國健署](https://www.hpa.gov.tw/Pages/List.aspx?nodeid=194))
 31. Intrapartum fetal heart rate monitoring: Overview ([UpToDate](https://www.uptodate.com/contents/intrapartum-fetal-heart-rate-monitoring-overview))
 32. Ectopic pregnancy: Clinical manifestations and diagnosis ([UpToDate](https://www.uptodate.com/contents/ectopic-pregnancy-clinical-manifestations-and-diagnosis))
 33. Hypertensive pregnancy disorders ([Amboss](https://next.amboss.com/us/article/VO0GrT))
@@ -394,6 +394,7 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 38. Gestational diabetes mellitus: Obstetric issues and management ([UpToDate](https://www.uptodate.com/contents/gestational-diabetes-mellitus-obstetric-issues-and-management))
 39. Preeclampsia: Clinical features and diagnosis ([UpToDate](https://www.uptodate.com/contents/preeclampsia-clinical-features-and-diagnosis))
 #### 婦科
+##### 一般婦科
 40. a
 41. a
 42. a
@@ -403,7 +404,7 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 46. a
 47. a
 48. a
-#### 婦癌科
+##### 婦癌科
 49. a
 50. a
 51. a
