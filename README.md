@@ -1002,7 +1002,7 @@ I --> |否| K[重考臺灣醫師國考115-1]
 
 [Clinician Nexus](https://cliniciannexus.com/) (免費)
 
-美國實習經驗由優到劣排序: University-affiliated clinical (已畢業無法用) > Inpatient clinical > Outpatient clinical > Observership > Virtual
+美國實習經驗由優到劣排序: University-affiliated clinical (已畢業無法用) > Inpatient clinical > Outpatient clinical > Observership > Research > Virtual
 
 ### **考試準備資源**
 #### **美國 (USMLE)**
