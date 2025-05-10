@@ -396,7 +396,7 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 #### 一般婦科及婦癌 (猜題來源: 臨床)
 ##### 陰道
 40. Vaginitis in adults and adolescents: Initial evaluation ([UpToDate](https://www.uptodate.com/contents/vaginitis-in-adults-and-adolescents-initial-evaluation))
-41. Pelvic inflammatory disease ([UpToDate](https://next.amboss.com/us/article/pL0LAg))
+41. Pelvic inflammatory disease ([Amboss](https://next.amboss.com/us/article/pL0LAg))
 ##### 子宮頸
 42. Cervical cancer screening ([Amboss](https://next.amboss.com/us/article/880Oo3))
 43. Human papillomavirus vaccination ([UpToDate](https://www.uptodate.com/contents/human-papillomavirus-vaccination))
