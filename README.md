@@ -381,18 +381,18 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 #### 產科 (猜題來源: 臨床)
 ##### 母胎醫學科
 28. Fetal assessment: Overview of antepartum tests of fetal well-being ([UpToDate](https://www.uptodate.com/contents/fetal-assessment-overview-of-antepartum-tests-of-fetal-well-being))
-29. Intrapartum fetal heart rate monitoring: Overview ([UpToDate](https://www.uptodate.com/contents/intrapartum-fetal-heart-rate-monitoring-overview))
-30. Ectopic pregnancy: Clinical manifestations and diagnosis ([UpToDate](https://www.uptodate.com/contents/ectopic-pregnancy-clinical-manifestations-and-diagnosis))
-31. Maternal complications during pregnancy ([Amboss](https://next.amboss.com/us/article/_q05ah))
-32. a
-33. a
-34. a
-35. a
-36. a
+29. Biophysical profile test for antepartum fetal assessment ([UpToDate](https://www.uptodate.com/contents/biophysical-profile-test-for-antepartum-fetal-assessment))
+30. Nonstress test and contraction stress test ([UpToDate](https://www.uptodate.com/contents/nonstress-test-and-contraction-stress-test))
+31. Intrapartum fetal heart rate monitoring: Overview ([UpToDate](https://www.uptodate.com/contents/intrapartum-fetal-heart-rate-monitoring-overview))
+32. Ectopic pregnancy: Clinical manifestations and diagnosis ([UpToDate](https://www.uptodate.com/contents/ectopic-pregnancy-clinical-manifestations-and-diagnosis))
+33. Hypertensive pregnancy disorders ([Amboss](https://next.amboss.com/us/article/VO0GrT))
+34. Labor and delivery: Management of the normal first stage ([UpToDate](https://www.uptodate.com/contents/labor-and-delivery-management-of-the-normal-first-stage))
+35. Induction of labor with oxytocin ([UpToDate](https://www.uptodate.com/contents/induction-of-labor-with-oxytocin))
+36. Prenatal genetic evaluation of the fetus with anomalies or soft markers ([UpToDate](https://www.uptodate.com/contents/prenatal-genetic-evaluation-of-the-fetus-with-anomalies-or-soft-markers))
 ##### 高危險姙娠科
-37. a
-38. a
-39. a
+37. Fetal growth restriction: Evaluation ([UpToDate](https://www.uptodate.com/contents/fetal-growth-restriction-evaluation))
+38. Gestational diabetes mellitus: Obstetric issues and management ([UpToDate](https://www.uptodate.com/contents/gestational-diabetes-mellitus-obstetric-issues-and-management))
+39. Preeclampsia: Clinical features and diagnosis ([UpToDate](https://www.uptodate.com/contents/preeclampsia-clinical-features-and-diagnosis))
 #### 婦科
 40. a
 41. a
