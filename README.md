@@ -857,3 +857,11 @@ pie
 
 ## 及格率預測
 ![及格率預測](及格率預測.png)
+
+<script src='https://unpkg.com/mermaid@8.1.0/dist/mermaid.min.js'></script>
+<div class='mermaid'>
+graph TD;
+a --> A
+A --> B
+B --> C
+</div>
