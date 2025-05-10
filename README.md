@@ -915,7 +915,7 @@ graph TD
     F -->|非醫療| H[科技業/創業]
     E --> I{是否獲得人脈或推薦信?}
     I --> |是| J[考USMLE]
-    I --> |否| K[重考臺灣醫師國考]
+    I --> |否| K[重考臺灣醫師國考(115-1)]
 ```
 <script src='https://unpkg.com/mermaid@8.1.0/dist/mermaid.min.js'></script>
 <div class='mermaid'>
