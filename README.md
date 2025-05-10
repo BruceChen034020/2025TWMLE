@@ -901,15 +901,7 @@ https://obgyn.onlinelibrary.wiley.com/doi/10.1002/ijgo.14923
 
 ---
 
-### **四、心理與財務支援**
-1. **心理建設**：  
-   - 加入「國考失敗者社團」（如Reddit的r/medicalschool）。  
-   - 尋求職業諮詢（推薦《Designing Your Life》一書）。  
-2. **經濟方案**：  
-   - 申請非營利組織補助（如美國的NHSC）。  
-   - 兼職醫療翻譯（每小時$30-$50美元）。  
 
----
 
 ### **關鍵決策樹**
 ```mermaid
