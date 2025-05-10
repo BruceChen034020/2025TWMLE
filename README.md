@@ -410,7 +410,7 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 ##### 卵巢
 50. Ovarian cysts ([Amboss](https://next.amboss.com/us/article/go0FYS))
 51. Overview of ovarian tumors ([Amboss](https://next.amboss.com/us/article/XF09g3))
-52. Ovary, Fallopian Tube and Peritoneal Carcinoma ([台北榮總](https://next.amboss.com/us/article/XF09g3) [International Journal of Obstetrics & Gynecology](https://obgyn.onlinelibrary.wiley.com/doi/10.1002/ijgo.14923))
+52. Ovary, Fallopian Tube and Peritoneal Carcinoma ([台北榮總](https://wd.vghtpe.gov.tw/Cancer_Cen/files/Gynecologic%20Cancer%20Guideline%20(%E5%A9%A6%E7%A7%91%E7%99%8C%E7%97%87).pdf) [International Journal of Obstetrics & Gynecology](https://obgyn.onlinelibrary.wiley.com/doi/10.1002/ijgo.14923))
 ##### 其他
 53. Endometriosis in adults: Clinical features, evaluation, and diagnosis ([UpToDate](https://www.uptodate.com/contents/endometriosis-in-adults-clinical-features-evaluation-and-diagnosis))
 #### 生殖內分泌科 (猜題來源: 臨床)
