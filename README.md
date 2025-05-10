@@ -1120,3 +1120,25 @@ I --> |否| K[重考臺灣醫師國考115-1]
 - 美國 USMLE 雖改為 P/F，但 **Step 2 CK 仍是深度+廣度綜合挑戰**。  
 - 台灣近年第二階段深度逐漸提升。  
 
+
+
+### 其他作品
+[OSCE複習](https://brucechen034020.github.io/2025TWMLE/OSCE)
+
+文案:
+```
+有些同學（包括我）明天要考 OSCE，我整理了一份 OSCE 常見主訴與鑑別診斷對照清單，每個主訴都列出三個鑑別診斷。我的計畫是：在診間外讀題的 2 分鐘內，先根據主訴寫下鑑別診斷，這樣問診時可以有方向，確保問到相關問題，避免遺漏，能夠說出3個鑑別診斷和最可能的診斷，心情也比較不會緊張。
+提供這份清單給大家參考看看：
+https://brucechen034020.github.io/2025TWMLE/OSCE
+```
+
+[鑑別診斷練習](https://brucechen034020.github.io/MedicalSituationPuzzle/)
+
+文案:
+```
+跟大家分享我最近寫的遊戲 遊戲規則:
+程式會隨機輸出一個疾病的症狀
+你要說出是甚麼病
+會公布答案
+https://brucechen034020.github.io/MedicalSituationPuzzle/
+```
