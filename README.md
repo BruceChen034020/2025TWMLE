@@ -419,8 +419,8 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 ##### 女性內分泌學
 55. Diagnosis of polycystic ovary syndrome in adults ([UpToDate](https://www.uptodate.com/contents/diagnosis-of-polycystic-ovary-syndrome-in-adults))
 56. Recurrent pregnancy loss: Evaluation ([UpToDate](https://www.uptodate.com/contents/recurrent-pregnancy-loss-evaluation))
-#### 婦女泌尿科
-57. 
+#### 婦女泌尿科 (猜題來源: 考古題)
+57. Female urinary incontinence: Evaluation ([UpToDate](https://www.uptodate.com/contents/female-urinary-incontinence-evaluation))
 
 
 國考320題，每題都有準備，問心無愧 just OK ~
