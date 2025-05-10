@@ -393,23 +393,26 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 37. Fetal growth restriction: Evaluation ([UpToDate](https://www.uptodate.com/contents/fetal-growth-restriction-evaluation))
 38. Gestational diabetes mellitus: Obstetric issues and management ([UpToDate](https://www.uptodate.com/contents/gestational-diabetes-mellitus-obstetric-issues-and-management))
 39. Preeclampsia: Clinical features and diagnosis ([UpToDate](https://www.uptodate.com/contents/preeclampsia-clinical-features-and-diagnosis))
-#### 婦科
-##### 一般婦科
-40. a
-41. a
-42. a
-43. a
-44. a
-45. a
-46. a
-47. a
-48. a
-##### 婦癌科
-49. a
-50. a
-51. a
-52. a
-53. a
+#### 一般婦科及婦癌 (猜題來源: 臨床)
+##### 陰道
+40. Vaginitis in adults and adolescents: Initial evaluation ([UpToDate](https://www.uptodate.com/contents/vaginitis-in-adults-and-adolescents-initial-evaluation))
+41. Pelvic inflammatory disease ([UpToDate](https://next.amboss.com/us/article/pL0LAg))
+##### 子宮頸
+42. Cervical cancer screening ([Amboss](https://next.amboss.com/us/article/880Oo3))
+43. Human papillomavirus vaccination ([UpToDate](https://www.uptodate.com/contents/human-papillomavirus-vaccination))
+44. Cervical Cancer ([台北榮總](https://wd.vghtpe.gov.tw/Cancer_Cen/files/Gynecologic%20Cancer%20Guideline%20(%E5%A9%A6%E7%A7%91%E7%99%8C%E7%97%87).pdf))
+##### 子宮體
+45. Uterine fibroids (leiomyomas): Epidemiology, clinical features, diagnosis, and natural history ([UpToDate](https://www.uptodate.com/contents/uterine-fibroids-leiomyomas-epidemiology-clinical-features-diagnosis-and-natural-history))
+46. Endometrial hyperplasia or endometrial intraepithelial neoplasia: Clinical features, diagnosis, and differential diagnosis ([UpToDate](https://www.uptodate.com/contents/endometrial-hyperplasia-or-endometrial-intraepithelial-neoplasia-clinical-features-diagnosis-and-differential-diagnosis))
+47. Endometrial Cancer ([台北榮總](https://wd.vghtpe.gov.tw/Cancer_Cen/files/Gynecologic%20Cancer%20Guideline%20(%E5%A9%A6%E7%A7%91%E7%99%8C%E7%97%87).pdf))
+48. Sarcoma ([台北榮總](https://wd.vghtpe.gov.tw/Cancer_Cen/files/Gynecologic%20Cancer%20Guideline%20(%E5%A9%A6%E7%A7%91%E7%99%8C%E7%97%87).pdf))
+49. Chorionic Disease, and Tumor ([台北榮總](https://wd.vghtpe.gov.tw/Cancer_Cen/files/Gynecologic%20Cancer%20Guideline%20(%E5%A9%A6%E7%A7%91%E7%99%8C%E7%97%87).pdf))
+##### 卵巢
+50. Ovarian cysts ([Amboss](https://next.amboss.com/us/article/go0FYS))
+51. Overview of ovarian tumors ([Amboss](https://next.amboss.com/us/article/XF09g3))
+52. Ovary, Fallopian Tube and Peritoneal Carcinoma ([台北榮總](https://next.amboss.com/us/article/XF09g3))
+##### 其他
+53. Endometriosis in adults: Clinical features, evaluation, and diagnosis ([UpToDate](https://www.uptodate.com/contents/endometriosis-in-adults-clinical-features-evaluation-and-diagnosis))
 #### 生殖內分泌科 (猜題來源: 臨床)
 ##### 不孕症
 54. Overview of infertility ([UpToDate](https://www.uptodate.com/contents/overview-of-infertility))
