@@ -909,10 +909,13 @@ graph TD
     A[已畢業但國考失敗] --> B{是否堅持從醫?}
     B -->|是| C[考AMC]
     C -->|及格| D[當澳洲intern]
-    C -->|不及格| E[去美國實習，然後考USMLE]
+    C -->|不及格| E[去美國實習]
     B -->|否| F[轉換領域: 醫療相關/非醫療]
     F -->|醫療相關| G[醫學顧問/PA/NP]
     F -->|非醫療| H[科技業/創業]
+    E --> F{是否取得人脈或推薦信?}
+    F --> |是| I[考USMLE]
+    F --> |否| J[考PLAB]
 ```
 <script src='https://unpkg.com/mermaid@8.1.0/dist/mermaid.min.js'></script>
 <div class='mermaid'>
@@ -922,7 +925,7 @@ A --> B
 B --> C
 </div>
 <div class='mermaid'>
-graph TD
+graph TD;
     A[已畢業但國考失敗] --> B{是否堅持從醫?}
     B -->|是| C[考AMC]
     C -->|及格| D[當澳洲intern]
