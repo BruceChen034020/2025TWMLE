@@ -865,3 +865,17 @@ a --> A
 A --> B
 B --> C
 </div>
+
+<div class='mermaid'>
+graph TD
+    A[Start] --> B{Decision}
+    B -->|Yes| C[Action 1]
+    B -->|No| D[Action 2]
+</div>
+
+<div class='mermaid'>
+pie
+    title 測試圖表
+    "已解決" : 85
+    "未解決" : 15
+</div>
