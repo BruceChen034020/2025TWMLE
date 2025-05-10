@@ -913,9 +913,9 @@ graph TD
     B -->|否| F[轉換領域: 醫療相關/非醫療]
     F -->|醫療相關| G[醫學顧問/PA/NP]
     F -->|非醫療| H[科技業/創業]
-    E --> F{是否取得人脈或推薦信?}
-    F --> |是| I[考USMLE]
-    F --> |否| J[考PLAB]
+    E --> I{是否獲得人脈或推薦信?}
+    I --> |是| J[考USMLE]
+    I --> |否| K[考PLAB]
 ```
 <script src='https://unpkg.com/mermaid@8.1.0/dist/mermaid.min.js'></script>
 <div class='mermaid'>
