@@ -917,6 +917,7 @@ graph TD
     I --> |是| J[考USMLE]
     I --> |否| K[重考臺灣醫師國考115-1]
 ```-->
+
 <script src='https://unpkg.com/mermaid@8.1.0/dist/mermaid.min.js'></script>
 
 <div class='mermaid'>
