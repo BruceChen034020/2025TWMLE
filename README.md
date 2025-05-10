@@ -425,7 +425,12 @@ https://obgyn.onlinelibrary.wiley.com/doi/10.1002/ijgo.14923
 
 不及格也沒關係，去考[AMC](https://www.amc.org.au/pathways/standard-pathway/amc-assessments/mcq-examination/)另謀出路 ~ （澳洲偏鄉民眾感謝您）
 
-
+```mermaid
+graph TD
+    A[Start] --> B{Decision}
+    B -->|Yes| C[Action 1]
+    B -->|No| D[Action 2]
+```
 
 ## 醫學新知
 ### 內科新知
