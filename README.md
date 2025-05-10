@@ -1122,8 +1122,8 @@ I --> |否| K[重考臺灣醫師國考115-1]
 
 
 
-### 其他作品
-[OSCE複習](https://brucechen034020.github.io/2025TWMLE/OSCE)
+### 其他相關作品
+[OSCE複習](https://brucechen034020.github.io/2025TWMLE/OSCE) (2025/4/24)
 
 文案:
 ```
@@ -1132,7 +1132,7 @@ I --> |否| K[重考臺灣醫師國考115-1]
 https://brucechen034020.github.io/2025TWMLE/OSCE
 ```
 
-[鑑別診斷練習](https://brucechen034020.github.io/MedicalSituationPuzzle/)
+[鑑別診斷練習](https://brucechen034020.github.io/MedicalSituationPuzzle/) (2022/9/19)
 
 文案:
 ```
