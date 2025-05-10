@@ -903,7 +903,7 @@ https://obgyn.onlinelibrary.wiley.com/doi/10.1002/ijgo.14923
 
 
 
-### **關鍵決策樹**
+### **關鍵決策樹** 0357
 ```mermaid
 graph TD
     A[已畢業但國考失敗] --> B{是否堅持從醫?}
@@ -926,9 +926,9 @@ B --> C
 </div>
 <div class='mermaid'>
 graph TD;
-    A[已畢業但國考失敗] --> B{是否堅持從醫?}
-    B -->|是| C[考AMC]
-    C -->|及格| D[當澳洲intern]
+A[已畢業但國考失敗] --> B{是否堅持從醫?}
+B -->|是| C[考AMC]
+C -->|及格| D[當澳洲intern]
     C -->|不及格| E[去美國實習，然後考USMLE]
     B -->|否| F[轉換領域: 醫療相關/非醫療]
     F -->|醫療相關| G[醫學顧問/PA/NP]
