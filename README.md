@@ -1002,6 +1002,8 @@ I --> |否| K[重考臺灣醫師國考115-1]
 
 [Clinician Nexus](https://cliniciannexus.com/) (免費)
 
+美國實習經驗優劣排序: University-affiliated programs (限延畢生) > Inpatient clinical elective > Outpatient clinical elective > Observership
+
 ### **考試準備資源**
 #### **美國 (USMLE)**
   
