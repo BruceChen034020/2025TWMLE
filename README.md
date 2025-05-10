@@ -903,8 +903,8 @@ https://obgyn.onlinelibrary.wiley.com/doi/10.1002/ijgo.14923
 
 
 
-### **關鍵決策樹** 
-<!--```mermaid
+### **關鍵決策樹**
+```mermaid
 graph TD
     A[已畢業但國考失敗] --> B{是否堅持從醫?}
     B -->|是| C[考AMC]
@@ -916,7 +916,7 @@ graph TD
     E --> I{是否獲得人脈或推薦信?}
     I --> |是| J[考USMLE]
     I --> |否| K[重考臺灣醫師國考115-1]
-```-->
+```
 
 <script src='https://unpkg.com/mermaid@8.1.0/dist/mermaid.min.js'></script>
 
