@@ -915,7 +915,7 @@ graph TD
     F -->|非醫療| H[科技業/創業]
     E --> I{是否獲得人脈或推薦信?}
     I --> |是| J[考USMLE]
-    I --> |否| K[考PLAB]
+    I --> |否| K[重考臺灣醫師國考]
 ```
 <script src='https://unpkg.com/mermaid@8.1.0/dist/mermaid.min.js'></script>
 <div class='mermaid'>
@@ -929,10 +929,10 @@ graph TD;
 A[已畢業但國考失敗] --> B{是否堅持從醫?}
 B -->|是| C[考AMC]
 C -->|及格| D[當澳洲intern]
-    C -->|不及格| E[去美國實習，然後考USMLE]
-    B -->|否| F[轉換領域: 醫療相關/非醫療]
-    F -->|醫療相關| G[醫學顧問/PA/NP]
-    F -->|非醫療| H[科技業/創業]
+C -->|不及格| E[去美國實習]
+B -->|否| F[轉換領域: 醫療相關/非醫療]
+F -->|醫療相關| G[醫學顧問/PA/NP]
+F -->|非醫療| H[科技業/創業]
 </div>
 ---  
 
