@@ -1217,6 +1217,21 @@ I --> |否| K[重考臺灣醫師國考115-1]
 
 
 
+## 🏥 美國住院醫師淘汰率較高的專科
+
+根據過去十年的數據，以下是淘汰率較高的專科：
+
+* **精神科（Psychiatry）**：中位淘汰率為 7.53%，為所有專科中最高。
+* **外科（Surgery）**：中位淘汰率為 3.37%。
+* **病理學（Pathology - Anatomic and Clinical）**：中位淘汰率為 2.91%。
+* **神經外科（Neurological Surgery）**：中位淘汰率為 2.43%。
+* **家庭醫學（Family Medicine）**：中位淘汰率為 2.21%。
+* **婦產科（Obstetrics and Gynecology）**：中位淘汰率為 1.94%。([Auctores][1])
+
+皮膚科（Dermatology）的中位淘汰率僅為 0.46%，為淘汰率最低的專科。
+
+
+
 ---
 美國 Step 2 CK 和推薦信之外的小加分項目:
 1. 在Match系統上一定要選signal。
@@ -1248,7 +1263,7 @@ I --> |否| K[重考臺灣醫師國考115-1]
 
 
 
-### 其他相關作品
+## 其他相關作品
 [OSCE複習](https://brucechen034020.github.io/2025TWMLE/OSCE) (2025/4/24)
 
 文案:
