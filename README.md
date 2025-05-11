@@ -1217,7 +1217,7 @@ I --> |否| K[重考臺灣醫師國考115-1]
 
 
 
-## 🏥 美國住院醫師淘汰率較高的專科
+## 🏥 美國住院醫師培訓淘汰率較高的專科
 
 根據過去十年的數據，以下是淘汰率較高的專科：
 
@@ -1226,9 +1226,11 @@ I --> |否| K[重考臺灣醫師國考115-1]
 * **病理學（Pathology - Anatomic and Clinical）**：中位淘汰率為 2.91%。
 * **神經外科（Neurological Surgery）**：中位淘汰率為 2.43%。
 * **家庭醫學（Family Medicine）**：中位淘汰率為 2.21%。
-* **婦產科（Obstetrics and Gynecology）**：中位淘汰率為 1.94%。([Auctores][1])
+* **婦產科（Obstetrics and Gynecology）**：中位淘汰率為 1.94%。
 
 皮膚科（Dermatology）的中位淘汰率僅為 0.46%，為淘汰率最低的專科。
+
+美國住院醫師培訓淘汰率最高的醫院: Jackson Memorial Hospital, Miami, FL
 
 
 
