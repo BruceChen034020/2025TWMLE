@@ -508,6 +508,8 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 
 皮膚科: 10題
 
+醫學倫理: 10題
+
 麻醉科: 9題
 
 眼科: 9題
@@ -519,8 +521,6 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 骨科: 8題
 
 泌尿科: 8題
-
-醫學倫理: 8題
 
 共 320 題
 
