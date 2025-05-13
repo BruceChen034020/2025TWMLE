@@ -423,7 +423,7 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 57. Female urinary incontinence: Evaluation ([UpToDate](https://www.uptodate.com/contents/female-urinary-incontinence-evaluation))
 ### 復健科
 #### 神經
-58. Overview of stroke ([Amboss](https://next.amboss.com/us/article/UR0bmf))
+58. Stroke ([Physiopedia](https://www.physio-pedia.com/Stroke))
 59. Traumatic brain injury
 60. Spinal cord injuries
 
