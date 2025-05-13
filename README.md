@@ -312,7 +312,9 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 48. Cystic fibrosis: Overview of gastrointestinal disease ([UpToDate](https://www.uptodate.com/contents/cystic-fibrosis-overview-of-gastrointestinal-disease))
 49. Meckel's diverticulum ([UpToDate](https://www.uptodate.com/contents/meckels-diverticulum))
 #### 大腸直腸外科
-50. Acute colonic diverticulitis: Triage and inpatient management ([UpToDate](https://www.uptodate.com/contents/acute-colonic-diverticulitis-triage-and-inpatient-management))
+50. Diverticulitis ([Amboss](https://next.amboss.com/us/article/_H05Gh))
+51. Sigmoid volvulus and cecal volvulus ([Amboss](https://next.amboss.com/us/article/9H0Nsh))
+52. Colorectal cancer ([Amboss](https://next.amboss.com/us/article/TS06_2))
 #### 內視鏡外科
 ### 骨科
 ### 泌尿外科
