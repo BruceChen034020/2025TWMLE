@@ -543,7 +543,7 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
   - 精醫科：15題（4.6%）
 - 外科系
   - 大外科
-    - 
+    - 外科：55題（17.1%）
 
 
 
