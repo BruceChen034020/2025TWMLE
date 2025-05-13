@@ -524,8 +524,8 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 
 共 320 題
 
-- 內科系
--- 大內科
+* 內科系
+** 大內科
 
 ## 其他
 ### 《醫師國考选择题猜答案技巧》
