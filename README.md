@@ -542,6 +542,8 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
   - 小兒科：33題（10.3%）
   - 精醫科：15題（4.6%）
 - 外科系
+  - 大外科
+    - 
 
 
 
