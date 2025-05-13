@@ -1191,12 +1191,13 @@ I --> |否| K[重考臺灣醫師國考115-1]
 
 [Clinician Nexus](https://cliniciannexus.com/) (免費)
 
-強力推薦信5大要件:
+強力推薦信6大要件:
 1. **來自好的program。** 美國實習經驗由優到劣排序: University-affiliated clinical (已畢業無法用) > Inpatient clinical > Outpatient clinical > Observership > Research > Virtual
-2. **Waived letter。** 由實習機構上傳，勿自己上傳。
-3. **符合格式。** 由老師寫，勿自己寫。若老師請你自己打草稿，直接改找其他老師。
-4. **時效性。** 請老師等你的 Match Cycle 開始後再寫（押日期）
-5. **隨信致電。** 請老師打電話給你要申請的醫院。
+2. **Waived letter。** 請實習機構上傳，勿自己上傳。
+3. **內容符合格式。** 請老師寫，勿自己寫。若老師請你自己打草稿，直接改找其他老師。
+4. **內容客製化。** 請老師依據你的表現或特質寫，勿使用模板。
+5. **時效性。** 請老師等你的 Match Cycle 開始後再寫（押日期）
+6. **隨信致電。** 請老師打電話給你要申請的醫院。
 
 ### **考試準備資源**
 #### **美國 (USMLE)**
