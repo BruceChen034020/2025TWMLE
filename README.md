@@ -422,6 +422,8 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 #### 婦女泌尿科 (猜題來源: 考古題)
 57. Female urinary incontinence: Evaluation ([UpToDate](https://www.uptodate.com/contents/female-urinary-incontinence-evaluation))
 
+58. 
+
 
 國考320題，每題都有準備，問心無愧 just OK ~
 
@@ -564,7 +566,7 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 - 基礎學科（內外婦兒）：222題（69.3%）
 - 英語系五大科（內外婦兒精醫）：237題（74.0%）
 - 華語系五大科（內外婦兒急）：234題（73.1%）
-- 二線科（放射+急診）：22題（6.8%）
+- 二線科（放射+麻醉+急診）：31題（9.6%）
 
 
 
