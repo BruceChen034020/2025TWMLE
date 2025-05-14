@@ -129,39 +129,52 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 
 
 ## 醫學(四)
-### 　 小兒科
+### 　 小兒科 (猜題來源: 考古題)
+#### 　　一般兒科
 1. a
 2. a
+#### 新生兒科
 3. a
 4. a
 5. a
+#### 心臟科
 6. a
 7. a
 8. a
+#### 小兒消化科
 9. a
 10. a
 11. a
+#### 腎臟科
 12. a
 13. a
 14. a
+#### 兒童過敏氣喘及免疫風濕科
 15. a
 16. a
 17. a
+#### 血液科
 18. a
 19. a
 20. a
+#### 兒童胸腔暨重症科
 21. a
 22. a
+#### 兒科內分泌科
 23. a
 24. a
 25. a
+#### 感染科
 26. a
 27. a
 28. a
+#### 小兒神經科
 29. a
 30. a
 31. a
+#### 兒科急診醫學科
 32. a
+#### 兒科醫學遺傳學及新陳代謝學科
 33. a
 ### 皮膚科 (猜題來源: 考古題)
 #### 濕疹及皮膚炎
@@ -316,7 +329,11 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 51. Sigmoid volvulus and cecal volvulus ([Amboss](https://next.amboss.com/us/article/9H0Nsh))
 52. Colorectal cancer ([Amboss](https://next.amboss.com/us/article/TS06_2))
 #### 內視鏡外科
+53. a
+54. a
+55. 
 ### 骨科
+56. 
 ### 泌尿外科
 ### 放射科 (猜題來源: 臨床)
 #### 肌肉骨骼影像醫學
