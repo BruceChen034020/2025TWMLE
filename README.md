@@ -449,7 +449,7 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 61. Peripheral nerve injuries ([Amboss](https://next.amboss.com/us/article/Zi0ZJf))
 #### 骨關
 62. Sports injuries ([Amboss](https://next.amboss.com/us/article/AM0Rrg))
-63. Upper extremity amputation ([Amboss](https://www.uptodate.com/contents/upper-extremity-amputation))
+63. Upper extremity amputation ([UpToDate](https://www.uptodate.com/contents/upper-extremity-amputation))
 64. Collection of orthopedic conditions ([Amboss](https://next.amboss.com/us/article/i50JPg))
 #### 心肺
 65. Chronic obstructive pulmonary disease ([Amboss](https://next.amboss.com/us/article/3h0Sdf))
