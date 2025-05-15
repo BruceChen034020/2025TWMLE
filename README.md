@@ -460,7 +460,7 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 68. 物理治療儀器 ([First Choice](內部/FC/醫學(6-3)復健科%20(2).pdf))
 69. Overview of nerve conduction studies ([UpToDate](https://www.uptodate.com/contents/overview-of-nerve-conduction-studies))
 70. Neurophysiological diagnostics ([Amboss](https://next.amboss.com/us/article/Cn0qvg))
-71. Rehabilitation
+71. Rehabilitation ([Amboss](https://next.amboss.com/us/article/kn0mtg))
 ### 放射科
 72. 
 
