@@ -441,7 +441,7 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 56. Recurrent pregnancy loss: Evaluation ([UpToDate](https://www.uptodate.com/contents/recurrent-pregnancy-loss-evaluation))
 #### 婦女泌尿科 (猜題來源: 考古題)
 57. Female urinary incontinence: Evaluation ([UpToDate](https://www.uptodate.com/contents/female-urinary-incontinence-evaluation))
-### 復健科
+### 復健科 (猜題來源: 臨床)
 #### 神經
 58. Overview of stroke ([Amboss](https://next.amboss.com/us/article/UR0bmf))
 59. Traumatic brain injury ([Amboss](https://next.amboss.com/us/article/eR0xNf))
@@ -457,7 +457,13 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 66. Cerebral palsy ([Amboss](https://next.amboss.com/us/article/5o0icS))
 67. Myelomeningocele (spina bifida): Management and outcome ([UpToDate](https://www.uptodate.com/contents/myelomeningocele-spina-bifida-management-and-outcome))
 #### 復健儀器與手法
-68. 
+68. 物理治療儀器 ([First Choice](內部/FC/醫學(6-3)復健科%20(2).pdf))
+69. Overview of nerve conduction studies ([UpToDate](https://www.uptodate.com/contents/overview-of-nerve-conduction-studies))
+70. Neurophysiological diagnostics ([Amboss](https://next.amboss.com/us/article/Cn0qvg))
+71. Rehabilitation
+### 放射科
+72. 
+
 
 
 國考320題，每題都有準備，問心無愧 just OK ~
