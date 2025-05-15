@@ -443,9 +443,21 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 57. Female urinary incontinence: Evaluation ([UpToDate](https://www.uptodate.com/contents/female-urinary-incontinence-evaluation))
 ### 復健科
 #### 神經
-58. Stroke ([Physiopedia](https://www.physio-pedia.com/Stroke))
-59. Traumatic brain injury
-60. Spinal cord injuries
+58. Overview of stroke ([Amboss](https://next.amboss.com/us/article/UR0bmf))
+59. Traumatic brain injury ([Amboss](https://next.amboss.com/us/article/eR0xNf))
+60. Spinal cord injuries ([Amboss](https://next.amboss.com/us/article/Wi0Pqf))
+61. Peripheral nerve injuries ([Amboss](https://next.amboss.com/us/article/Zi0ZJf))
+#### 骨關
+62. Sports injuries ([Amboss](https://next.amboss.com/us/article/AM0Rrg))
+63. Upper extremity amputation ([Amboss](https://www.uptodate.com/contents/upper-extremity-amputation))
+64. Collection of orthopedic conditions ([Amboss](https://next.amboss.com/us/article/i50JPg))
+#### 心肺
+65. Chronic obstructive pulmonary disease ([Amboss](https://next.amboss.com/us/article/3h0Sdf))
+#### 小兒
+66. Cerebral palsy ([Amboss](https://next.amboss.com/us/article/5o0icS))
+67. Myelomeningocele (spina bifida): Management and outcome ([UpToDate](https://www.uptodate.com/contents/myelomeningocele-spina-bifida-management-and-outcome))
+#### 復健儀器與手法
+68. 
 
 
 國考320題，每題都有準備，問心無愧 just OK ~
