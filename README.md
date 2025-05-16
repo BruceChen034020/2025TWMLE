@@ -170,13 +170,13 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 27. Epiglottitis (supraglottitis): Clinical features and diagnosis ([UpToDate](https://www.uptodate.com/contents/epiglottitis-supraglottitis-clinical-features-and-diagnosis))
 28. Croup: Management ([UpToDate](https://www.uptodate.com/contents/croup-management))
 #### 小兒神經科
-29. a
-30. a
-31. a
+29. Neurocutaneous syndromes ([Amboss](https://next.amboss.com/us/article/Rk0lnT))
+30. Spinal muscular atrophy ([UpToDate](https://www.uptodate.com/contents/spinal-muscular-atrophy))
+31. Duchenne and Becker muscular dystrophy: Clinical features and diagnosis ([UpToDate](https://www.uptodate.com/contents/duchenne-and-becker-muscular-dystrophy-clinical-features-and-diagnosis))
 #### 兒科急診醫學科
 32. a
 #### 兒科醫學遺傳學及新陳代謝學科
-33. a
+33. Inborn errors of metabolism ([Amboss](https://next.amboss.com/us/article/vR0AKf))
 ### 皮膚科 (猜題來源: 考古題)
 #### 濕疹及皮膚炎
 34. New-onset urticaria (hives) ([UpToDate](https://www.uptodate.com/contents/new-onset-urticaria-hives))
