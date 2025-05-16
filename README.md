@@ -131,43 +131,44 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 ## 醫學(四)
 ### 　 小兒科 (猜題來源: 考古題)
 #### 　　一般兒科
-1. a
-2. a
+1. Overview of enteral nutrition in infants and children ([UpToDate](https://www.uptodate.com/contents/overview-of-enteral-nutrition-in-infants-and-children))
+2. Normal growth patterns in infants and prepubertal children ([UpToDate](https://www.uptodate.com/contents/normal-growth-patterns-in-infants-and-prepubertal-children))
 #### 新生兒科
-3. a
-4. a
-5. a
+3. Overview of TORCH infections ([UpToDate](https://www.uptodate.com/contents/overview-of-torch-infections))
+4. Respiratory distress syndrome (RDS) in preterm neonates: Clinical features and diagnosis ([UpToDate](https://www.uptodate.com/contents/respiratory-distress-syndrome-rds-in-preterm-neonates-clinical-features-and-diagnosis))
+5. Assessment of the newborn infant ([UpToDate](https://www.uptodate.com/contents/assessment-of-the-newborn-infant))
 #### 心臟科
-6. a
-7. a
-8. a
+6. Cyanotic congenital heart disease (CHD) in the newborn: Causes, evaluation, and initial management ([UpToDate](https://www.uptodate.com/contents/cyanotic-congenital-heart-disease-chd-in-the-newborn-causes-evaluation-and-initial-management))
+7. Acyanotic congenital heart defects ([Amboss](https://next.amboss.com/us/article/4403jT))
+8. Infective endocarditis in children ([UpToDate](https://www.uptodate.com/contents/infective-endocarditis-in-children))
 #### 小兒消化科
-9. a
-10. a
-11. a
+9. Chronic abdominal pain in children and adolescents: Approach to the evaluation ([UpToDate](https://www.uptodate.com/contents/chronic-abdominal-pain-in-children-and-adolescents-approach-to-the-evaluation))
+10. Diagnostic approach to diarrhea in children in resource-abundant settings ([UpToDate](https://www.uptodate.com/contents/diagnostic-approach-to-diarrhea-in-children-in-resource-abundant-settings))
+11. Congenital anomalies of the intrathoracic airways and tracheoesophageal fistula ([UpToDate](https://www.uptodate.com/contents/congenital-anomalies-of-the-intrathoracic-airways-and-tracheoesophageal-fistula))
 #### 腎臟科
-12. a
-13. a
-14. a
+12. Urinary tract infections in children and adolescents ([Amboss](https://next.amboss.com/us/article/oG00Z3))
+13. Overview of the pathogenesis and causes of glomerulonephritis in children ([UpToDate](https://www.uptodate.com/contents/overview-of-the-pathogenesis-and-causes-of-glomerulonephritis-in-children))
+14. Overview of heavy proteinuria and the nephrotic syndrome ([UpToDate](https://www.uptodate.com/contents/overview-of-heavy-proteinuria-and-the-nephrotic-syndrome))
 #### 兒童過敏氣喘及免疫風濕科
-15. a
-16. a
-17. a
-#### 血液科
-18. a
-19. a
-20. a
+15. An overview of asthma management in children and adults ([UpToDate](https://www.uptodate.com/contents/an-overview-of-asthma-management-in-children-and-adults))
+16. Congenital immunodeficiency disorders ([Amboss](https://next.amboss.com/us/article/tM0Xqg))
+17. Juvenile idiopathic arthritis ([Amboss](https://next.amboss.com/us/article/w40hlT))
+#### 血液腫瘤科
+##### 腫瘤科
+18. Overview of the clinical presentation and diagnosis of acute lymphoblastic leukemia/lymphoma in children ([UpToDate](https://www.uptodate.com/contents/overview-of-the-clinical-presentation-and-diagnosis-of-acute-lymphoblastic-leukemia-lymphoma-in-children))
+19. Acute myeloid leukemia: Clinical manifestations, pathologic features, and diagnosis ([UpToDate](https://www.uptodate.com/contents/acute-myeloid-leukemia-clinical-manifestations-pathologic-features-and-diagnosis))
+20. Clinical presentation and initial evaluation of non-Hodgkin lymphoma ([UpToDate](https://www.uptodate.com/contents/clinical-presentation-and-initial-evaluation-of-non-hodgkin-lymphoma))
 #### 兒童胸腔暨重症科
 21. a
 22. a
 #### 兒科內分泌科
-23. a
-24. a
-25. a
+23. Clinical manifestations of hypothyroidism ([UpToDate](https://www.uptodate.com/contents/clinical-manifestations-of-hypothyroidism))
+24. Hypoparathyroidism ([UpToDate](https://www.uptodate.com/contents/hypoparathyroidism))
+25. Overview of rickets in children ([UpToDate](https://www.uptodate.com/contents/overview-of-rickets-in-children))
 #### 感染科
-26. a
-27. a
-28. a
+26. Acute otitis media in children: Treatment ([UpToDate](https://www.uptodate.com/contents/acute-otitis-media-in-children-treatment))
+27. Epiglottitis (supraglottitis): Clinical features and diagnosis ([UpToDate](https://www.uptodate.com/contents/epiglottitis-supraglottitis-clinical-features-and-diagnosis))
+28. Croup: Management ([UpToDate](https://www.uptodate.com/contents/croup-management))
 #### 小兒神經科
 29. a
 30. a
