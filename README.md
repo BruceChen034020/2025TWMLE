@@ -335,20 +335,20 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 55. 
 ### 骨科
 #### 骨腫瘤
-56. a
+56. Benign bone tumors ([Amboss](https://next.amboss.com/us/article/7Q04xf))
 #### 創傷骨科
-57. a
-58. 
+57. Osteomyelitis associated with open fractures in adults ([UpToDate](https://www.uptodate.com/contents/osteomyelitis-associated-with-open-fractures-in-adults))
+58. Acute compartment syndrome of the extremities ([UpToDate](https://www.uptodate.com/contents/acute-compartment-syndrome-of-the-extremities))
 #### 運動醫學
-59. a
+59. Anterior cruciate ligament injury ([UpToDate](https://www.uptodate.com/contents/anterior-cruciate-ligament-injury))
 #### 小兒骨科
-60. a
+60. Supracondylar humeral fractures in children ([UpToDate](https://www.uptodate.com/contents/supracondylar-humeral-fractures-in-children))
 #### 手外科
-61. a
+61. Carpal tunnel syndrome ([Amboss](https://next.amboss.com/us/article/sR0tof))
 #### 脊椎科
-62. a
+62. Degenerative disk disease ([Amboss](https://next.amboss.com/us/article/ji0_rf))
 #### 一般骨科/關節重建
-63. 
+63. Treatment of nontraumatic hip osteonecrosis (avascular necrosis of the femoral head) in adults ([UpToDate](https://www.uptodate.com/contents/treatment-of-nontraumatic-hip-osteonecrosis-avascular-necrosis-of-the-femoral-head-in-adults))
 ### 泌尿外科
 ### 放射科 (猜題來源: 臨床)
 #### 肌肉骨骼影像醫學
