@@ -325,7 +325,7 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 47. Midgut volvulus and intestinal malrotation ([Amboss](https://next.amboss.com/us/article/ho0cbS))
 48. Cystic fibrosis: Overview of gastrointestinal disease ([UpToDate](https://www.uptodate.com/contents/cystic-fibrosis-overview-of-gastrointestinal-disease))
 49. Meckel's diverticulum ([UpToDate](https://www.uptodate.com/contents/meckels-diverticulum))
-#### 大腸直腸外科
+#### 大腸直腸外科 (猜題來源: 臨床)
 50. Diverticulitis ([Amboss](https://next.amboss.com/us/article/_H05Gh))
 51. Sigmoid volvulus and cecal volvulus ([Amboss](https://next.amboss.com/us/article/9H0Nsh))
 52. Colorectal cancer ([Amboss](https://next.amboss.com/us/article/TS06_2))
@@ -333,7 +333,7 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 53. a
 54. a
 55. 
-### 骨科
+### 骨科 (猜題來源: 臨床)
 #### 骨腫瘤
 56. Benign bone tumors ([Amboss](https://next.amboss.com/us/article/7Q04xf))
 #### 創傷骨科
