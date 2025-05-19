@@ -484,8 +484,12 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 69. Overview of nerve conduction studies ([UpToDate](https://www.uptodate.com/contents/overview-of-nerve-conduction-studies))
 70. Neurophysiological diagnostics ([Amboss](https://next.amboss.com/us/article/Cn0qvg))
 71. Rehabilitation ([Amboss](https://next.amboss.com/us/article/kn0mtg))
-### 放射科
-72. 
+### 放射科 (猜題來源: 臨床)
+#### 腹部影像醫學
+72. Uterine leiomyoma ([Radiopaedia](https://radiopaedia.org/articles/uterine-leiomyoma))
+#### 神經放射科
+73. Nasopharyngeal carcinoma ([Radiopaedia](https://radiopaedia.org/articles/nasopharyngeal-carcinoma))
+74. Paranasal sinus mucocele ([Radiopaedia](https://radiopaedia.org/articles/paranasal-sinus-mucocele-1))
 
 
 
