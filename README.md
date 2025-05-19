@@ -277,7 +277,7 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 12. Spondylolysis and spondylolisthesis in child and adolescent athletes: Management ([UpToDate](https://www.uptodate.com/contents/spondylolysis-and-spondylolisthesis-in-child-and-adolescent-athletes-management))
 ##### 頭部外傷
 13. Management of acute moderate and severe traumatic brain injury ([UpToDate](https://www.uptodate.com/contents/management-of-acute-moderate-and-severe-traumatic-brain-injury))
-#### 重建整形外科 (猜題來源: 臨床)
+#### 整形外科 (猜題來源: 臨床)
 14. Wound healing ([Amboss](https://next.amboss.com/us/article/Kh0UUf))
 15. Skin autografting ([UpToDate](https://www.uptodate.com/contents/skin-autografting))
 16. Overview of flaps for soft tissue reconstruction ([UpToDate](https://www.uptodate.com/contents/overview-of-flaps-for-soft-tissue-reconstruction))
@@ -635,7 +635,7 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
     - 外科：55題（17.1%）
       - 外科原理：7題（2.1%）
       - 神外：6題（1.8%）
-      - 整外：6題（1.8%）
+      - 重建：6題（1.8%）
       - 一般外：14題（4.3%）
         - 消化：8題（2.5%）
         - 內分泌：3題（0.9%）
