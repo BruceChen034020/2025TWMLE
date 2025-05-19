@@ -349,7 +349,15 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 62. Degenerative disk disease ([Amboss](https://next.amboss.com/us/article/ji0_rf))
 #### 一般骨科/關節重建
 63. Treatment of nontraumatic hip osteonecrosis (avascular necrosis of the femoral head) in adults ([UpToDate](https://www.uptodate.com/contents/treatment-of-nontraumatic-hip-osteonecrosis-avascular-necrosis-of-the-femoral-head-in-adults))
-### 泌尿外科
+### 泌尿外科 (猜題來源: 臨床)
+64. Urinary tract cancer ([Amboss](https://next.amboss.com/us/article/6i0jsf))
+65. Benign prostatic hyperplasia ([Amboss](https://next.amboss.com/us/article/pi0Lsf))
+66. Congenital ureteropelvic junction obstruction ([UpToDate](https://www.uptodate.com/contents/congenital-ureteropelvic-junction-obstruction))
+67. Disorders of the glans penis and foreskin ([Amboss](https://next.amboss.com/us/article/oi00sf))
+68. Undescended testes (cryptorchidism) in children: Clinical features and evaluation ([UpToDate](https://www.uptodate.com/contents/undescended-testes-cryptorchidism-in-children-clinical-features-and-evaluation))
+69. Nocturnal enuresis in children: Management ([UpToDate](https://www.uptodate.com/contents/nocturnal-enuresis-in-children-management))
+70. Urinary tract infections in children: Epidemiology and risk factors ([UpToDate](https://www.uptodate.com/contents/urinary-tract-infections-in-children-epidemiology-and-risk-factors))
+71. Clinical presentation, diagnosis, and course of primary vesicoureteral reflux ([UpToDate](https://www.uptodate.com/contents/clinical-presentation-diagnosis-and-course-of-primary-vesicoureteral-reflux))
 ### 放射科 (猜題來源: 臨床)
 #### 肌肉骨骼影像醫學
 72. a
