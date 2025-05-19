@@ -364,11 +364,17 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 #### 腹部影像醫學
 73. Acute pancreatitis ([Radiopaedia](https://radiopaedia.org/articles/acute-pancreatitis))
 74. Pneumoperitoneum (summary) ([Radiopaedia](https://radiopaedia.org/articles/pneumoperitoneum-summary))
-### 急診醫學科
+### 急診醫學科 (猜題來源: 考古題)
 #### 術後併發症
+75. Postgastrectomy complications ([UpToDate](https://www.uptodate.com/contents/postgastrectomy-complications))
 #### 外傷
+76. Management of trauma patients ([Amboss](https://next.amboss.com/us/article/4N03Yg))
 #### 外科急症
+77. Pneumothorax ([Amboss](https://next.amboss.com/us/article/vh0Aff))
 ### 醫學倫理
+78. a
+79. a
+80. 
 
 
 
