@@ -360,10 +360,10 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 71. Kidney stones in children: Acute management ([UpToDate](https://www.uptodate.com/contents/kidney-stones-in-children-acute-management))
 ### 放射科 (猜題來源: 臨床)
 #### 肌肉骨骼影像醫學
-72. a
+72. Cervical spine injury ([Radiopaedia](https://radiopaedia.org/articles/cervical-spine-injury))
 #### 腹部影像醫學
-73. a
-74. 
+73. Acute pancreatitis ([Radiopaedia](https://radiopaedia.org/articles/acute-pancreatitis))
+74. Pneumoperitoneum (summary) ([Radiopaedia](https://radiopaedia.org/articles/pneumoperitoneum-summary))
 ### 急診醫學科
 #### 術後併發症
 #### 外傷
