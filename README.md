@@ -354,7 +354,7 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 65. Benign prostatic hyperplasia ([Amboss](https://next.amboss.com/us/article/pi0Lsf))
 66. Congenital ureteropelvic junction obstruction ([UpToDate](https://www.uptodate.com/contents/congenital-ureteropelvic-junction-obstruction))
 67. Disorders of the glans penis and foreskin ([Amboss](https://next.amboss.com/us/article/oi00sf))
-68. Urodynamic evaluation of women with incontinence ([UpToDate](https://www.uptodate.com/contents/undescended-testes-cryptorchidism-in-children-clinical-features-and-evaluation))
+68. Urodynamic evaluation of women with incontinence ([UpToDate](https://www.uptodate.com/contents/urodynamic-evaluation-of-women-with-incontinence))
 69. Erectile dysfunction ([Amboss](https://next.amboss.com/us/article/E808o3))
 70. Genitourinary trauma ([Amboss](https://next.amboss.com/us/article/9i0NFf))
 71. Kidney stones in children: Acute management ([UpToDate](https://www.uptodate.com/contents/kidney-stones-in-children-acute-management))
