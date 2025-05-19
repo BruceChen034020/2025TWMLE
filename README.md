@@ -354,10 +354,10 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 65. Benign prostatic hyperplasia ([Amboss](https://next.amboss.com/us/article/pi0Lsf))
 66. Congenital ureteropelvic junction obstruction ([UpToDate](https://www.uptodate.com/contents/congenital-ureteropelvic-junction-obstruction))
 67. Disorders of the glans penis and foreskin ([Amboss](https://next.amboss.com/us/article/oi00sf))
-68. Undescended testes (cryptorchidism) in children: Clinical features and evaluation ([UpToDate](https://www.uptodate.com/contents/undescended-testes-cryptorchidism-in-children-clinical-features-and-evaluation))
-69. Nocturnal enuresis in children: Management ([UpToDate](https://www.uptodate.com/contents/nocturnal-enuresis-in-children-management))
-70. Urinary tract infections in children: Epidemiology and risk factors ([UpToDate](https://www.uptodate.com/contents/urinary-tract-infections-in-children-epidemiology-and-risk-factors))
-71. Clinical presentation, diagnosis, and course of primary vesicoureteral reflux ([UpToDate](https://www.uptodate.com/contents/clinical-presentation-diagnosis-and-course-of-primary-vesicoureteral-reflux))
+68. Urodynamic evaluation of women with incontinence ([UpToDate](https://www.uptodate.com/contents/undescended-testes-cryptorchidism-in-children-clinical-features-and-evaluation))
+69. Erectile dysfunction ([UpToDate](https://next.amboss.com/us/article/E808o3))
+70. Genitourinary trauma ([UpToDate](https://next.amboss.com/us/article/9i0NFf))
+71. Kidney stones in children: Acute management ([UpToDate](https://www.uptodate.com/contents/kidney-stones-in-children-acute-management))
 ### 放射科 (猜題來源: 臨床)
 #### 肌肉骨骼影像醫學
 72. a
