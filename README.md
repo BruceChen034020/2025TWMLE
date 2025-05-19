@@ -496,6 +496,17 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 #### 神經放射科
 73. Nasopharyngeal carcinoma ([Radiopaedia](https://radiopaedia.org/articles/nasopharyngeal-carcinoma))
 74. Paranasal sinus mucocele ([Radiopaedia](https://radiopaedia.org/articles/paranasal-sinus-mucocele-1))
+### 急診醫學科 (猜題來源: 考古題)
+#### 急診麻醉
+75. Rapid sequence intubation in adults for emergency medicine and critical care ([UpToDate](https://www.uptodate.com/contents/rapid-sequence-intubation-in-adults-for-emergency-medicine-and-critical-care))
+#### 眼科急症
+76. Retinal detachment ([UpToDate](https://www.uptodate.com/contents/retinal-detachment))
+#### 運動傷害
+77. Presentation and diagnosis of rotator cuff tears ([UpToDate](https://www.uptodate.com/contents/presentation-and-diagnosis-of-rotator-cuff-tears))
+### 醫學倫理
+78. a
+79. a
+80. 
 
 
 
