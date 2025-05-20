@@ -216,7 +216,7 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 55. Manifestations of systemic lupus erythematosus affecting the peripheral nervous system ([UpToDate](https://www.uptodate.com/contents/manifestations-of-systemic-lupus-erythematosus-affecting-the-peripheral-nervous-system))
 #### 神經免疫科
 56. Evaluation and diagnosis of multiple sclerosis in adults ([UpToDate](https://www.uptodate.com/contents/evaluation-and-diagnosis-of-multiple-sclerosis-in-adults))
-57. 
+57. Brain tumors ([Amboss](https://next.amboss.com/us/article/H50Klg))
 58. Clinical features and diagnosis of acute bacterial meningitis in adults ([UpToDate](https://www.uptodate.com/contents/clinical-features-and-diagnosis-of-acute-bacterial-meningitis-in-adults))
 ### 精神科 (猜題來源: 臨床)
 #### Psychotic disorders
