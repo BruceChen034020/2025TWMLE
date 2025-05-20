@@ -197,15 +197,15 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 43. Ichthyosis vulgaris ([UpToDate](https://www.uptodate.com/contents/ichthyosis-vulgaris))
 ### 神經內科
 #### 腦血管科
-44. a
-45. a
-46. a
-#### 癲癇科
-47. a
-#### 頭痛
-48. a
+44. Initial assessment and management of acute stroke ([UpToDate](https://www.uptodate.com/contents/initial-assessment-and-management-of-acute-stroke))
+45. Overview of the evaluation of stroke ([UpToDate](https://www.uptodate.com/contents/overview-of-the-evaluation-of-stroke))
+46. Overview of secondary prevention of ischemic stroke ([UpToDate](https://www.uptodate.com/contents/overview-of-secondary-prevention-of-ischemic-stroke))
 #### 睡眠障礙
-49. a
+47. Classification of sleep disorders ([UpToDate](https://www.uptodate.com/contents/classification-of-sleep-disorders))
+#### 頭痛
+48. Evaluation of headache in adults ([UpToDate](https://www.uptodate.com/contents/evaluation-of-headache-in-adults))
+#### 癲癇科
+49. Overview of the management of epilepsy in adults ([UpToDate](https://www.uptodate.com/contents/overview-of-the-management-of-epilepsy-in-adults))
 #### 一般神經科
 50. a
 51. a
