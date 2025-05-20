@@ -195,7 +195,7 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 42. Acquired melanocytic nevi (moles) ([UpToDate](https://www.uptodate.com/contents/acquired-melanocytic-nevi-moles))
 #### 角化異常
 43. Ichthyosis vulgaris ([UpToDate](https://www.uptodate.com/contents/ichthyosis-vulgaris))
-### 神經內科
+### 神經內科 (猜題來源: 考古題)
 #### 腦血管科
 44. Initial assessment and management of acute stroke ([UpToDate](https://www.uptodate.com/contents/initial-assessment-and-management-of-acute-stroke))
 45. Overview of the evaluation of stroke ([UpToDate](https://www.uptodate.com/contents/overview-of-the-evaluation-of-stroke))
