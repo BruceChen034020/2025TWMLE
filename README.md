@@ -213,7 +213,7 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 #### 周邊神經科
 53. Disorders affecting the spinal cord ([UpToDate](https://www.uptodate.com/contents/disorders-affecting-the-spinal-cord))
 54. Evaluation of peripheral nerve and muscle disease ([UpToDate](https://www.uptodate.com/contents/evaluation-of-peripheral-nerve-and-muscle-disease))
-55. Manifestations of systemic lupus erythematosus affecting the peripheral nervous system ([UpToDate](https://www.uptodate.com/contents/manifestations-of-systemic-lupus-erythematosus-affecting-the-peripheral-nervous-system))
+55. Duchenne and Becker muscular dystrophy: Clinical features and diagnosis ([UpToDate](https://www.uptodate.com/contents/duchenne-and-becker-muscular-dystrophy-clinical-features-and-diagnosis))
 #### 神經免疫科
 56. Evaluation and diagnosis of multiple sclerosis in adults ([UpToDate](https://www.uptodate.com/contents/evaluation-and-diagnosis-of-multiple-sclerosis-in-adults))
 57. Brain tumors ([Amboss](https://next.amboss.com/us/article/H50Klg))
