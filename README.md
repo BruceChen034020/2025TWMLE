@@ -207,13 +207,13 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 #### 癲癇科
 49. Overview of the management of epilepsy in adults ([UpToDate](https://www.uptodate.com/contents/overview-of-the-management-of-epilepsy-in-adults))
 #### 一般神經科
-50. a
-51. a
-52. a
+50. Evaluation of cognitive impairment and dementia ([UpToDate](https://www.uptodate.com/contents/evaluation-of-cognitive-impairment-and-dementia))
+51. Diseases of the central nervous system caused by prions ([UpToDate](https://www.uptodate.com/contents/diseases-of-the-central-nervous-system-caused-by-prion))
+52. Functional movement disorders ([UpToDate](https://www.uptodate.com/contents/functional-movement-disorders))
 #### 周邊神經科
-53. a
-54. a
-55. a
+53. Disorders affecting the spinal cord ([UpToDate](https://www.uptodate.com/contents/disorders-affecting-the-spinal-cord))
+54. Evaluation of peripheral nerve and muscle disease ([UpToDate](https://www.uptodate.com/contents/evaluation-of-peripheral-nerve-and-muscle-disease))
+55. Manifestations of systemic lupus erythematosus affecting the peripheral nervous system ([UpToDate](https://www.uptodate.com/contents/manifestations-of-systemic-lupus-erythematosus-affecting-the-peripheral-nervous-system))
 #### 神經免疫科
 56. a
 57. a
