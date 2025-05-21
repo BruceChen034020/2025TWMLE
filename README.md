@@ -257,7 +257,7 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 
 ## 醫學(五)
 ### 　 外科
-#### 　　外科概論
+#### 　　外科概論 (猜題來源: 考古題)
 1. Shock ([Amboss](https://next.amboss.com/us/article/kO0msT))
 2. Blunt trauma ([Amboss](https://next.amboss.com/us/article/GL0B_g))
 3. Wound treatment ([Amboss](https://next.amboss.com/us/article/ph0LUf))
