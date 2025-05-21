@@ -208,8 +208,8 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 49. Overview of the management of epilepsy in adults ([UpToDate](https://www.uptodate.com/contents/overview-of-the-management-of-epilepsy-in-adults))
 #### 一般神經科
 50. Evaluation of cognitive impairment and dementia ([UpToDate](https://www.uptodate.com/contents/evaluation-of-cognitive-impairment-and-dementia))
-51. Diseases of the central nervous system caused by prions ([UpToDate](https://www.uptodate.com/contents/diseases-of-the-central-nervous-system-caused-by-prions))
-52. Functional movement disorders ([UpToDate](https://www.uptodate.com/contents/functional-movement-disorders))
+51. Clinical manifestations of Parkinson disease ([UpToDate](https://www.uptodate.com/contents/clinical-manifestations-of-parkinson-disease))
+52. Huntington disease: Clinical features and diagnosis ([UpToDate](https://www.uptodate.com/contents/huntington-disease-clinical-features-and-diagnosis))
 #### 周邊神經科
 53. Disorders affecting the spinal cord ([UpToDate](https://www.uptodate.com/contents/disorders-affecting-the-spinal-cord))
 54. Evaluation of peripheral nerve and muscle disease ([UpToDate](https://www.uptodate.com/contents/evaluation-of-peripheral-nerve-and-muscle-disease))
