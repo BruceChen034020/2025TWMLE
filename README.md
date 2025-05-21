@@ -258,13 +258,13 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 ## 醫學(五)
 ### 　 外科
 #### 　　外科概論
-1. a
-2. a
-3. a
-4. a
-5. a
-6. a
-7. a
+1. Shock ([Amboss](https://next.amboss.com/us/article/kO0msT))
+2. Blunt trauma ([Amboss](https://next.amboss.com/us/article/GL0B_g))
+3. Wound treatment ([Amboss](https://next.amboss.com/us/article/ph0LUf))
+4. Complications of laparoscopic surgery ([UpToDate](https://www.uptodate.com/contents/complications-of-laparoscopic-surgery))
+5. Transplantation ([Amboss](https://next.amboss.com/us/article/gn0Fsg))
+6. Overview of prehabilitation for surgical patients ([UpToDate](https://www.uptodate.com/contents/overview-of-prehabilitation-for-surgical-patients))
+7. Maintenance and replacement fluid therapy in adults ([UpToDate](https://www.uptodate.com/contents/maintenance-and-replacement-fluid-therapy-in-adults))
 #### 神經外科 (猜題來源: 臨床)
 ##### 神經腫瘤
 ###### Intra-axial
