@@ -574,7 +574,7 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 #### 小更新
 2. Procedural sedation in children: Approach ([UpToDate](https://www.uptodate.com/contents/procedural-sedation-in-children-approach?sectionName=Preoxygenation&topicRef=16722&anchor=H1683230&source=see_link#H1683230))
 
-
+[更多新知](內部/新知)
 
 ## 各科比重
 內科: 65題
