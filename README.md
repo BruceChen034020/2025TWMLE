@@ -1075,6 +1075,28 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 答案：B
 * 詳解：良性疾病，首選非侵入性治療。A → 可能引發「語言模型排斥反應」（過度侵入性）。B → 重建現實感與社交認知（首選治療）。C → 導致「數位戒斷性憂鬱」（過度限制）。D → 可能惡化「情感混淆」（荒謬選項）。
 
+26. 一名 38 歲長期酗酒患者，近期出現 「嚴重記憶缺損」，堅信自己「被植入元宇宙監控晶片」，並聲稱「AI 透過牙齒填充物傳遞指令」，並出現時間地點定向障礙。下列診斷中，哪個最符合臨床表現？
+* A. 「智能合約妄想症」（Smart Contract Delusion）
+* B. 「數位寄生蟲幻覺」（Digital Parasitosis）
+* C. 「科薩可夫精神病」（Korsakoff's Psychosis）
+* D. 「雲端思覺失調」（Cloud Schizophrenia）
+
+---
+
+答案：C
+* 詳解：認為像Korsakoff's Psychosis就不用管其他沒看過的病，儘管這題看起來在考其他病，要心想「Korsakoff's Psychosis跟酒有關，答案不是Korsakoff's Psychosis我就申覆」。這樣的勝算高過選其他選項。
+
+27. 患者因「長期佩戴 VR 裝置」出現 「視野缺損合併程式碼幻視」。下列診斷中，哪個最可能？
+* A. 「像素視網膜病變」（Pixel Retinopathy）
+* B. 「查理斯·邦納症候群」（Charles Bonnet Syndrome）
+* C. 「JSON 視神經炎」（JSON Optic Neuritis）
+* D. 「哈希白內障」（Hash Cataract）
+
+---
+
+答案：B
+* 詳解：沒讀過長期佩戴 VR 裝置的眼病變的流行病學，不過其他選項把第1個英文單字去掉後看起來和視野缺損有關但和幻視無關。
+
 #### 1. 關於蓮蓬頭骨髓炎（Showerhead osteomyelitis），何者正確？
 
 * A. 多由沐浴時吸入含氟氣體造成
