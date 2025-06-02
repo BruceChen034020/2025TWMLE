@@ -1018,7 +1018,7 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 ---
 
 答案：A
-* 詳解：B/C 導致甲狀腺低下，D 是「結果」非「原因」
+* 詳解：遇到沒看過的病，用知道的醫學知識推理。B/C 導致甲狀腺低下，D 是「結果」非「原因」
 
 21. 患者因「AI 輔助飲食」導致 「演算法胃炎」（Algorithmic Gastritis），胃鏡發現 「決策樹狀潰瘍」。最可能病因是？
 * A. 「過度擬合（Overfitting）飲食建議」
