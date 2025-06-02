@@ -122,7 +122,7 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 76. Adult Cardiac Arrest Algorithm ([AHA](https://cpr.heart.org/-/media/CPR-Images/CPR-Guidelines-Images/Part-3-Adult-Basic-and-Advanced-Life-Support/AlgorithmACLS_CA_200731.jpg)(jpg檔))
 77. Adult Bradycardia Algorithm ([AHA](https://cpr.heart.org/-/media/CPR-Images/CPR-Guidelines-Images/Part-3-Adult-Basic-and-Advanced-Life-Support/Adult_Bradycardia_Algorithm.jpg)(jpg檔))
 78. Acute Coronary Syndrome Algorithm ([外部](https://acls-algorithms.com/wp-content/uploads/2022/06/Website-ACS-Algorithm-Diagram.pdf)(pdf檔))
-### 醫學倫理
+### 醫學倫理 (猜題來源: 考古題)
 79. 「瞞」不住的愛，誠實告知病情 尊重病人自主；讓生死兩無憾 ([衛福部](https://www.mohw.gov.tw/cp-2644-20714-1.html))
 80. 「保密義務」與「警告義務」的衝突？ 醫師該如何對病人的隱私權保護 ([桃園市水務局](https://wrb.tycg.gov.tw/News_Content.aspx?n=10905&s=1062031))
 
@@ -159,8 +159,8 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 19. Acute myeloid leukemia: Clinical manifestations, pathologic features, and diagnosis ([UpToDate](https://www.uptodate.com/contents/acute-myeloid-leukemia-clinical-manifestations-pathologic-features-and-diagnosis))
 20. Clinical presentation and initial evaluation of non-Hodgkin lymphoma ([UpToDate](https://www.uptodate.com/contents/clinical-presentation-and-initial-evaluation-of-non-hodgkin-lymphoma))
 #### 兒童胸腔暨重症科
-21. a
-22. a
+21. Initial evaluation of shock in children ([UpToDate](https://www.uptodate.com/contents/initial-evaluation-of-shock-in-children))
+22. Respiratory distress syndrome (RDS) in preterm neonates: Management ([UpToDate](https://www.uptodate.com/contents/respiratory-distress-syndrome-rds-in-preterm-neonates-management))
 #### 兒科內分泌科
 23. Clinical manifestations of hypothyroidism ([UpToDate](https://www.uptodate.com/contents/clinical-manifestations-of-hypothyroidism))
 24. Hypoparathyroidism ([UpToDate](https://www.uptodate.com/contents/hypoparathyroidism))
@@ -249,7 +249,7 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 77. Panic disorder in adults: Treatment overview ([UpToDate](https://www.uptodate.com/contents/panic-disorder-in-adults-treatment-overview))
 #### 神經科急診
 78. Initial assessment and management of acute stroke ([UpToDate](https://www.uptodate.com/contents/initial-assessment-and-management-of-acute-stroke))
-### 醫學倫理
+### 醫學倫理 (猜題來源: 考古題)
 79. AI 醫療倫理：未來醫療的道德挑戰 ([寶血](https://rebloodgroup.com/medical-ethics/))
 80. 病人未親自就醫而醫師/醫療單位開立處方的倫理與法律問題 ([衛福部](https://service.mohw.gov.tw/MOHW_Upload/dmc_history/UpFile/Period03/%E7%97%85%E4%BA%BA%E6%9C%AA%E8%A6%AA%E8%87%AA%E5%B0%B1%E9%86%AB%E8%80%8C%E9%86%AB%E5%B8%AB%E9%86%AB%E7%99%82%E5%96%AE%E4%BD%8D%E9%96%8B%E7%AB%8B%E8%99%95%E6%96%B9%E7%9A%84%E5%80%AB%E7%90%86%E8%88%87%E6%B3%95%E5%BE%8B%E5%95%8F%E9%A1%8C.pdf)(pdf檔))
 
@@ -373,7 +373,7 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 76. Management of trauma patients ([Amboss](https://next.amboss.com/us/article/4N03Yg))
 #### 外科急症
 77. Pneumothorax ([Amboss](https://next.amboss.com/us/article/vh0Aff))
-### 醫學倫理
+### 醫學倫理 (猜題來源: 考古題)
 78. Informed consent ([Wikipedia](https://en.wikipedia.org/wiki/Informed_consent))
 79. 醫師與同儕 ([醫師公會](https://www.tma.tw/ethical/files_pdf/2015_08%E7%AC%AC%E5%9B%9B%E7%AB%A0%E9%86%AB%E5%B8%AB%E8%88%87%E5%90%8C%E5%84%95.pdf)(pdf檔))
 80. 病人自主權利法 ([安寧照護基金會](https://www.hospice.org.tw/care/law))
@@ -505,7 +505,7 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 76. Retinal detachment ([UpToDate](https://www.uptodate.com/contents/retinal-detachment))
 #### 運動傷害
 77. Presentation and diagnosis of rotator cuff tears ([UpToDate](https://www.uptodate.com/contents/presentation-and-diagnosis-of-rotator-cuff-tears))
-### 醫學倫理
+### 醫學倫理 (猜題來源: 考古題)
 78. 生命倫理學之四原則 ([凱旋醫院](https://ksph.kcg.gov.tw/13/doctor1.htm))
 79. 末期病人之撤除維生治療 ([安寧照護基金會](https://www.hospice.org.tw/content/2051))
 80. 衛生福利部保護病人隱私權，擴大醫療隱私權維護規範適用範圍 ([衛福部](https://www.mohw.gov.tw/cp-2641-21002-1.html))
