@@ -123,8 +123,8 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 77. Adult Bradycardia Algorithm ([AHA](https://cpr.heart.org/-/media/CPR-Images/CPR-Guidelines-Images/Part-3-Adult-Basic-and-Advanced-Life-Support/Adult_Bradycardia_Algorithm.jpg)(jpg檔))
 78. Acute Coronary Syndrome Algorithm ([外部](https://acls-algorithms.com/wp-content/uploads/2022/06/Website-ACS-Algorithm-Diagram.pdf)(pdf檔))
 ### 醫學倫理
-79. a
-80. 
+79. 「瞞」不住的愛，誠實告知病情 尊重病人自主；讓生死兩無憾 ([衛服部](https://www.mohw.gov.tw/cp-2644-20714-1.html))
+80. 「保密義務」與「警告義務」的衝突？ 醫師該如何對病人的隱私權保護 ([桃園市水務局](https://wrb.tycg.gov.tw/News_Content.aspx?n=10905&s=1062031))
 
 
 
