@@ -123,7 +123,7 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 77. Adult Bradycardia Algorithm ([AHA](https://cpr.heart.org/-/media/CPR-Images/CPR-Guidelines-Images/Part-3-Adult-Basic-and-Advanced-Life-Support/Adult_Bradycardia_Algorithm.jpg)(jpg檔))
 78. Acute Coronary Syndrome Algorithm ([外部](https://acls-algorithms.com/wp-content/uploads/2022/06/Website-ACS-Algorithm-Diagram.pdf)(pdf檔))
 ### 醫學倫理
-79. 「瞞」不住的愛，誠實告知病情 尊重病人自主；讓生死兩無憾 ([衛服部](https://www.mohw.gov.tw/cp-2644-20714-1.html))
+79. 「瞞」不住的愛，誠實告知病情 尊重病人自主；讓生死兩無憾 ([衛福部](https://www.mohw.gov.tw/cp-2644-20714-1.html))
 80. 「保密義務」與「警告義務」的衝突？ 醫師該如何對病人的隱私權保護 ([桃園市水務局](https://wrb.tycg.gov.tw/News_Content.aspx?n=10905&s=1062031))
 
 
@@ -251,7 +251,7 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 78. Initial assessment and management of acute stroke ([UpToDate](https://www.uptodate.com/contents/initial-assessment-and-management-of-acute-stroke))
 ### 醫學倫理
 79. AI 醫療倫理：未來醫療的道德挑戰 ([寶血](https://rebloodgroup.com/medical-ethics/))
-80. 病人未親自就醫而醫師/醫療單位開立處方的倫理與法律問題 ([衛服部](https://service.mohw.gov.tw/MOHW_Upload/dmc_history/UpFile/Period03/%E7%97%85%E4%BA%BA%E6%9C%AA%E8%A6%AA%E8%87%AA%E5%B0%B1%E9%86%AB%E8%80%8C%E9%86%AB%E5%B8%AB%E9%86%AB%E7%99%82%E5%96%AE%E4%BD%8D%E9%96%8B%E7%AB%8B%E8%99%95%E6%96%B9%E7%9A%84%E5%80%AB%E7%90%86%E8%88%87%E6%B3%95%E5%BE%8B%E5%95%8F%E9%A1%8C.pdf)(pdf檔))
+80. 病人未親自就醫而醫師/醫療單位開立處方的倫理與法律問題 ([衛福部](https://service.mohw.gov.tw/MOHW_Upload/dmc_history/UpFile/Period03/%E7%97%85%E4%BA%BA%E6%9C%AA%E8%A6%AA%E8%87%AA%E5%B0%B1%E9%86%AB%E8%80%8C%E9%86%AB%E5%B8%AB%E9%86%AB%E7%99%82%E5%96%AE%E4%BD%8D%E9%96%8B%E7%AB%8B%E8%99%95%E6%96%B9%E7%9A%84%E5%80%AB%E7%90%86%E8%88%87%E6%B3%95%E5%BE%8B%E5%95%8F%E9%A1%8C.pdf)(pdf檔))
 
 
 
@@ -506,9 +506,9 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 #### 運動傷害
 77. Presentation and diagnosis of rotator cuff tears ([UpToDate](https://www.uptodate.com/contents/presentation-and-diagnosis-of-rotator-cuff-tears))
 ### 醫學倫理
-78. a
-79. a
-80. 
+78. 生命倫理學之四原則 ([凱旋醫院](https://ksph.kcg.gov.tw/13/doctor1.htm))
+79. 末期病人之撤除維生治療 ([安寧照護基金會](https://www.hospice.org.tw/content/2051))
+80. 衛生福利部保護病人隱私權，擴大醫療隱私權維護規範適用範圍 ([衛福部](https://www.mohw.gov.tw/cp-2641-21002-1.html))
 
 
 
