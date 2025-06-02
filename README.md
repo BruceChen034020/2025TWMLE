@@ -374,9 +374,9 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 #### 外科急症
 77. Pneumothorax ([Amboss](https://next.amboss.com/us/article/vh0Aff))
 ### 醫學倫理
-78. a
-79. a
-80. 
+78. Informed consent ([Wikipedia](https://en.wikipedia.org/wiki/Informed_consent))
+79. 醫師與同儕 ([醫師公會](https://www.tma.tw/ethical/files_pdf/2015_08%E7%AC%AC%E5%9B%9B%E7%AB%A0%E9%86%AB%E5%B8%AB%E8%88%87%E5%90%8C%E5%84%95.pdf)(pdf檔))
+80. 病人自主權利法 ([安寧照護基金會](https://www.hospice.org.tw/care/law))
 
 
 
