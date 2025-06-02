@@ -543,7 +543,7 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 
 ### 家醫科新知
 #### 政策趨勢
-1. 一般民眾-預立醫療決定意願問題 ([衛服部](https://hpcod.mohw.gov.tw/HospWeb/rwd/QA/general_a.aspx))
+1. 一般民眾-預立醫療決定意願問題 ([衛福部](https://hpcod.mohw.gov.tw/HospWeb/rwd/QA/general_a.aspx))
 2. 什麼是在宅醫療、在宅住院 ([在宅醫療學會](https://tsohhc.tw/what-is-hah.html))
 
 ### 外科新知
