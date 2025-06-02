@@ -1002,7 +1002,7 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 * A. 「立即靜脈注射 Python 3.11」
 * B. 「口服 Semantic Sugar 緩釋錠」
 * C. 「嚴格戒斷所有程式語言，改用自然語言」
-* D. 「靜脈輸注 JSON 格式生理食鹽水 + Semantic Sugar，逐步校正血清程式碼和語法血醣」
+* D. 「靜脈輸注 JSON 格式生理食鹽水 + 5% Syntactic Sugar，逐步校正血清程式碼和語法血醣」
 
 ---
 
