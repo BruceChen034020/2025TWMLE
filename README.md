@@ -917,7 +917,7 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 答案：D
 * 詳解：A、B、C都有特殊名詞括號英文，D選項的英文是cardiac muscle，顯然出題老師發現答案沒有括號英文太明顯，刻意加上（cardiac muscle）。雖然成癮相關看起來像後天疾病，但面對沒看過的病時，先/後天是最難用病明猜出來的病因。
 
-12.關於「早安早安症候群（Good Morning syndrome）」，下列敘述何者最正確？
+12. 關於「早安早安症候群（Good Morning syndrome）」，下列敘述何者最正確？
 * A. 大部分病人具有典型的triad：晨間咆哮、咖啡戒斷性頭痛、領帶過緊
 * B. 身體診察時在頸動脈可以聽到咕嚕聲（coffee percolation murmur）
 * C. 驗孕陽性時應安排電腦斷層進一步確定診斷
@@ -928,7 +928,7 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 答案：B
 * 詳解：「Triad」是國考高頻正確答案結構，且選項A描述具一致性，但「大部分病人」具有triad通常是錯的；選項C、D違反臨床常規（孕婦不能照CT／急救優先）。
 
-13.根據Dr. Fake和Dr. Mock之見解，四個原則的重要性依序為何？
+13. 根據Dr. Fake和Dr. Mock之見解，四個原則的重要性依序為何？
 ① 梗圖第一定律（優先考慮病患的幽默感）
 ② 流量正義原則（醫療資源依社群媒體聲量分配）
 ③ 廢文不傷害原則（避免發布低品質醫療建議）
