@@ -331,10 +331,10 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 50. Diverticulitis ([Amboss](https://next.amboss.com/us/article/_H05Gh))
 51. Sigmoid volvulus and cecal volvulus ([Amboss](https://next.amboss.com/us/article/9H0Nsh))
 52. Colorectal cancer ([Amboss](https://next.amboss.com/us/article/TS06_2))
-#### 內視鏡外科
-53. a
-54. a
-55. 
+#### 內視鏡外科 (猜題來源: 考古題)
+53. Laparoscopic surgery ([Amboss](https://next.amboss.com/us/article/B50zmg))
+54. Instruments and devices used in minimally invasive surgery ([UpToDate](https://www.uptodate.com/contents/instruments-and-devices-used-in-minimally-invasive-surgery))
+55. Overview of laparoscopy in children and adolescents ([UpToDate](https://www.uptodate.com/contents/overview-of-laparoscopy-in-children-and-adolescents))
 ### 骨科 (猜題來源: 臨床)
 #### 骨腫瘤
 56. Benign bone tumors ([Amboss](https://next.amboss.com/us/article/7Q04xf))
