@@ -985,7 +985,7 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 ---
 
 答案: C
-* 刪去「常見但無特殊抗冷痛-痙攣機制」的藥物（如 Morphine/Fentanyl），並選「最特別」的選項（Meperidine）。Meperidine 是臨床上少數被認可能治療術後顫抖的鴉片類藥物。
+* 刪去「常見但無特殊抗冷痛-痙攣機制」的藥物（如 Morphine/Fentanyl），並選「最特別」的選項（Meperidine）。Meperidine（Demerol） 是唯一兼具 μ-鴉片受體作用 和 抗膽鹼能（anticholinergic）特性 的麻醉藥，特別適用於武俠小說中的「寒冰掌症候群」（Frozen Palm Syndrome）的「間歇性冷痛痙攣」（Paroxysmal Cold Spasms）。
 
 #### 1. 關於蓮蓬頭骨髓炎（Showerhead osteomyelitis），何者正確？
 
