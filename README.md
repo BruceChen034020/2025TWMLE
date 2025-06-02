@@ -174,7 +174,7 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 30. Spinal muscular atrophy ([UpToDate](https://www.uptodate.com/contents/spinal-muscular-atrophy))
 31. Duchenne and Becker muscular dystrophy: Clinical features and diagnosis ([UpToDate](https://www.uptodate.com/contents/duchenne-and-becker-muscular-dystrophy-clinical-features-and-diagnosis))
 #### 兒科急診醫學科
-32. a
+32. Child abuse: Evaluation and diagnosis of abusive head trauma in infants and children ([UpToDate](https://www.uptodate.com/contents/child-abuse-evaluation-and-diagnosis-of-abusive-head-trauma-in-infants-and-children))
 #### 兒科醫學遺傳學及新陳代謝學科
 33. Inborn errors of metabolism ([Amboss](https://next.amboss.com/us/article/vR0AKf))
 ### 皮膚科 (猜題來源: 考古題)
