@@ -954,6 +954,39 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 答案：B
 * 詳解：有比較的選項是答案的機率大於1/4。
 
+15. Classic Tetris Monthly-associated brachioradialis and radial nerve degeneration (CTMABRND) 的首選治療是？
+* A. 物理治療
+* B. 化學治療
+* C. 放射治療
+* D. 手術治療
+
+---
+
+答案：A
+* 詳解：[良性疾病](https://en.wikipedia.org/wiki/User:Bruce_Chen_0010334/CTMABRND)的首選治療通常是非侵入非藥物治療，惡性疾病的首選治療通常是手術治療。
+
+16. 一名 25 歲患者因長期沉迷「元宇宙幻覺症」（Metaverse Psychosis）而出現嚴重現實感喪失，並合併「數位戒斷躁動」（Digital Withdrawal Agitation）。下列哪種麻醉藥最能有效控制其急性症狀？
+* A. Propofol
+* B. Midazolam
+* C. Ketamine
+* D. Fentanyl
+
+---
+
+答案：C
+* 詳解：刪去「非麻醉科常用藥物」（如 Midazolam 主要用於鎮靜），並選「最特別」的選項（Ketamine）。Ketamine有分離麻醉（dissociative anesthesia）特性，適用於元宇宙成癮合併「數位戒斷躁動」（Digital Withdrawal Agitation）。
+
+17. 一名 68 歲患者因罹患「寒冰掌症候群」（Frozen Palm Syndrome），出現嚴重的 「間歇性冷痛痙攣」（Paroxysmal Cold Spasms），並伴隨 「體溫調節中樞失調」。下列哪種麻醉性鎮痛藥（narcotic analgesic）最能有效緩解其 「冷痛-痙攣」雙重症狀？
+* A. Morphine
+* B. Fentanyl
+* C. Meperidine
+* D. Tramadol
+
+---
+
+答案: C
+* 刪去「常見但無特殊抗冷痛-痙攣機制」的藥物（如 Morphine/Fentanyl），並選「最特別」的選項（Meperidine）。Meperidine 是臨床上少數被認可能治療術後顫抖的鴉片類藥物。
+
 #### 1. 關於蓮蓬頭骨髓炎（Showerhead osteomyelitis），何者正確？
 
 * A. 多由沐浴時吸入含氟氣體造成
