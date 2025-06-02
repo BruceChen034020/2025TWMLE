@@ -984,8 +984,19 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 
 ---
 
-答案: C
-* 刪去「常見但無特殊抗冷痛-痙攣機制」的藥物（如 Morphine/Fentanyl），並選「最特別」的選項（Meperidine）。Meperidine（Demerol） 是唯一兼具 μ-鴉片受體作用 和 抗膽鹼能（anticholinergic）特性 的麻醉藥，特別適用於武俠小說中的「寒冰掌症候群」（Frozen Palm Syndrome）的「間歇性冷痛痙攣」（Paroxysmal Cold Spasms）。
+答案：C
+* 詳解：刪去「常見但無特殊抗冷痛-痙攣機制」的藥物（如 Morphine/Fentanyl），並選「最特別」的選項（Meperidine）。Meperidine（Demerol） 是唯一兼具 μ-鴉片受體作用 和 抗膽鹼能（anticholinergic）特性 的麻醉藥，特別適用於武俠小說中的「寒冰掌症候群」（Frozen Palm Syndrome）的「間歇性冷痛痙攣」（Paroxysmal Cold Spasms）。
+
+18. 一名 32 歲患者因長期「元宇宙工作症候群」導致 「虛擬肌腱溶解症」（Virtual Tendolysis），並出現 「觸覺延遲崩潰」（Haptic Lag Collapse）。下列哪種情況最適合接受 「量子肌腱重塑術」（Quantum Tendon Reconstruction, QTR）？
+* A. 「偶發性像素化疼痛」（Occasional Pixel Pain）
+* B. 「全息肌腱斷裂」合併「觸覺延遲＞500ms」，神經掃描顯示可量子修復
+* C. 「腦機接口完全剝離」合併「意識上傳失敗」
+* D. 「急性VR暈動症」合併「元宇宙過敏反應」
+
+---
+
+答案：B
+* 詳解：A → 症狀輕微，僅需「數位休息療法」（不夠嚴重，非手術適應症）。B → 符合「QTR」的 理想適應症（適合開刀，手術可解決問題）。C → 已進展至神經上傳層面損壞（太嚴重，超出肌腱手術範圍）。D → 手術可能引發「虛擬實境休克」（絕對禁忌症，需先控制過敏）。
 
 #### 1. 關於蓮蓬頭骨髓炎（Showerhead osteomyelitis），何者正確？
 
