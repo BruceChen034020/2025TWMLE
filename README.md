@@ -250,8 +250,8 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 #### 神經科急診
 78. Initial assessment and management of acute stroke ([UpToDate](https://www.uptodate.com/contents/initial-assessment-and-management-of-acute-stroke))
 ### 醫學倫理
-79. a
-80. 
+79. AI 醫療倫理：未來醫療的道德挑戰 ([寶血](https://rebloodgroup.com/medical-ethics/))
+80. 病人未親自就醫而醫師/醫療單位開立處方的倫理與法律問題 ([衛服部](https://service.mohw.gov.tw/MOHW_Upload/dmc_history/UpFile/Period03/%E7%97%85%E4%BA%BA%E6%9C%AA%E8%A6%AA%E8%87%AA%E5%B0%B1%E9%86%AB%E8%80%8C%E9%86%AB%E5%B8%AB%E9%86%AB%E7%99%82%E5%96%AE%E4%BD%8D%E9%96%8B%E7%AB%8B%E8%99%95%E6%96%B9%E7%9A%84%E5%80%AB%E7%90%86%E8%88%87%E6%B3%95%E5%BE%8B%E5%95%8F%E9%A1%8C.pdf)(pdf檔))
 
 
 
