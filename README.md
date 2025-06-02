@@ -945,7 +945,7 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 
 14. 有關「迷因腦病變（Meme encephalopathy）」之敘述，下列何者錯誤？
 * A. 在DSM-13中歸類為網路成癮疾病
-* B. 貓咪迷因存活率較狗狗迷因好
+* B. 貓咪迷因型存活率較狗狗迷因型好
 * C. 急性期常以狂笑性癲癇（LOL seizure）表現
 * D. 慢性期常以不斷重複播放同一影片（loop syndrome）表現
 
