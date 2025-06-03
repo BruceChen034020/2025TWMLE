@@ -1117,7 +1117,7 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 ---
 
 答案：D
-* 詳解：有比較的選項比較可能是答案。且，D對B才有可能對，D錯的話出題老師不容易掰出B選項。
+* 詳解：有比較的選項比較可能是答案。且，D對B才有可能對，D錯的話出題老師不容易掰出B選項。「數據消炎靈」肝毒性的機轉為特異體質反應（idiosyncratic），非劑量依賴。
 
 #### 1. 關於蓮蓬頭骨髓炎（Showerhead osteomyelitis），何者正確？
 
