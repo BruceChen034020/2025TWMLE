@@ -1108,7 +1108,7 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 答案：A
 * 詳解：不管甚麼病都適用的手術適應症三要素「結構損傷+功能障礙+技術可行」，僅A選項有功能障礙，很少有手術適應症切在正常值中間（D）。又，A選項的英文看起來是硬加上去的（題幹也有相同的詞卻沒括號英文），且僅A選項沒數字。
 
-29. 一位 32歲「元宇宙工程師」 因 「神經元過載熱」（Neural Overload Fever） 併發燒而接受下列藥物治療：「量子鎮痛素」（Quantumalgesic）、「數據消炎靈」（Datamox）、「代碼解熱錠」（Codepirin）、「演算法穩定劑」（Algoristatin）。一個月後抽血檢查發現 aspartate aminotransferase（AST）/alanine aminotransferase（ALT）：120/140（U/L），total bilirubin：0.9（mg/dL），肝功能其他項目仍在正常範圍內。下列敘述何者正確？
+29. 一位 32歲慢性B型肝炎帶原「元宇宙工程師」 因 「神經元過載熱」（Neural Overload Fever） 併發燒而接受下列藥物治療：「量子鎮痛素」（Quantumalgesic）、「數據消炎靈」（Datamox）、「代碼解熱錠」（Codepirin）、「演算法穩定劑」（Algoristatin）。一個月後抽血檢查發現 aspartate aminotransferase（AST）/alanine aminotransferase（ALT）：120/140（U/L），total bilirubin：0.9（mg/dL），肝功能其他項目仍在正常範圍內。下列敘述何者正確？
 * A. 應立即停止所有 「神經調節類」 藥物
 * B. 如同 acetaminophen，「數據消炎靈」 服用的劑量越大，肝的傷害也就越大
 * C. 口服類固醇可降低肝臟發炎，改善肝指數異常情形
