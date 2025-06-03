@@ -1179,6 +1179,17 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 答案：D
 * 詳解：指數成分題，先把每個選項翻成英文。PEACH Index 的每個字母都應對應一個項目的 英文首字母。A → Postprandial bloating ✔️。B → Electrogastrogram alteration ✔️。C → Aerobic capacity ✔️。但 選項D 的「Sympathetic overdrive」對不上任何 P.E.A.C.H. 的字母，因此是不符合的項目。同時還能套用「三短一長選最長」。
 
+34. 關於一些遺傳性的 浪漫代謝 disease（例如 愛戀症候群 Lovephilia）之敘述，下列何者最適當？
+* A. 愛戀症候群 disease 可以起因於 KISS1、OXTR 或 HEART2HEART 基因的突變
+* B. 目前發現的基因突變均屬於隱性（recessive）遺傳，因此個案數很少
+* C. 診斷 浪漫代謝 disease 後，如果 KISS1 酵素的活性 >15%，則可以診斷 愛戀症候群
+* D. 血中的 分離因子（Detachin） 濃度會上升，但 心碎酶（Heart-breakase） 抑制劑的治療效果通常不好，而需要使用 glucocorticoid 來治療
+
+---
+
+答案：A
+* 詳解：A 是「專有名詞三連發」的選項，根據「出題老師懶得創造太多假名詞」的法則，A 的可信度高。B 的「均屬於隱性」太武斷且與後面「個案很少」因果關係薄弱，是常見錯選項寫法。C 基因突變酵素活性降低才有病，如果 KISS1 酵素的活性 <15%，則可以診斷 愛戀症候群。D 通常是老藥/便宜藥治療效果不好用新藥，很少反過來的；🧪心碎酶（Heart-breakase）催化的反應式：💔 情緒連結素（Emotinogen） →（經由心碎酶）→ 悲傷素（Sadnase） + 分離因子（Detachin），其中心碎酶抑制劑治療有效；若無效，它就沒機會出現在課本中，也沒機會出現在考題中。
+
 #### 1. 關於蓮蓬頭骨髓炎（Showerhead osteomyelitis），何者正確？
 
 * A. 多由沐浴時吸入含氟氣體造成
