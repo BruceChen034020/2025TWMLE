@@ -965,7 +965,7 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 答案：A
 * 詳解：[良性疾病](https://en.wikipedia.org/wiki/User:Bruce_Chen_0010334/CTMABRND)的首選治療通常是非侵入非藥物治療，惡性疾病的首選治療通常是手術治療。
 
-16. 一名 25 歲患者因長期沉迷「元宇宙幻覺症」（Metaverse Psychosis）而出現嚴重現實感喪失，並合併「數位戒斷躁動」（Digital Withdrawal Agitation）。下列哪種麻醉藥最能有效控制其急性症狀？
+16. 一名 25 歲患者因長期沉迷「元宇宙幻覺症」（Metaverse Psychosis）而出現嚴重現實感喪失，並合併「數位戒斷躁動」（Digital Withdrawal Agitation）和全身痛。下列哪種麻醉藥最能有效止痛並控制其急性症狀？
 * A. Propofol
 * B. Midazolam
 * C. Ketamine
@@ -974,7 +974,7 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 ---
 
 答案：C
-* 詳解：刪去「非麻醉科常用藥物」（如 Midazolam 主要用於鎮靜），並選「最特別」的選項（Ketamine）。Ketamine有分離麻醉（dissociative anesthesia）特性，適用於元宇宙成癮合併「數位戒斷躁動」（Digital Withdrawal Agitation）。
+* 詳解：刪去「非止痛藥物」（如 Midazolam 主要用於鎮靜），並選「最特別」的選項（Ketamine）。Ketamine有分離麻醉（dissociative anesthesia）特性，適用於元宇宙成癮合併「數位戒斷躁動」（Digital Withdrawal Agitation）。
 
 17. 一名 68 歲患者因罹患「寒冰掌症候群」（Frozen Palm Syndrome），出現嚴重的 「間歇性冷痛痙攣」（Paroxysmal Cold Spasms），並伴隨 「體溫調節中樞失調」。下列哪種麻醉性鎮痛藥（narcotic analgesic）最能有效緩解其 「冷痛-痙攣」雙重症狀？
 * A. Morphine
