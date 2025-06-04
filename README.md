@@ -2519,4 +2519,4 @@ https://brucechen034020.github.io/MedicalSituationPuzzle/
 ```
 
 ## 智慧財產權
-您可以用私訊、限朋友之貼文、摯友限時動態分享本網頁連結或本網站中其他連結，但不可以在公開場域分享本網站內容或連結，分享對象限醫學系學生，不能被臨床老師看到。本網站適用[Modified Bruce Copyright Liscense 3.0](https://brucechen034020.github.io/IHSCA/Copyright#%E5%90%88%E7%B4%84%E5%85%A7%E5%AE%B9-4)。
+您可以用私訊、限朋友之貼文、摯友限時動態分享本網頁連結或本網站中其他連結，但不可以在公開場域分享本網站內容或連結，分享對象限醫學系學生，不能被臨床老師看到。本網站適用[Modified Bruce Copyright License 3.0](https://brucechen034020.github.io/IHSCA/Copyright#%E5%90%88%E7%B4%84%E5%85%A7%E5%AE%B9-4)。
