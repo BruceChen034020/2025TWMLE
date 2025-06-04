@@ -8,7 +8,7 @@
 UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 ## 醫學(三)
 ### 　 內科
-#### 　　一般內科 (猜題來源: 考古題)
+#### 　　一般內科 (猜題來源: 考古題) 0351
 1. Treatment and prevention of hyperkalemia in adults ([UpToDate](https://www.uptodate.com/contents/treatment-and-prevention-of-hyperkalemia-in-adults))
 2. Diagnostic approach to hypercalcemia ([UpToDate](https://www.uptodate.com/contents/diagnostic-approach-to-hypercalcemia))
 3. Diagnostic approach to the adult with jaundice or asymptomatic hyperbilirubinemia ([UpToDate](https://www.uptodate.com/contents/diagnostic-approach-to-the-adult-with-jaundice-or-asymptomatic-hyperbilirubinemia))
