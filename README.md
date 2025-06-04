@@ -8,12 +8,7 @@
 UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 ## 醫學(三)
 ### 　 內科
-#### 　　一般內科 (猜題來源: 考古題) 0354
-1. Treatment and prevention of hyperkalemia in adults ([UpToDate](https://www.uptodate.com/contents/treatment-and-prevention-of-hyperkalemia-in-adults))
-2. Diagnostic approach to hypercalcemia ([UpToDate](https://www.uptodate.com/contents/diagnostic-approach-to-hypercalcemia))
-3. Diagnostic approach to the adult with jaundice or asymptomatic hyperbilirubinemia ([UpToDate](https://www.uptodate.com/contents/diagnostic-approach-to-the-adult-with-jaundice-or-asymptomatic-hyperbilirubinemia))
-4. Evaluation of hematuria in adults ([UpToDate](https://www.uptodate.com/contents/evaluation-of-hematuria-in-adults))
-5. Approach to the patient with dyspnea ([UpToDate](https://www.uptodate.com/contents/approach-to-the-patient-with-dyspnea))
+
 <!-- 
 #### 　　一般內科 (猜題來源: 臨床)
 1. Stress ulcers in the intensive care unit: Diagnosis, management, and prevention ([UpToDate](https://www.uptodate.com/contents/stress-ulcers-in-the-intensive-care-unit-diagnosis-management-and-prevention))
@@ -22,6 +17,13 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 4. Maintenance and replacement fluid therapy in adults ([UpToDate](https://www.uptodate.com/contents/maintenance-and-replacement-fluid-therapy-in-adults))
 5. Use of vasopressors and inotropes ([UpToDate](https://www.uptodate.com/contents/use-of-vasopressors-and-inotropes)) 
 -->
+
+#### 　　一般內科 (猜題來源: 考古題) 0358
+1. Treatment and prevention of hyperkalemia in adults ([UpToDate](https://www.uptodate.com/contents/treatment-and-prevention-of-hyperkalemia-in-adults))
+2. Diagnostic approach to hypercalcemia ([UpToDate](https://www.uptodate.com/contents/diagnostic-approach-to-hypercalcemia))
+3. Diagnostic approach to the adult with jaundice or asymptomatic hyperbilirubinemia ([UpToDate](https://www.uptodate.com/contents/diagnostic-approach-to-the-adult-with-jaundice-or-asymptomatic-hyperbilirubinemia))
+4. Evaluation of hematuria in adults ([UpToDate](https://www.uptodate.com/contents/evaluation-of-hematuria-in-adults))
+5. Approach to the patient with dyspnea ([UpToDate](https://www.uptodate.com/contents/approach-to-the-patient-with-dyspnea))
 #### 心臟內科 (猜題來源: 考古題)
 ##### 缺血性心臟病
 6. Atherosclerotic cardiovascular disease risk assessment for primary prevention in adults ([UpToDate](https://www.uptodate.com/contents/atherosclerotic-cardiovascular-disease-risk-assessment-for-primary-prevention-in-adults))
