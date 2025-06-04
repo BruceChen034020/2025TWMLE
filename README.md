@@ -1199,6 +1199,17 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 答案：A
 * 詳解：A 是「專有名詞三連發」的選項，根據「出題老師懶得創造太多假名詞」的法則，A 的可信度高。B 的「均屬於隱性」太武斷且與後面「個案很少」因果關係薄弱，是常見錯選項寫法。C 基因突變酵素活性降低才有病，如果 KISS1 酵素的活性 <15%，則可以診斷 愛戀症候群。D 通常是老藥/便宜藥治療效果不好用新藥，很少反過來的；🧪心碎酶（Heart-breakase）催化的反應式：💔 情緒連結素（Emotinogen） →（經由心碎酶）→ 悲傷素（Sadnase） + 分離因子（Detachin），其中心碎酶抑制劑治療有效，糖皮質激素（glucocorticoid） 僅用於急性症狀控制；若新藥無效，它就沒機會出現在課本中，也沒機會出現在考題中。
 
+35. 馬凡氏症候群（Marfan Syndrome）骨骼系統表現 包括蜘蛛樣指（arachnodactyly）和胸廓畸形。馬凡氏症候群最常見之基因突變密碼（mutated codon）是下列何者？
+* A. FBN1 C1170Y
+* B. HFE C282Y
+* C. FBN1 C1249Y
+* D. FBN1 C1320Y
+
+---
+
+答案：C
+* 詳解：只知道是FBN1，但FBN1有3個選項，甚至都看起來像fibrillin cysteine-rich區域。一看就沒有要讓你答對的點位題，類推適用數值題。數值題中取中間，併發症往重裡判。只有1249是cysteine，其他2個選項瞎掰，HFE C282Y是遺傳性血色沉著症（Hereditary Hemochromatosis）的最常見點突變。
+
 #### 1. 關於蓮蓬頭骨髓炎（Showerhead osteomyelitis），何者正確？
 
 * A. 多由沐浴時吸入含氟氣體造成
