@@ -47,14 +47,15 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 25. Overview of heavy proteinuria and the nephrotic syndrome ([UpToDate](https://www.uptodate.com/contents/overview-of-heavy-proteinuria-and-the-nephrotic-syndrome))
 26. Overview of the management of chronic kidney disease in adults ([UpToDate](https://www.uptodate.com/contents/overview-of-the-management-of-chronic-kidney-disease-in-adults))
 27. Dialysis modality and patient outcome ([UpToDate](https://www.uptodate.com/contents/dialysis-modality-and-patient-outcome))
-28. Approach to the adult with metabolic acidosis ([UpToDate](https://www.uptodate.com/contents/approach-to-the-adult-with-metabolic-acidosis))
-29. Diagnostic evaluation of adults with hyponatremia ([UpToDate](https://www.uptodate.com/contents/diagnostic-evaluation-of-adults-with-hyponatremia))
+28. Diabetic kidney disease: Manifestations, evaluation, and diagnosis ([UpToDate](https://www.uptodate.com/contents/diabetic-kidney-disease-manifestations-evaluation-and-diagnosis))
+29. Autosomal dominant polycystic kidney disease (ADPKD) in adults: Epidemiology, clinical presentation, and diagnosisemia ([UpToDate](https://www.uptodate.com/contents/autosomal-dominant-polycystic-kidney-disease-adpkd-in-adults-epidemiology-clinical-presentation-and-diagnosis))
 30. Kidney stones in adults: Prevention of recurrent kidney stones ([UpToDate](https://www.uptodate.com/contents/kidney-stones-in-adults-prevention-of-recurrent-kidney-stones))
-#### 過敏免疫風濕科 (猜題來源: 臨床)
+#### 過敏免疫風濕科 (猜題來源: 考古題)
+##### Immunodeficiency diseases
+31. Human immunodeficiency syndromes ([Janeway's Immunobiology](內部/原文書/))
+32. Defects in complement-control proteins and phagocytic cells ([Janeway's Immunobiology](內部/原文書/))
 ##### 結締組織病
-31. Systemic lupus erythematosus in adults: Clinical manifestations and diagnosis ([UpToDate](https://www.uptodate.com/contents/systemic-lupus-erythematosus-in-adults-clinical-manifestations-and-diagnosis))
-32. Clinical manifestations and diagnosis of systemic sclerosis (scleroderma) in adults ([UpToDate](https://www.uptodate.com/contents/clinical-manifestations-and-diagnosis-of-systemic-sclerosis-scleroderma-in-adults))
-33. Overview of the management and prognosis of Sjögren's disease ([UpToDate](https://www.uptodate.com/contents/overview-of-the-management-and-prognosis-of-sjogrens-disease))
+33. Systemic lupus erythematosus in adults: Clinical manifestations and diagnosis ([UpToDate](https://www.uptodate.com/contents/systemic-lupus-erythematosus-in-adults-clinical-manifestations-and-diagnosis))
 ##### 關節炎
 34. Diagnosis and differential diagnosis of rheumatoid arthritis ([UpToDate](https://www.uptodate.com/contents/diagnosis-and-differential-diagnosis-of-rheumatoid-arthritis))
 35. Overview of the clinical manifestations and classification of spondyloarthritis ([UpToDate](https://www.uptodate.com/contents/overview-of-the-clinical-manifestations-and-classification-of-spondyloarthritis))
