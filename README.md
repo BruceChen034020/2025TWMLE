@@ -58,7 +58,7 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 33. Systemic lupus erythematosus in adults: Clinical manifestations and diagnosis ([UpToDate](https://www.uptodate.com/contents/systemic-lupus-erythematosus-in-adults-clinical-manifestations-and-diagnosis))
 ##### 關節炎
 34. Diagnosis and differential diagnosis of rheumatoid arthritis ([UpToDate](https://www.uptodate.com/contents/diagnosis-and-differential-diagnosis-of-rheumatoid-arthritis))
-35. Overview of the clinical manifestations and classification of spondyloarthritis ([UpToDate](https://www.uptodate.com/contents/overview-of-the-clinical-manifestations-and-classification-of-spondyloarthritis))
+35. Overview of the management of osteoarthritis ([UpToDate](https://www.uptodate.com/contents/overview-of-the-management-of-osteoarthritis))
 #### 腫瘤科 (猜題來源: 臨床)
 36. Overview of the classification and management of cancers of unknown primary site ([UpToDate](https://www.uptodate.com/contents/overview-of-the-classification-and-management-of-cancers-of-unknown-primary-site))
 37. Overview of the treatment of newly diagnosed, invasive, non-metastatic breast cancer ([UpToDate](https://www.uptodate.com/contents/overview-of-the-treatment-of-newly-diagnosed-invasive-non-metastatic-breast-cancer))
