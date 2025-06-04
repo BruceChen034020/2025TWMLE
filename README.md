@@ -52,8 +52,8 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 30. Kidney stones in adults: Prevention of recurrent kidney stones ([UpToDate](https://www.uptodate.com/contents/kidney-stones-in-adults-prevention-of-recurrent-kidney-stones))
 #### 過敏免疫風濕科 (猜題來源: 考古題)
 ##### Immunodeficiency diseases
-31. Human immunodeficiency syndromes ([Janeway's Immunobiology](內部/原文書/Kenneth Murphy,%20Casey Weaver%20-%20Janeway’s%20Immunobiology-Garland%20Science%20(2016)%20(1).pdf)(pdf檔))
-32. Defects in complement-control proteins and phagocytic cells ([Janeway's Immunobiology](內部/原文書/Kenneth Murphy,%20Casey Weaver%20-%20Janeway’s%20Immunobiology-Garland%20Science%20(2016)%20(2).pdf)(pdf檔))
+31. Human immunodeficiency syndromes ([Janeway's Immunobiology](內部/原文書/Kenneth%20Murphy,%20Casey%20Weaver%20-%20Janeway’s%20Immunobiology-Garland%20Science%20(2016)%20(1).pdf)(pdf檔))
+32. Defects in complement-control proteins and phagocytic cells ([Janeway's Immunobiology](內部/原文書/Kenneth%20Murphy,%20Casey%20Weaver%20-%20Janeway’s%20Immunobiology-Garland%20Science%20(2016)%20(2).pdf)(pdf檔))
 ##### 結締組織病
 33. Systemic lupus erythematosus in adults: Clinical manifestations and diagnosis ([UpToDate](https://www.uptodate.com/contents/systemic-lupus-erythematosus-in-adults-clinical-manifestations-and-diagnosis))
 ##### 關節炎
