@@ -140,7 +140,7 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 ## 醫學(四)
 ### 　 小兒科 (猜題來源: 考古題)
 #### 　　一般兒科
-1. Overview of enteral nutrition in infants and children ([UpToDate](https://www.uptodate.com/contents/overview-of-enteral-nutrition-in-infants-and-children))
+1. Infant nutrition and breastfeeding ([Amboss](https://next.amboss.com/us/article/N80-53))
 2. Normal growth patterns in infants and prepubertal children ([UpToDate](https://www.uptodate.com/contents/normal-growth-patterns-in-infants-and-prepubertal-children))
 #### 新生兒科
 3. Overview of TORCH infections ([UpToDate](https://www.uptodate.com/contents/overview-of-torch-infections))
