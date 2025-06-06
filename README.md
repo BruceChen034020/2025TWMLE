@@ -1210,6 +1210,17 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 答案：C
 * 詳解：只知道是FBN1，但FBN1有3個選項，甚至都看起來像fibrillin cysteine-rich區域。一看就沒有要讓你答對的點位題，類推適用數值題。數值題中取中間，併發症往重裡判。只有1249是cysteine，其他2個選項瞎掰，HFE C282Y是遺傳性血色沉著症（Hereditary Hemochromatosis）的最常見點突變。
 
+<!-- 36. 血液中的 *Preciousella* *fragilella* 會主動透過各種機制控制宿主環境使其符合它的需求（體溫=37.0000000°C、血氧飽和度100.0000000%、pH值7.40000000、血鈉140.0000000mEq/L、血氯100.0000000mEq/L），因此大流行時全國的代謝性酸中毒、缺氧、低血鈉等的發生率會趨近於。下列敘述何者最適當？
+* A. *Preciousella* *fragilella* serovar A 的潛伏期約為15～19天
+* B. *Preciousella* *fragilella* serovar B 的潛伏期約為30天
+* C. *Preciousella* *fragilella* serovar C 的潛伏期約為7天
+* D. *Preciousella* *fragilella* serovar E 的潛伏期約為90天
+
+---
+
+答案：A
+* 詳解： -->
+
 #### 1. 關於蓮蓬頭骨髓炎（Showerhead osteomyelitis），何者正確？
 
 * A. 多由沐浴時吸入含氟氣體造成
