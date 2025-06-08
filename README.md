@@ -572,6 +572,7 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 3. In vitro fertilization: Overview of clinical issues and questions ([UpToDate](https://www.uptodate.com/contents/in-vitro-fertilization-overview-of-clinical-issues-and-questions#H963856634))
 #### 小更新
 4.  Management of early-stage cervical cancer ([UpToDate](https://www.uptodate.com/contents/management-of-early-stage-cervical-cancer?sectionName=Type%20of%20surgery&topicRef=16722&anchor=H886761283&source=see_link#H886761283))
+5.  Inhibition of acute preterm labor ([UpToDate](https://www.uptodate.com/contents/inhibition-of-acute-preterm-labor#H2716998984))
 
 ### 小兒科新知
 #### 政策趨勢
