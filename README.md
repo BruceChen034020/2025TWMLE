@@ -850,7 +850,7 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 答案：C
 * 詳解：三長一短取最短，三短一長選最長。
 
-5. 下列哪項治療能最有效清除體內COVID-35-Pro-Max細菌感染？
+5. 下列哪項治療能最有效清除體內局部COVID-35-Pro-Max繼發細菌感染？
 * A. Vancomycin and metronidazole 
 * B. Trimethoprime and sulfamethuxazole
 * C. Clindamycin and doxycycline 
