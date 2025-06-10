@@ -272,7 +272,7 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 3. Wound treatment ([Amboss](https://next.amboss.com/us/article/ph0LUf))
 4. Complications of laparoscopic surgery ([UpToDate](https://www.uptodate.com/contents/complications-of-laparoscopic-surgery))
 5. Transplantation ([Amboss](https://next.amboss.com/us/article/gn0Fsg))
-6. Overview of prehabilitation for surgical patients ([UpToDate](https://www.uptodate.com/contents/overview-of-prehabilitation-for-surgical-patients))
+6. Specialized nutrition support ([Amboss](https://next.amboss.com/us/article/7L04_g))
 7. Maintenance and replacement fluid therapy in adults ([UpToDate](https://www.uptodate.com/contents/maintenance-and-replacement-fluid-therapy-in-adults))
 #### 神經外科 (猜題來源: 臨床)
 ##### 神經腫瘤
