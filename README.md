@@ -1074,7 +1074,18 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 答案：B
 * 詳解：最具診斷價值的發現通常選最高級的檢查，否則沒價值就不會有醫師開那麼貴的檢查。影像變化可能為次發性。
 
-25. 一名 25 歲「AI 聊天機器人訓練師」因長期優化對話模型，出現 「人工情感反饋失調症」（Artificial Affective Feedback Disorder, AAFD），主要症狀為 「無法區分人類與 AI 的情感表達」。下列治療何者最有效？
+24. 承上題，該病人經腦部核磁共振檢查發現有 level 3 前額葉像素化（Prefrontal Pixelation）和雙側海馬回硬化（hippocampus sclerosis）。對此病人不建議採用下列何種治療？
+* A. 迷走神經刺激術（vagus nerve stimulation）
+* B. 深腦刺激術（deep brain stimulation）
+* C. 雙側顳葉切除（modified bilateral temporal lobectomy）
+* D. 反應式神經刺激術（responsive neurostimulation）
+
+---
+
+答案：C
+* 詳解：選最不一樣的答案。
+
+26. 一名 25 歲「AI 聊天機器人訓練師」因長期優化對話模型，出現 「人工情感反饋失調症」（Artificial Affective Feedback Disorder, AAFD），主要症狀為 「無法區分人類與 AI 的情感表達」。下列治療何者最有效？
 * A. 「靜脈注射 GPT-4 中和抗體」
 * B. 「認知行為療法（CBT）強化人機辨識訓練」
 * C. 「永久禁用所有 AI 互動」
