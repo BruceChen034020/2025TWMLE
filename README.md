@@ -853,7 +853,7 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 5. 下列哪項治療能最有效清除體內局部COVID-35-Pro-Max繼發細菌感染？
 * A. Vancomycin and metronidazole 
 * B. Trimethoprime and sulfamethuxazole
-* C. Clindamycin and doxycycline 
+* C. Meropenem and teicoplanin
 * D. Incision and drainage
 
 ---
