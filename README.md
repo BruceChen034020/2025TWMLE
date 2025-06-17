@@ -806,16 +806,16 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 
 ### 🧪 醫師國考選擇題猜答案練習考卷（一）
 
-<!-- 1. 下列關於台北榮總撞牆症的敘述何者錯誤？
-* A. 常合併台大醫院騎機車症
-* B. 不常合併星期日林口長庚醫院症
-* C. 是暗黑血症（darknessemia）的常見併發症
+1. 有關台北榮總撞牆症（Taipei Veterans General Hospital Wall-Collision Syndrome）,下列敘述何者最不適當?
+* A. 常合併台大醫院騎機車症（National Taiwan University Hospital Scooter-Riding Syndrome）
+* B. 不常合併星期日林口長庚醫院症（Sunday Linkou Chang Gung Syndrome）
+* C. 是暗黑血症（Darknessemia）的常見併發症
 * D. 可能由暗黑界人士散播造成大規模流行
 
 ---
 
 答案：B
-* 詳解： 把肯定句改成否定句較容易，創造新的名詞或關聯較困難，因此可以合理推論B選項是被改過的敘述。「台北榮總撞牆症」、「台大醫院騎機車症」、「星期日林口長庚症」是某個triad，是暗黑血症的併發症，可能造成大規模流行，出題老師把課本敘述中的「常合併」改成「不常合併」，其他選項都是課本上的敘述，故B錯。雖然C選項有英文，比較特殊，但這在臺灣醫師國考中猜答案重要性不如否定句。 -->
+* 詳解：題目是否定句的問法,否定句的選項通常是答案。把肯定句改成否定句較容易，創造新的名詞或關聯較困難，因此可以合理推論B選項是被改過的敘述。「台北榮總撞牆症」、「台大醫院騎機車症」、「星期日林口長庚症」是某個triad，是暗黑血症的併發症，可能造成大規模流行，出題老師把課本敘述中的「常合併」改成「不常合併」，其他選項都是課本上的敘述，故B錯。
 
 2. 下列情形何者較不符合大宇宙能量萎縮症（Cosmic Energy Atrophy）的臨床表現？
 * A. 病人往往覺得動感超人讓他堅強富國
@@ -1331,7 +1331,29 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 答案：A
 * 詳解：其他三個選項都在講疫苗可以怎麼打（還有「建議」這種模擬兩可的字眼），只有A在比較。
 
+填空
 
+46. 下列何種疾病較不會導致「全息腎衰竭」（Holographic Nephropathy）？		
+*	A. 	川崎氏症（Kawasaki disease）
+*	B. 	鏈球菌咽喉炎（Streptococcal pharyngitis）
+*	C. 	過敏性紫斑症（Henoch-Schonlein purpura）
+*	D. 	囊狀纖維化（Cystic fibrosis）
+
+---
+
+答案：D
+*	詳解：選最不一樣的選項。3個有發炎1個沒有。
+
+#### (醫學六) 42. 大約多少比例的 「全息妊娠症」（Holographic Pregnancy Syndrome） 患者，在懷孕期間會出現 「量子胎盤功能異常」（Quantum Placental Dysfunction）？
+* A. 5%
+* B. 10%
+* C. 15%
+* D. 20%
+
+---
+
+答案：B
+* 詳解：數值題，大科猜第2不可怕的（併發症機率第2低、死亡率第2低、預後指標threshold生化值減損幅度第2高、安全劑量第2高），小科猜第2可怕的（併發症機率第2高、死亡率第2高、預後指標threshold生化值減損幅度第2低、安全劑量第2低）。醫學六第42題是婦產科，大科，最不可怕的是5%，第2不可怕的是10%。醫學考試中，10-20% 是「合併症發生率」的高頻答案區間。極端值（5% 或 30%+）通常為干擾項。
 
 #### 1. 關於蓮蓬頭骨髓炎（Showerhead osteomyelitis），何者正確？
 
