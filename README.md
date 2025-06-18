@@ -485,7 +485,7 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 #### 神經
 58. Overview of stroke ([Amboss](https://next.amboss.com/us/article/UR0bmf))
 59. Traumatic brain injury ([Amboss](https://next.amboss.com/us/article/eR0xNf))
-60. Spinal cord injuries ([Amboss](https://next.amboss.com/us/article/Wi0Pqf))
+60. 各節脊椎受傷預後 ([考古豹](https://cougarbot.cc/question-view/17640/))
 61. Peripheral nerve injuries ([Amboss](https://next.amboss.com/us/article/Zi0ZJf))
 #### 骨關
 62. Sports injuries ([Amboss](https://next.amboss.com/us/article/AM0Rrg))
