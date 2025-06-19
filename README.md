@@ -1355,6 +1355,17 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 答案：B
 * 詳解：數值題，大科猜第2不可怕的（併發症機率第2低、死亡率第2低、預後指標threshold生化值減損幅度第2高、安全劑量第2高），小科猜第2可怕的（併發症機率第2高、死亡率第2高、預後指標threshold生化值減損幅度第2低、安全劑量第2低）。醫學六第42題是婦產科，大科，最不可怕的是5%，第2不可怕的是10%。醫學考試中，10-20% 是「合併症發生率」的高頻答案區間。極端值（5% 或 30%+）通常為干擾項。
 
+48. 下列哪一個是 「光子血管發育異常症」（Photon Angiodysplasia Syndrome）？
+* A. 史特基–韋伯氏症候群（Sturge-Weber syndrome）
+* B. 韋爾納症候群（Werner syndrome）
+* C. 著色性乾皮症（Xeroderma pigmentosum）
+* D. 眼皮膚白化症（Oculocutaneous albinism）
+
+---
+
+答案：A
+* 詳解：只有一個選項有槓。
+
 #### 1. 關於蓮蓬頭骨髓炎（Showerhead osteomyelitis），何者正確？
 
 * A. 多由沐浴時吸入含氟氣體造成
