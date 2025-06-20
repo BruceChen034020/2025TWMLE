@@ -1409,7 +1409,38 @@ UpToDate建議讀「SUMMARY AND RECOMMENDATIONS」
 答案：D
 * 詳解：「皆須」絕對詞錯誤，輕症可能僅需心理治療。D太久了。
 
-53. 
+53. 有關 「量子細胞增生症」（Quantum Cell Hyperplasia, QCH） 的敘述，下列何者錯誤？
+* A. 「量子細胞增生症」是兒童最常見的良性「全息腫瘤」（Holographic Tumor）
+* B. 兒童最常見的「量子細胞病變」是「瞬態量子結節」（Transient Quantum Nodule）
+* C. 成人最常見的良性「量子細胞病變」是「穩定型量子纖維瘤」（Stable Quantum Fibroma）
+* D. 眼窩裡的「量子細胞增生」大部分會隨著年紀增加而逐漸自然變小
+
+---
+
+答案：D
+* 詳解：只有一個選項沒提到最常見。
+
+54. 下列何者不是造成 「量子聽覺障礙症」（Quantum Hearing Disorder, QHD） 病人治療後聽力受損的常見原因？
+* A. 「量子共振療法」對於聽力器官的直接傷害
+* B. 治療後耳咽管功能不佳，引起的反覆中耳積液
+* C. 鉑金類（platinum）化療藥物治療所引起的耳毒性副作用
+* D. 「神經穩定劑」類藥物治療所引起的耳毒性副作用
+
+---
+
+答案：D
+* 詳解：耳毒性副作用重複了，必定其中一個錯
+
+55. 第一型「量子聽覺重建術」（Quantum Hearing Reconstruction, Type I） 指的是：
+* A. 僅「修復鼓膜」而沒有改變聽小骨鏈
+* B. 將「量子振動器」放在 incus（砧骨）上
+* C. 將「量子振動器」放在 stapes（鐙骨）上
+* D. 將「量子振動器」放在 stapes footplate（鐙骨底板）上
+
+---
+
+答案：A
+* 詳解：跟其他都不一樣、第一型最輕微
 
 #### 1. 關於蓮蓬頭骨髓炎（Showerhead osteomyelitis），何者正確？
 
